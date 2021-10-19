@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-19T01:29:05.841Z</id>
+    <id>https://youmix.github.io/sample/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-19T01:29:05.841Z</updated>
+    <updated>2021-10-19T01:30:18.025Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://youmix.github.io/sample/index.html"/>
+    <link rel="self" href="https://youmix.github.io/sample/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[神経科学で解明「記憶」の疑問5つ／ひっそりと浸透する「AI声優」]]></title>
         <id>https://ascii.jp/elem/000/004/072/4072253/?rss</id>
