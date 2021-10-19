@@ -1,4 +1,5 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# cacheUrl: https://GITHUB_USERNAME.github.io/myrss/cache.json
+cacheUrl: https://youmix.github.io/sample/cache.json
 sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCOOt1AsvDZoav6XjN6Tly1g
   - href: https://ascii.jp/rss.xml
