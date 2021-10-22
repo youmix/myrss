@@ -1,7 +1,7 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/myrss/cache.json
 cacheUrl: https://youmix.github.io/sample/cache.json
 sources:
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCOOt1AsvDZoav6XjN6Tly1g
+  - href: https://news.google.com/rss/search?hl=ja&gl=JP&q=web&ceid=JP:ja
   - href: https://ascii.jp/rss.xml
   - href: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
   - href: https://www.publickey1.jp/atom.xml
