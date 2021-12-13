@@ -6,211 +6,292 @@
       "siteUrl": "https://news.google.com/search?hl=ja&gl=JP&q=web&ceid=JP:ja",
       "articles": [
         {
+          "id": "CBMiImh0dHBzOi8vd3d3LmdpZnUtbnAuY28uanAvdWQvc291bXXSAQA",
+          "author": null,
+          "description": "総務局  岐阜新聞",
+          "link": "https://www.gifu-np.co.jp/ud/soumu",
+          "publishedOn": "2021-12-13T01:07:20.000Z",
+          "wordCount": 209,
+          "title": "総務局 - 岐阜新聞"
+        },
+        {
+          "id": "CBMiJWh0dHBzOi8vd3d3LmF0cHJlc3MubmUuanAvbmV3cy8yODkwNjfSASlodHRwczovL3d3dy5hdHByZXNzLm5lLmpwL25ld3MvMjg5MDY3L2FtcA",
+          "author": null,
+          "description": "りらすくWEBムービー「WhatisCBD？」篇を公開  アットプレス（プレスリリース）",
+          "link": "https://www.atpress.ne.jp/news/289067",
+          "publishedOn": "2021-12-13T00:31:08.000Z",
+          "wordCount": 218,
+          "title": "りらすくWEBムービー「WhatisCBD？」篇を公開 - アットプレス（プレスリリース）"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEyLzIwMl8xMl9yXzIwMjExMjEzXzE2MzkzNTM4MzIxNDQxNjXSAQA",
+          "author": null,
+          "description": "渋野日向子は６９で２０位 来季出場権獲得に安ど「日に日にプレッシャーと闘って、自分で追い詰めて」  auone.jp",
+          "link": "https://article.auone.jp/detail/1/6/12/202_12_r_20211213_1639353832144165",
+          "publishedOn": "2021-12-13T00:02:00.000Z",
+          "wordCount": 138,
+          "title": "渋野日向子は６９で２０位 来季出場権獲得に安ど「日に日にプレッシャーと闘って、自分で追い詰めて」 - auone.jp"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lZDcwZGVkMTllZGE1ZjU5ODk4Zjk4YmU5ODgxN2I1ZGI5YzU5Y2Yw0gEA",
+          "author": null,
+          "description": "歴史的展開でペレスがいぶし銀のサポート。鬼ブロック＆懸命の抵抗で「ルイスの時間を稼ぐことができ、結果的にレースを大きく左右した」（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/ed70ded19eda5f59898f98be98817b5db9c59cf0",
+          "publishedOn": "2021-12-13T00:00:11.000Z",
+          "wordCount": 137,
+          "title": "歴史的展開でペレスがいぶし銀のサポート。鬼ブロック＆懸命の抵抗で「ルイスの時間を稼ぐことができ、結果的にレースを大きく左右した」（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjAyXzlfcl8yMDIxMTIxM18xNjM5MzUwNjMxNjU4MjM00gEA",
+          "author": null,
+          "description": "カズレーザー めざまし8を欠席  auone.jp",
+          "link": "https://article.auone.jp/detail/1/5/9/202_9_r_20211213_1639350631658234",
+          "publishedOn": "2021-12-12T23:09:00.000Z",
+          "wordCount": 127,
+          "title": "カズレーザー めざまし8を欠席 - auone.jp"
+        },
+        {
+          "id": "CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xMjc5MTQ5L9IBAA",
+          "author": null,
+          "description": "デスクに設置してWeb会議の音漏れを軽減できるコクヨの卓上型テレワークブース「QUNON」｜  @DIME",
+          "link": "https://dime.jp/genre/1279149/",
+          "publishedOn": "2021-12-12T22:54:52.000Z",
+          "wordCount": 179,
+          "title": "デスクに設置してWeb会議の音漏れを軽減できるコクヨの卓上型テレワークブース「QUNON」｜ - @DIME"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjEvMTIvaGVhZHJvb20tbGF1bmNoZXMtdG8tY29tYmF0LXpvb20tZmF0aWd1ZS13aXRoLWFp0gEA",
+          "author": null,
+          "description": "Zoom疲れを解消？ Web会議ツール「Headroom」公開——時間⅒のまとめ動画作成、将来は決定事項の自動回答も  THE BRIDGE,Inc. / 株式会社THE BRIDGE",
+          "link": "https://thebridge.jp/2021/12/headroom-launches-to-combat-zoom-fatigue-with-ai",
+          "publishedOn": "2021-12-12T22:16:33.000Z",
+          "wordCount": 938,
+          "title": "Zoom疲れを解消？ Web会議ツール「Headroom」公開——時間⅒のまとめ動画作成、将来は決定事項の自動回答も - THE BRIDGE,Inc. / 株式会社THE BRIDGE"
+        },
+        {
+          "id": "CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjE4Xzlfcl8yMDIxMTIxM18xNjM5MzQ3NTYyNjg4MjQ20gEA",
+          "author": null,
+          "description": "上白石萌音「クラスの女子からのけもの」の過去を乗り越え人気女優に  auone.jp",
+          "link": "https://article.auone.jp/detail/1/5/9/218_9_r_20211213_1639347562688246",
+          "publishedOn": "2021-12-12T22:15:00.000Z",
+          "wordCount": 171,
+          "title": "上白石萌音「クラスの女子からのけもの」の過去を乗り越え人気女優に - auone.jp"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd2VidGFuLmltcHJlc3MuY28uanAvbi8yMDIxLzEyLzEzLzQyMDgy0gEzaHR0cHM6Ly93ZWJ0YW4uaW1wcmVzcy5jby5qcC9uLzIwMjEvMTIvMTMvNDIwODI_YW1w",
+          "author": null,
+          "description": "日本ユニシスがWebページを最大2倍速く読める書式に変換するブラウザー拡張機能を公開  Web担当者Forum",
+          "link": "https://webtan.impress.co.jp/n/2021/12/13/42082",
+          "publishedOn": "2021-12-12T22:02:00.000Z",
+          "wordCount": 502,
+          "title": "日本ユニシスがWebページを最大2倍速く読める書式に変換するブラウザー拡張機能を公開 - Web担当者Forum"
+        },
+        {
+          "id": "CAIiEDpy-3ONTQ3rnH54SPPJcU0qGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI",
+          "author": null,
+          "description": "物議醸すセーフティカーの手順。メルセデスF1、王座の行方を決定づけたFIAの違反に抗議も認められず。上訴の意思を提出  オートスポーツweb",
+          "link": "https://www.as-web.jp/f1/769615",
+          "publishedOn": "2021-12-12T21:12:00.000Z",
+          "wordCount": null,
+          "title": "物議醸すセーフティカーの手順。メルセデスF1、王座の行方を決定づけたFIAの違反に抗議も認められず。上訴の意思を提出 - オートスポーツweb"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy80NTNiYTkxNjljMTA0MmJmMjE3M2YyZmQ3MzkzYjFhMTRlM2U2YzRi0gEA",
+          "author": null,
+          "description": "「冨安の動きが完璧すぎる」アーセナルの華麗なカウンター弾が反響！「綺麗すぎて何回も見られる」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/453ba9169c1042bf2173f2fd7393b1a14e3e6c4b",
+          "publishedOn": "2021-12-12T20:56:48.000Z",
+          "wordCount": 156,
+          "title": "「冨安の動きが完璧すぎる」アーセナルの華麗なカウンター弾が反響！「綺麗すぎて何回も見られる」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85OGVhNjM4Zjg5NjBmNjQ3N2IxZjkxNzZiOTg5NWQ5MWZlZTQxYjUw0gEA",
+          "author": null,
+          "description": "現役最終戦も…大久保嘉人が愛するチームに飛ばした檄！「話すと３日間くらいかかる」と指摘する内容とは？（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/98ea638f8960f6477b1f9176b9895d91fee41b50",
+          "publishedOn": "2021-12-12T20:41:42.000Z",
+          "wordCount": 150,
+          "title": "現役最終戦も…大久保嘉人が愛するチームに飛ばした檄！「話すと３日間くらいかかる」と指摘する内容とは？（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvMzgyMjMy0gEtaHR0cHM6Ly93d3cuY2h1bmljaGkuY28uanAvYW1wL2FydGljbGUvMzgyMjMy",
+          "author": null,
+          "description": "運勢（１３日・友引）  中日新聞",
+          "link": "https://www.chunichi.co.jp/article/382232",
+          "publishedOn": "2021-12-12T20:00:00.000Z",
+          "wordCount": 409,
+          "title": "運勢（１３日・友引） - 中日新聞"
+        },
+        {
+          "id": "CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjAyXzlfcl8yMDIxMTIxM18xNjM5MzM5MjkzMDM5OTA00gEA",
+          "author": null,
+          "description": "バイキング来春終了 坂上意向  auone.jp",
+          "link": "https://article.auone.jp/detail/1/5/9/202_9_r_20211213_1639339293039904",
+          "publishedOn": "2021-12-12T20:00:00.000Z",
+          "wordCount": 131,
+          "title": "バイキング来春終了 坂上意向 - auone.jp"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85M2U2ZDIyZGIyMDcyYWM5NzE4NDEyNjEyZWU1NTliOWQ4YzJjNmZh0gEA",
+          "author": null,
+          "description": "三笘薫が左足で絶品アシスト！フル出場で攻守に躍動し、首位ユニオンSGの連勝に貢献（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/93e6d22db2072ac9718412612ee559b9d8c2c6fa",
+          "publishedOn": "2021-12-12T16:49:00.000Z",
+          "wordCount": 145,
+          "title": "三笘薫が左足で絶品アシスト！フル出場で攻守に躍動し、首位ユニオンSGの連勝に貢献（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvc3Avc2VtaW5hci8yMS8xMi8wNy8wMDE5Ni_SAQA",
+          "author": null,
+          "description": "【1月18日】迫る個人情報保護法の改正、Webセキュリティは万全か？  日経 xTECH Active",
+          "link": "https://active.nikkeibp.co.jp/atcl/sp/seminar/21/12/07/00196/",
+          "publishedOn": "2021-12-12T15:00:00.000Z",
+          "wordCount": 230,
+          "title": "【1月18日】迫る個人情報保護法の改正、Webセキュリティは万全か？ - 日経 xTECH Active"
+        },
+        {
+          "id": "CAIiEGPK80spy2xz6CCW2HSP9igqGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI",
+          "author": null,
+          "description": "【速報】フェルスタッペンがファイナルラップで劇的チャンピオン獲得。ホンダ、ラストレースで30年ぶりの戴冠【第22戦アブダビGP決勝】  オートスポーツweb",
+          "link": "https://www.as-web.jp/f1/769503",
+          "publishedOn": "2021-12-12T14:35:00.000Z",
+          "wordCount": null,
+          "title": "【速報】フェルスタッペンがファイナルラップで劇的チャンピオン獲得。ホンダ、ラストレースで30年ぶりの戴冠【第22戦アブダビGP決勝】 - オートスポーツweb"
+        },
+        {
+          "id": "CBMiMWh0dHA6Ly9rZWliYS5yYWRpb25pa2tlaS5qcC9rZWliYS9wb3N0XzI1Mjg1Lmh0bWzSAQA",
+          "author": null,
+          "description": "競馬実況web - 【香港カップ】ラヴズオンリーユー有終の美 レース後のコメント  ラジオNIKKEI",
+          "link": "http://keiba.radionikkei.jp/keiba/post_25285.html",
+          "publishedOn": "2021-12-12T14:05:41.000Z",
+          "wordCount": 80,
+          "title": "競馬実況web - 【香港カップ】ラヴズオンリーユー有終の美 レース後のコメント - ラジオNIKKEI"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jYTI1YTJmMWM3MWE2NzQxOTExMDU3NzAwOWQ1Yjc5NjM0ZWMxNzU40gEA",
+          "author": null,
+          "description": "J２降格の大分は、なぜ絶対王者川崎を倒せたのか？片野坂監督が語った狙いとは…【天皇杯準決勝】（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/ca25a2f1c71a67419110577009d5b79634ec1758",
+          "publishedOn": "2021-12-12T12:08:21.000Z",
+          "wordCount": 152,
+          "title": "J２降格の大分は、なぜ絶対王者川崎を倒せたのか？片野坂監督が語った狙いとは…【天皇杯準決勝】（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CAIiECj9HGPKQQG0FTsTjZsfwEYqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY",
+          "author": null,
+          "description": "今週の美女図鑑：“最強女子大生”林凛の初水着 美貌＆抜群のスタイル  MANTANWEB",
+          "link": "https://mantan-web.jp/article/20211212dog00m200018000c.html",
+          "publishedOn": "2021-12-12T11:11:22.000Z",
+          "wordCount": 150,
+          "title": "今週の美女図鑑：“最強女子大生”林凛の初水着 美貌＆抜群のスタイル - MANTANWEB"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy81YzQ3MThjZjkzYTNmODU0MjJkNzQzZjUwMzZjOWYyMzM5MGQ4ZDhj0gEA",
+          "author": null,
+          "description": "東通沖 4キロにわたりイワシ死骸／原因不明（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/5c4718cf93a3f85422d743f5036c9f23390d8d8c",
+          "publishedOn": "2021-12-12T10:10:25.000Z",
+          "wordCount": 133,
+          "title": "東通沖 4キロにわたりイワシ死骸／原因不明（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiMWh0dHA6Ly9rZWliYS5yYWRpb25pa2tlaS5qcC9rZWliYS9wb3N0XzI1MjgxLmh0bWzSAQA",
+          "author": null,
+          "description": "競馬実況web - 【ターコイズＳ】登録馬 アンドラステ、マルターズディオサなど２５頭  ラジオNIKKEI",
+          "link": "http://keiba.radionikkei.jp/keiba/post_25281.html",
+          "publishedOn": "2021-12-12T09:33:39.000Z",
+          "wordCount": 78,
+          "title": "競馬実況web - 【ターコイズＳ】登録馬 アンドラステ、マルターズディオサなど２５頭 - ラジオNIKKEI"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yY2I5ZTYyNDhiYmEyMmQ2YTkwZjFlZTA0YWQ1OGNmMDgyMzU1ZTdl0gEA",
+          "author": null,
+          "description": "このワイルドさが日本にほしい!? ホンダ最強SUV 新型パスポート「トレイルスポーツ」価格判明＆今冬発売!!!（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/2cb9e6248bba22d6a90f1ee04ad58cf082355e7e",
+          "publishedOn": "2021-12-12T09:00:00.000Z",
+          "wordCount": 147,
+          "title": "このワイルドさが日本にほしい!? ホンダ最強SUV 新型パスポート「トレイルスポーツ」価格判明＆今冬発売!!!（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lNGI4OWY4MWQyMjFmYzhjOTQyNmYwNWY2MTcyODE4MmUwZjA3ZDBm0gEA",
+          "author": null,
+          "description": "ハースのマゼピンが新型コロナ陽性でアブダビGPを欠場。代役なしで19人の決勝に／F1第22戦（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/e4b89f81d221fc8c9426f05f61728182e0f07d0f",
+          "publishedOn": "2021-12-12T08:59:13.000Z",
+          "wordCount": 137,
+          "title": "ハースのマゼピンが新型コロナ陽性でアブダビGPを欠場。代役なしで19人の決勝に／F1第22戦（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzExLzkzXzExX3JfMjAyMTEyMTJfMTYzOTI5OTU0MzE2NzQ5M9IBAA",
+          "author": null,
+          "description": "浦和は今季で契約満了の宇賀神が値千金の決勝弾 天皇杯決勝カードは「浦和×大分」  auone.jp",
+          "link": "https://article.auone.jp/detail/1/6/11/93_11_r_20211212_1639299543167493",
+          "publishedOn": "2021-12-12T08:58:00.000Z",
+          "wordCount": 153,
+          "title": "浦和は今季で契約満了の宇賀神が値千金の決勝弾 天皇杯決勝カードは「浦和×大分」 - auone.jp"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNmY5NTlkYmU1MTUwNDcxYmFlNzI4ZTA4NWNhYTVkMzdkOWI2ZmJm0gEA",
+          "author": null,
+          "description": "「下手くそ棒」とは言わせない!? まだ売ってる? クルマ用コーナーポールの現在地（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/a6f959dbe5150471bae728e085caa5d37d9b6fbf",
+          "publishedOn": "2021-12-12T08:00:00.000Z",
+          "wordCount": 145,
+          "title": "「下手くそ棒」とは言わせない!? まだ売ってる? クルマ用コーナーポールの現在地（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CAIiEIgxMH0wTHeoY0A1ZkYWr2gqGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI",
+          "author": null,
+          "description": "ガスリー予選12番手「今週末は角田に大きく後れを取っている。決勝までに解決策を見つけたい」F1第22戦  オートスポーツweb",
+          "link": "https://www.as-web.jp/f1/769355",
+          "publishedOn": "2021-12-12T06:23:00.000Z",
+          "wordCount": null,
+          "title": "ガスリー予選12番手「今週末は角田に大きく後れを取っている。決勝までに解決策を見つけたい」F1第22戦 - オートスポーツweb"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mNmRjYmE2ZWFlMDk1ZjVlZjQ3ZWEwMmQwZjc5OGJlMDE2ODViZjFl0gEA",
+          "author": null,
+          "description": "レッドブル・ホンダ密着：ミディアム・ローダウンフォース仕様のリヤウイングを選択。一時は問題発生も今季10回目のポール（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/f6dcba6eae095f5ef47ea02d0f798be01685bf1e",
+          "publishedOn": "2021-12-12T05:57:55.000Z",
+          "wordCount": 145,
+          "title": "レッドブル・ホンダ密着：ミディアム・ローダウンフォース仕様のリヤウイングを選択。一時は問題発生も今季10回目のポール（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiLGh0dHBzOi8vd2ViLm1vdG9ybWFnYXppbmUuY28uanAvX2N0LzE3NTAyNTA30gEA",
+          "author": null,
+          "description": "【写真蔵】グランドコンセプトを「爽快」として登場した11代目のホンダ シビック - Webモーターマガジン  motormagazine.co.jp",
+          "link": "https://web.motormagazine.co.jp/_ct/17502507",
+          "publishedOn": "2021-12-12T03:21:23.000Z",
+          "wordCount": 117,
+          "title": "【写真蔵】グランドコンセプトを「爽快」として登場した11代目のホンダ シビック - Webモーターマガジン - motormagazine.co.jp"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lNWE2Yzc4MDIwODdiZWQ1YWQzNGU3MjIwOGM5NDAzN2ZmMTYxMjFl0gEA",
+          "author": null,
+          "description": "初対戦で乱闘寸前「やり合った」 元日本代表DFが明かす歴代最多得点FW大久保嘉人の“怖さ”と“優しさ”（Football ZONE web） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/e5a6c7802087bed5ad34e72208c94037ff16121e",
+          "publishedOn": "2021-12-12T01:36:34.000Z",
+          "wordCount": 157,
+          "title": "初対戦で乱闘寸前「やり合った」 元日本代表DFが明かす歴代最多得点FW大久保嘉人の“怖さ”と“優しさ”（Football ZONE web） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iN2ZkNDkyYzBhYzdjMDg5ZjNjNDIxNzY5NWM4MGEzYzg2MTMzMWRh0gEA",
           "author": null,
           "description": "Joshin webで週末限定日替わりセール、完売多数。12日もPCやテレビなど安く（PHILE WEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/b7fd492c0ac7c089f3c4217695c80a3c861331da",
           "publishedOn": "2021-12-12T00:30:23.000Z",
-          "wordCount": 138,
+          "wordCount": 136,
           "title": "Joshin webで週末限定日替わりセール、完売多数。12日もPCやテレビなど安く（PHILE WEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83NWUwYWEwMjJlMzFmZDVlNTU5ZTVkZTY5OTY1NGE1MDEzZjIyY2Rk0gEA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hYTlmMWQ4YTUyZTk1NTk1MTVhZDMzNzQzZDU4YTcxNzI4ZGI5Yzdj0gEA",
           "author": null,
-          "description": "【車名当てクイズ】この名車、迷車、珍車、ご存じですか? 第35回（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/75e0aa022e31fd5e559e5de699654a5013f22cdd",
-          "publishedOn": "2021-12-11T23:02:11.000Z",
-          "wordCount": 136,
-          "title": "【車名当てクイズ】この名車、迷車、珍車、ご存じですか? 第35回（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDI50gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDI5",
-          "author": null,
-          "description": "週のはじめに考える 真夜中を終わらせよ  東京新聞",
-          "link": "https://www.tokyo-np.co.jp/article/148429",
-          "publishedOn": "2021-12-11T22:37:37.000Z",
-          "wordCount": 288,
-          "title": "週のはじめに考える 真夜中を終わらせよ - 東京新聞"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mM2UzNTk5OThlN2IxMzAzOGQ4MDUyMjE5MDc0NjNmYzUxZTA5N2Jj0gEA",
-          "author": null,
-          "description": "新型フェアレディZがGT500マシンでひと足先にデビュー GT-Rに替わって、スープラとNSXに挑む（ENGINE WEB） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/f3e359998e7b13038d805221907463fc51e097bc",
-          "publishedOn": "2021-12-11T22:30:00.000Z",
-          "wordCount": 144,
-          "title": "新型フェアレディZがGT500マシンでひと足先にデビュー GT-Rに替わって、スープラとNSXに挑む（ENGINE WEB） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS80LzgvMTZfOF9yXzIwMjExMjEyXzE2MzkyNjE4NDIyMDMwNTXSAQA",
-          "author": null,
-          "description": "米竜巻 死者100人超す可能性  auone.jp",
-          "link": "https://article.auone.jp/detail/1/4/8/16_8_r_20211212_1639261842203055",
-          "publishedOn": "2021-12-11T22:24:00.000Z",
-          "wordCount": 139,
-          "title": "米竜巻 死者100人超す可能性 - auone.jp"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDI20gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDI2",
-          "author": null,
-          "description": "マイク・ネスミスさん死去 米バンド「モンキーズ」メンバー  東京新聞",
-          "link": "https://www.tokyo-np.co.jp/article/148426",
-          "publishedOn": "2021-12-11T22:21:37.000Z",
-          "wordCount": 276,
-          "title": "マイク・ネスミスさん死去 米バンド「モンキーズ」メンバー - 東京新聞"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDA00gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDA0",
-          "author": null,
-          "description": "年末年始防犯呼び掛け 浅草・仲見世でパトロール  東京新聞",
-          "link": "https://www.tokyo-np.co.jp/article/148404",
-          "publishedOn": "2021-12-11T22:08:57.000Z",
-          "wordCount": 275,
-          "title": "年末年始防犯呼び掛け 浅草・仲見世でパトロール - 東京新聞"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4MjU50gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4MjU5",
-          "author": null,
-          "description": "底惚ぼれ 青山文平著  東京新聞",
-          "link": "https://www.tokyo-np.co.jp/article/148259",
-          "publishedOn": "2021-12-11T22:00:00.000Z",
-          "wordCount": 297,
-          "title": "底惚ぼれ 青山文平著 - 東京新聞"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEwLzkyXzEwX3JfMjAyMTEyMTJfMTYzOTI1OTI2MzA3MTEzMNIBAA",
-          "author": null,
-          "description": "「人を遺す」ノムさんの極意  auone.jp",
-          "link": "https://article.auone.jp/detail/1/6/10/92_10_r_20211212_1639259263071130",
-          "publishedOn": "2021-12-11T21:57:54.000Z",
-          "wordCount": 137,
-          "title": "「人を遺す」ノムさんの極意 - auone.jp"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mY2IwZjhmNzdkNDYyZjgzOTJhOGNjNmYxZDIwZWFmOWRlODdlOTBl0gEA",
-          "author": null,
-          "description": "「クセがすごい」“あざと可愛い”アピールの松井大輔に脚光！「萌え袖にすれば尚良し」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/fcb0f8f77d462f8392a8cc6f1d20eaf9de87e90e",
-          "publishedOn": "2021-12-11T21:36:31.000Z",
-          "wordCount": 148,
-          "title": "「クセがすごい」“あざと可愛い”アピールの松井大輔に脚光！「萌え袖にすれば尚良し」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jNTljYTA4YmVlYzA0Y2EyMzJmOGIzNGU3OTQzOGRkNWQzNjhmYzhh0gEA",
-          "author": null,
-          "description": "「めちゃくちゃ見ていた」三笘薫が憧れたドリブラーは？「完全に真似したから今がある」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/c59ca08beec04ca232f8b34e79438dd5d368fc8a",
-          "publishedOn": "2021-12-11T21:27:11.000Z",
-          "wordCount": 144,
-          "title": "「めちゃくちゃ見ていた」三笘薫が憧れたドリブラーは？「完全に真似したから今がある」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEwLzEzNl8xMl9yXzIwMjExMjEyXzE2MzkyNTcwNDIxMDc1MTnSAQA",
-          "author": null,
-          "description": "G監督レース 阿部コーチ後退?  auone.jp",
-          "link": "https://article.auone.jp/detail/1/6/10/136_12_r_20211212_1639257042107519",
-          "publishedOn": "2021-12-11T21:10:00.000Z",
-          "wordCount": 150,
-          "title": "G監督レース 阿部コーチ後退? - auone.jp"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnNoaW5tYWkuY28uanAvbmV3cy9hcnRpY2xlL0NOVFMyMDIxMTIxMTAwNjUw0gEA",
-          "author": null,
-          "description": "Ｂ１信州 群馬に競り負け３連敗｜信毎web  信濃毎日新聞",
-          "link": "https://www.shinmai.co.jp/news/article/CNTS2021121100650",
-          "publishedOn": "2021-12-11T21:06:00.000Z",
-          "wordCount": 497,
-          "title": "Ｂ１信州 群馬に競り負け３連敗｜信毎web - 信濃毎日新聞"
-        },
-        {
-          "id": "CAIiEJeoUkx0Q4Dtz42bl1eLM_sqMwgEKioIACIQtBlEiNvSNMRnDE-xAq5-8CoUCAoiELQZRIjb0jTEZwxPsQKufvAwi_mmBw",
-          "author": null,
-          "description": "もう週末のお出かけで迷わない！日産のWEBアプリ「GOODS DRIVE」でルート提案  MOBY",
-          "link": "https://car-moby.jp/article/news/automotive-industry-news/nissan-goods-drive-app-release-dec2021/",
-          "publishedOn": "2021-12-11T21:02:10.000Z",
-          "wordCount": 318,
-          "title": "もう週末のお出かけで迷わない！日産のWEBアプリ「GOODS DRIVE」でルート提案 - MOBY"
-        },
-        {
-          "id": "CBMiKWh0dHA6Ly93d3cubmFnYW5vLW5wLmNvLmpwL2FydGljbGVzLzg2ODkx0gEA",
-          "author": null,
-          "description": "21年産宮田ワイン「紫輝」 新酒発表会 – Nagano Nippo Web  長野日報",
-          "link": "http://www.nagano-np.co.jp/articles/86891",
-          "publishedOn": "2021-12-11T21:00:57.000Z",
-          "wordCount": 127,
-          "title": "21年産宮田ワイン「紫輝」 新酒発表会 – Nagano Nippo Web - 長野日報"
-        },
-        {
-          "id": "CBMiKWh0dHA6Ly93d3cubmFnYW5vLW5wLmNvLmpwL2FydGljbGVzLzg2OTE20gEA",
-          "author": null,
-          "description": "「穴倉」のんびり冬の作業 茅野市泉野 – Nagano Nippo Web  長野日報",
-          "link": "http://www.nagano-np.co.jp/articles/86916",
-          "publishedOn": "2021-12-11T21:00:57.000Z",
-          "wordCount": 124,
-          "title": "「穴倉」のんびり冬の作業 茅野市泉野 – Nagano Nippo Web - 長野日報"
-        },
-        {
-          "id": "CAIiEHmla16i6GIvzNmqJQBrn4UqGQgEKhAIACoHCAowgbvvCjCphdEBMKXSiwI",
-          "author": null,
-          "description": "角田裕毅、予選で初めて僚友に勝利「4番手タイム抹消は悔しいが、開幕戦以来、一番自信を持って走れている」F1第22戦  オートスポーツweb",
-          "link": "https://www.as-web.jp/f1/769253",
-          "publishedOn": "2021-12-11T20:54:00.000Z",
-          "wordCount": null,
-          "title": "角田裕毅、予選で初めて僚友に勝利「4番手タイム抹消は悔しいが、開幕戦以来、一番自信を持って走れている」F1第22戦 - オートスポーツweb"
-        },
-        {
-          "id": "CAIiEFT26nMa492xwbhfavMwyz0qGQgEKhAIACoHCAowkezzCjCb_rsCMOyiswM",
-          "author": null,
-          "description": "『最愛』主題歌、宇多田ヒカル「君に夢中」MV公開  GetNavi web",
-          "link": "https://getnavi.jp/entertainment/682331/",
-          "publishedOn": "2021-12-11T20:50:52.000Z",
-          "wordCount": 107,
-          "title": "『最愛』主題歌、宇多田ヒカル「君に夢中」MV公開 - GetNavi web"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnNvY2NlcmRpZ2VzdHdlYi5jb20vbmV3cy9kZXRhaWwvaWQ9MTAyMjc10gFBaHR0cHM6Ly93d3cuc29jY2VyZGlnZXN0d2ViLmNvbS9uZXdzL2RldGFpbC9pZD0xMDIyNzU_bW9iaWxlYXBwPTE",
-          "author": null,
-          "description": "「攻守両面で信頼できる存在」２点に絡んだ冨安健洋に現地メディアは軒並み高評価！「観客からスーパー・トミヤスの大合唱」  サッカーダイジェストWeb",
-          "link": "https://www.soccerdigestweb.com/news/detail/id=102275",
-          "publishedOn": "2021-12-11T20:03:45.000Z",
-          "wordCount": 214,
-          "title": "「攻守両面で信頼できる存在」２点に絡んだ冨安健洋に現地メディアは軒並み高評価！「観客からスーパー・トミヤスの大合唱」 - サッカーダイジェストWeb"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy84ZTI0OTBkNGYxNGVlZTMzNjE1NGMxNjRiYzQzODhhMGQ3NzMwNTBk0gEA",
-          "author": null,
-          "description": "「美しき花嫁よ！」韓国女子代表の女神、イ・ミナが結婚式前日に披露した“純白ドレス”姿になでしこJの面々も祝福！（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/8e2490d4f14eee336154c164bc4388a0d773050d",
-          "publishedOn": "2021-12-11T20:01:21.000Z",
-          "wordCount": 141,
-          "title": "「美しき花嫁よ！」韓国女子代表の女神、イ・ミナが結婚式前日に披露した“純白ドレス”姿になでしこJの面々も祝福！（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvMzgyMjMx0gEtaHR0cHM6Ly93d3cuY2h1bmljaGkuY28uanAvYW1wL2FydGljbGUvMzgyMjMx",
-          "author": null,
-          "description": "運勢（１２日・先勝）  中日新聞",
-          "link": "https://www.chunichi.co.jp/article/382231",
-          "publishedOn": "2021-12-11T20:00:00.000Z",
-          "wordCount": 411,
-          "title": "運勢（１２日・先勝） - 中日新聞"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy80MDM5ZGI2YmQyMTA4MWExZjZlODA3MmFkNzkyOTkwNGExMGE4OGY10gEA",
-          "author": null,
-          "description": "リバプール、英雄ジェラード率いるアストン・ビラに苦戦もサラーのPKで何とか勝利！ 途中出場の南野拓実も役割を果たす（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/4039db6bd21081a1f6e8072ad7929904a10a88f5",
-          "publishedOn": "2021-12-11T16:54:00.000Z",
-          "wordCount": 143,
-          "title": "リバプール、英雄ジェラード率いるアストン・ビラに苦戦もサラーのPKで何とか勝利！ 途中出場の南野拓実も役割を果たす（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yMzJkZjg2MTliZTJlMTQ4NjI4ODg1YmI4NjM3NGYwNmQzZTQ3YTRi0gEA",
-          "author": null,
-          "description": "リタイア4台の乱戦を周冠宇が制し今季4勝目。佐藤万璃音は16位【FIA-F2第8戦アブダビ レース2】（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/232df8619be2e148628885bb86374f06d3e47a4b",
-          "publishedOn": "2021-12-11T15:45:36.000Z",
-          "wordCount": 167,
-          "title": "リタイア4台の乱戦を周冠宇が制し今季4勝目。佐藤万璃音は16位【FIA-F2第8戦アブダビ レース2】（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース"
+          "description": "遺伝子検査12日結果判明／三戸・鳥インフル（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/aa9f1d8a52e9559515ad33743d58a71728db9c7c",
+          "publishedOn": "2021-12-11T15:48:00.000Z",
+          "wordCount": 132,
+          "title": "遺伝子検査12日結果判明／三戸・鳥インフル（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83ZTM3MTlhOTdiOGU5YTI3ZmE0Zjc0ZjNjMjZiYTAzMDY0ZDFiNTM00gEA",
@@ -218,26 +299,35 @@
           "description": "アニメ「スローループ」東山奈央と安野希世乃が出演、Webラジオや放送直前特番も決定（コミックナタリー） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/7e3719a97b8e9a27fa4f74f3c26ba03064d1b534",
           "publishedOn": "2021-12-11T12:23:06.000Z",
-          "wordCount": 165,
+          "wordCount": 166,
           "title": "アニメ「スローループ」東山奈央と安野希世乃が出演、Webラジオや放送直前特番も決定（コミックナタリー） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zMjIwZTZkZTQ1YWQ0MjUyOTdjZjg2ZTcxNWYyY2RmMGExMTE1YmY30gEA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hOWMwZDJiMjEwOTk5MjRiZjc3Njc0NTU3ZWQzMWUzZGEyNTZhYWJj0gEA",
           "author": null,
-          "description": "川澄奈穂美＆仲田歩夢の2ショット写真が話題！大宮V練習参加にファンから「そのまま加入してくれませんか？」の声（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/3220e6de45ad425297cf86e715f2cdf0a1115bf7",
-          "publishedOn": "2021-12-11T11:41:52.000Z",
-          "wordCount": 151,
-          "title": "川澄奈穂美＆仲田歩夢の2ショット写真が話題！大宮V練習参加にファンから「そのまま加入してくれませんか？」の声（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース"
+          "description": "カワサキ「Z900RS 」カフェ 歴代カラーオールアルバム【'18～'22 完全網羅!!】（WEBヤングマシン） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/a9c0d2b21099924bf77674557ed31e3da256aabc",
+          "publishedOn": "2021-12-11T10:30:35.000Z",
+          "wordCount": 156,
+          "title": "カワサキ「Z900RS 」カフェ 歴代カラーオールアルバム【'18～'22 完全網羅!!】（WEBヤングマシン） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnNoaW1vdHN1a2UuY28uanAvYXJ0aWNsZXMvLS81MzI0MTHSAQA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yZWNhZjliNmVhMDhiY2RkOGYwZmZkYjA5MmQ0ZDExODJiMGJhZTc40gEA",
           "author": null,
-          "description": "女子白鷗大準優勝 全日本大学バスケットボール｜WEB写真館 スポーツ｜WEB写真館｜下野新聞 SOON(スーン)  下野新聞",
-          "link": "https://www.shimotsuke.co.jp/articles/-/532411",
-          "publishedOn": "2021-12-11T10:47:41.000Z",
-          "wordCount": 511,
-          "title": "女子白鷗大準優勝 全日本大学バスケットボール｜WEB写真館 スポーツ｜WEB写真館｜下野新聞 SOON(スーン) - 下野新聞"
+          "description": "伊豆のジビエを使った〈イズシカバーガー〉が誕生！（Webマガジン コロカル） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/2ecaf9b6ea08bcdd8f0ffdb092d4d1182b0bae78",
+          "publishedOn": "2021-12-11T08:23:00.000Z",
+          "wordCount": 176,
+          "title": "伊豆のジビエを使った〈イズシカバーガー〉が誕生！（Webマガジン コロカル） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9kY2MwNTdmNTExNTEwMjZhOTFjZDg0MTZkNDMxOTRkMTFiOWQ1MmQw0gEA",
+          "author": null,
+          "description": "「白樺樹液」を使用した〈美深白樺ブルワリー〉のクラフトビール（Webマガジン コロカル） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/dcc057f51151026a91cd8416d43194d11b9d52d0",
+          "publishedOn": "2021-12-11T08:18:23.000Z",
+          "wordCount": 172,
+          "title": "「白樺樹液」を使用した〈美深白樺ブルワリー〉のクラフトビール（Webマガジン コロカル） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zODFhYWIwNTMzMDliODIwNWFjNzQzOGMwNDlmYzg3MDdlODBmNWY00gEA",
@@ -245,7 +335,7 @@
           "description": "冬の50代ファッション！ジャケット、セーター、パンツの選び方（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/381aab053309b8205ac7438c049fc8707e80f5f4",
           "publishedOn": "2021-12-11T06:04:41.000Z",
-          "wordCount": 134,
+          "wordCount": 133,
           "title": "冬の50代ファッション！ジャケット、セーター、パンツの選び方（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -254,62 +344,17 @@
           "description": "福原遥、ディーン・フジオカらが「心のよりどころ」明かす（WEBザテレビジョン） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/23e473d28f98bc9f3e07548318395aba1eadcd65",
           "publishedOn": "2021-12-11T05:32:16.000Z",
-          "wordCount": 130,
+          "wordCount": 131,
           "title": "福原遥、ディーン・フジオカらが「心のよりどころ」明かす（WEBザテレビジョン） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
-          "id": "CBMiImh0dHBzOi8vbWFnLXguanAvMjAyMS8xMi8xMS8xOTM0Ni_SAQA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8wYTdjMWU2MmY4NjE0ZDMyZDZhOWJjMjZhNzhiZTM5NTExMDJlMWEw0gEA",
           "author": null,
-          "description": "web限定SCOOP！出荷スタートした新型ハイゼット・トラック激写!!  MAGX NEWS",
-          "link": "https://mag-x.jp/2021/12/11/19346/",
-          "publishedOn": "2021-12-11T05:17:26.000Z",
-          "wordCount": 335,
-          "title": "web限定SCOOP！出荷スタートした新型ハイゼット・トラック激写!! - MAGX NEWS"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDI1NjEuMDAwMDU5ODYxLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMjU2MS4wMDAwNTk4NjEuaHRtbA",
-          "author": null,
-          "description": "企業のWebセキュリティ市場ーソリューション別（クラウドベースのサービス、アプライアンスサービス、ハイブリッドオンプレミスサービス）、エンドユーザー産業別-世界の需要分析と機会の見通し2027年  PR TIMES",
-          "link": "https://prtimes.jp/main/html/rd/p/000002561.000059861.html",
-          "publishedOn": "2021-12-11T04:05:24.000Z",
-          "wordCount": 656,
-          "title": "企業のWebセキュリティ市場ーソリューション別（クラウドベースのサービス、アプライアンスサービス、ハイブリッドオンプレミスサービス）、エンドユーザー産業別-世界の需要分析と機会の見通し2027年 - PR TIMES"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwNjUuMDAwMDI3NTg0Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDA2NS4wMDAwMjc1ODQuaHRtbA",
-          "author": null,
-          "description": "話題のWebコミックが読める『ナンバーナインCOMIC』チャンネルがニコニコ静画にて12月11日より配信スタート！  PR TIMES",
-          "link": "https://prtimes.jp/main/html/rd/p/000000065.000027584.html",
-          "publishedOn": "2021-12-11T02:30:14.000Z",
-          "wordCount": 609,
-          "title": "話題のWebコミックが読める『ナンバーナインCOMIC』チャンネルがニコニコ静画にて12月11日より配信スタート！ - PR TIMES"
-        },
-        {
-          "id": "CAIiEJVgETdRSRxo6FipqdZCTPUqGQgEKhAIACoHCAowgbvvCjCphdEBMKXSiwI",
-          "author": null,
-          "description": "清成龍一がTOHO Racingに移籍。國川浩道、國峰啄磨はST1000から参戦／全日本ロード  オートスポーツweb",
-          "link": "https://www.as-web.jp/bike/769040",
-          "publishedOn": "2021-12-11T01:20:00.000Z",
-          "wordCount": null,
-          "title": "清成龍一がTOHO Racingに移籍。國川浩道、國峰啄磨はST1000から参戦／全日本ロード - オートスポーツweb"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwMzYuMDAwMDIzNjMxJmc9cHJ00gEA",
-          "author": null,
-          "description": "Webマーケティング支援のサイトエンジン株式会社採用サイトを12月10日リニューアル：時事ドットコム  時事通信",
-          "link": "https://www.jiji.com/jc/article?k=000000036.000023631&g=prt",
-          "publishedOn": "2021-12-11T01:18:00.000Z",
-          "wordCount": 381,
-          "title": "Webマーケティング支援のサイトエンジン株式会社採用サイトを12月10日リニューアル：時事ドットコム - 時事通信"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3LnNzbnAuY28uanAvbmV3cy9mb29kc2VydmljZS8yMDIxLzEyLzIwMjEtMTIxMC0xNzIyLTE0Lmh0bWzSAQA",
-          "author": null,
-          "description": "「丸源餃子福袋2022」丸源ラーメン・二代目丸源で販売、冷凍生ギョーザ50個とクーポン1000円分で販売額1000円、WEB予約も/物語コーポレーション  食品産業新聞社",
-          "link": "https://www.ssnp.co.jp/news/foodservice/2021/12/2021-1210-1722-14.html",
-          "publishedOn": "2021-12-10T23:00:26.000Z",
-          "wordCount": 205,
-          "title": "「丸源餃子福袋2022」丸源ラーメン・二代目丸源で販売、冷凍生ギョーザ50個とクーポン1000円分で販売額1000円、WEB予約も/物語コーポレーション - 食品産業新聞社"
+          "description": "頑張る児童に光の贈り物／八戸・吹上小でイルミネーション（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/0a7c1e62f8614d32d6a9bc26a78be3951102e1a0",
+          "publishedOn": "2021-12-11T02:19:31.000Z",
+          "wordCount": 131,
+          "title": "頑張る児童に光の贈り物／八戸・吹上小でイルミネーション（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zOGYwMWI1NDQwNGMxNzMzODI3ZGVkNzNjNGQwYmFiOGZlMjc2NmVj0gEA",
@@ -317,17 +362,8 @@
           "description": "太平洋クロマグロ、青森県漁獲枠10％増506トン（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/38f01b54404c1733827ded73c4d0bab8fe2766ec",
           "publishedOn": "2021-12-10T13:30:20.000Z",
-          "wordCount": 132,
+          "wordCount": 133,
           "title": "太平洋クロマグロ、青森県漁獲枠10％増506トン（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iMzdhOWQ3ZjJlYzZjNWE2ZjRmNDA5NTI0ODdhNmZhNzJjMmQzNTE20gEA",
-          "author": null,
-          "description": "むくみの原因や簡単な解消方法は？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/b37a9d7f2ec6c5a6f4f40952487a6fa72c2d3516",
-          "publishedOn": "2021-12-10T11:02:21.000Z",
-          "wordCount": 146,
-          "title": "むくみの原因や簡単な解消方法は？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjEwL2sxMDAxMzM4MTM4MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMTAvYW1wL2sxMDAxMzM4MTM4MTAwMC5odG1s",
@@ -344,26 +380,8 @@
           "description": "新生ボーイズグループOCTPATH、初密着ドキュメンタリー放送決定（TV LIFE web） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/c865da45c22affc9c4277d523f9cff5e2a5d22c5",
           "publishedOn": "2021-12-10T09:22:12.000Z",
-          "wordCount": 139,
+          "wordCount": 140,
           "title": "新生ボーイズグループOCTPATH、初密着ドキュメンタリー放送決定（TV LIFE web） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAxMzIuMDAwMDcxMzE3Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDEzMi4wMDAwNzEzMTcuaHRtbA",
-          "author": null,
-          "description": "スポーツ報知WEBサイトで「タカラヅカ新世紀WEB」がスタート  PR TIMES",
-          "link": "https://prtimes.jp/main/html/rd/p/000000132.000071317.html",
-          "publishedOn": "2021-12-10T09:00:03.000Z",
-          "wordCount": 620,
-          "title": "スポーツ報知WEBサイトで「タカラヅカ新世紀WEB」がスタート - PR TIMES"
-        },
-        {
-          "id": "CAIiEC0m63J0qybBv37vmwTKGGYqGQgEKhAIACoHCAowo42ZCzCzl7EDMJiT0wY",
-          "author": null,
-          "description": "実在のWebサイトやSNSアカウントから情報を集める謎解きホラーゲーム『パルフォン』Steam版の配信がスタート。制作者の視点で都市伝説やネット文化を解説する小冊子データも同梱  電ファミニコゲーマー",
-          "link": "https://news.denfaminicogamer.jp/news/211210b",
-          "publishedOn": "2021-12-10T08:31:00.000Z",
-          "wordCount": 188,
-          "title": "実在のWebサイトやSNSアカウントから情報を集める謎解きホラーゲーム『パルフォン』Steam版の配信がスタート。制作者の視点で都市伝説やネット文化を解説する小冊子データも同梱 - 電ファミニコゲーマー"
         },
         {
           "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjEwL2sxMDAxMzM4MTYyMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMTAvYW1wL2sxMDAxMzM4MTYyMTAwMC5odG1s",
@@ -375,12 +393,21 @@
           "title": "ぼくの“自分研究” - NHK NEWS WEB"
         },
         {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNjk4ZjJmZjU2ZjUzMDMwNzQxZTQzNTU2ZDE2ZTdhNjEyZWYyNTY20gEA",
+          "author": null,
+          "description": "Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/a698f2ff56f53030741e43556d16e7a612ef2566",
+          "publishedOn": "2021-12-10T06:51:00.000Z",
+          "wordCount": 183,
+          "title": "Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
           "id": "CAIiEOy4VXyOA2rsHKBB8E8_0ioqGQgEKhAIACoHCAowl9reCjCYvdYBMJv8hwM",
           "author": null,
           "description": "【まとめ】もしものための災害対策Webサイト、Twitterまとめ 家庭での備えや災害情報発信SNS、ハザードマップ検索など（1/2 ページ） -  ねとらぼ",
           "link": "https://nlab.itmedia.co.jp/nl/articles/2112/10/news113.html",
           "publishedOn": "2021-12-10T03:27:00.000Z",
-          "wordCount": 283,
+          "wordCount": 282,
           "title": "【まとめ】もしものための災害対策Webサイト、Twitterまとめ 家庭での備えや災害情報発信SNS、ハザードマップ検索など（1/2 ページ） - - ねとらぼ"
         },
         {
@@ -389,7 +416,7 @@
           "description": "柳俊太郎、「Netflix×BEAMS」コラボコレクションのモデルに抜てき！（WEBザテレビジョン） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/7d6d669d573300953b7d7fa3a7d9d4bd646e5af8",
           "publishedOn": "2021-12-10T03:00:56.000Z",
-          "wordCount": 154,
+          "wordCount": 155,
           "title": "柳俊太郎、「Netflix×BEAMS」コラボコレクションのモデルに抜てき！（WEBザテレビジョン） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -398,7 +425,7 @@
           "description": "カトパンとばっちりブーメラン！ ノーマスク市議報道で〝目の敵〟（東スポWeb） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/6c125c3c381ba62f2a1791212a63c16f6a02780f",
           "publishedOn": "2021-12-10T02:30:32.000Z",
-          "wordCount": 136,
+          "wordCount": 137,
           "title": "カトパンとばっちりブーメラン！ ノーマスク市議報道で〝目の敵〟（東スポWeb） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -411,24 +438,6 @@
           "title": "煩雑な「Webサイト運用」はもう卒業――ノーコードで更新・改善するには - ITmedia"
         },
         {
-          "id": "CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDE4NjgvMTEyMjAwMDAzL9IBAA",
-          "author": null,
-          "description": "情報を手際良く整理、ブックマークより一段上のWebページ管理術  ITpro",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01868/112200003/",
-          "publishedOn": "2021-12-09T20:00:00.000Z",
-          "wordCount": 368,
-          "title": "情報を手際良く整理、ブックマークより一段上のWebページ管理術 - ITpro"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDExNTYvMTExODAwMDI0L9IBAA",
-          "author": null,
-          "description": "Webシステムの応答が遅すぎる、機器の設定ミスを見抜いたのに改善しなかったワケ  ITpro",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01156/111800024/",
-          "publishedOn": "2021-12-09T20:00:00.000Z",
-          "wordCount": 370,
-          "title": "Webシステムの応答が遅すぎる、機器の設定ミスを見抜いたのに改善しなかったワケ - ITpro"
-        },
-        {
           "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjA5L2sxMDAxMzM3ODkyMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMDkvYW1wL2sxMDAxMzM3ODkyMTAwMC5odG1s",
           "author": null,
           "description": "さようなら、メルケル首相  NHK NEWS WEB",
@@ -438,13 +447,13 @@
           "title": "さようなら、メルケル首相 - NHK NEWS WEB"
         },
         {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmNpdHkuaWJhcmFraS5vc2FrYS5qcC9raWtvdS9reW9pa3VpaW5rYWlreW9pa3Vzb3VtdS90b3Nob2thbi9tZW51LzU2MzY2Lmh0bWzSAQA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy84ZWFlMWRkNmQwYTkyMjA1MmVkMDBjY2NkNDZiNzlhODM0YTIwNGE40gEA",
           "author": null,
-          "description": "【図書館】年末年始の休館とWebサービス停止について／茨木市  茨木市",
-          "link": "https://www.city.ibaraki.osaka.jp/kikou/kyoikuiinkaikyoikusoumu/toshokan/menu/56366.html",
-          "publishedOn": "2021-12-09T09:53:51.000Z",
-          "wordCount": 82,
-          "title": "【図書館】年末年始の休館とWebサービス停止について／茨木市 - 茨木市"
+          "description": "空自F35A緊急着陸、原因はシステム不具合（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/8eae1dd6d0a922052ed00cccd46b79a834a204a8",
+          "publishedOn": "2021-12-09T09:22:20.000Z",
+          "wordCount": 131,
+          "title": "空自F35A緊急着陸、原因はシステム不具合（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CAIiEK2ZJbJ7P3gV4Uz-_c2FKCkqGQgEKhAIACoHCAowv6KGCzDTkYQDMIH7mgc",
@@ -452,7 +461,7 @@
           "description": "JRA，マツケンサンバII×有馬記念コラボWebサイト「マツケンアリマ66」を公開。松平 健さんとのレース観戦を目指すという謎のゲームも登場  4Gamer.net",
           "link": "https://www.4gamer.net/games/999/G999905/20211209108/",
           "publishedOn": "2021-12-09T09:18:50.000Z",
-          "wordCount": 625,
+          "wordCount": 624,
           "title": "JRA，マツケンサンバII×有馬記念コラボWebサイト「マツケンアリマ66」を公開。松平 健さんとのレース観戦を目指すという謎のゲームも登場 - 4Gamer.net"
         },
         {
@@ -474,21 +483,12 @@
           "title": "水道支える橋が“崩落” リスクはなぜ見落とされた - NHK NEWS WEB"
         },
         {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jYTYzMjdmMTNlNDk5OGQzZThlYjQyNWE5NmE1MGFkNGVkZDQ3ODdh0gEA",
-          "author": null,
-          "description": "ザ・スーツカンパニー、初の「バーチャルショップ」開設 Webでも視覚的な要素を訴求（ITmedia ビジネスオンライン） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/ca6327f13e4998d3e8eb425a96a50ad4edd4787a",
-          "publishedOn": "2021-12-09T02:36:29.000Z",
-          "wordCount": 142,
-          "title": "ザ・スーツカンパニー、初の「バーチャルショップ」開設 Webでも視覚的な要素を訴求（ITmedia ビジネスオンライン） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
           "id": "CBMiNWh0dHBzOi8vcGMud2F0Y2guaW1wcmVzcy5jby5qcC9kb2NzL25ld3MvMTM3MjcyNS5odG1s0gFAaHR0cHM6Ly9wYy53YXRjaC5pbXByZXNzLmNvLmpwL2RvY3MvbmV3cy8xMzcyLzcyNS9hbXAuaW5kZXguaHRtbA",
           "author": null,
           "description": "現場作業しながらWeb会議。Webexが「Glass Enterprise Edition 2」で利用可能に  PC Watch",
           "link": "https://pc.watch.impress.co.jp/docs/news/1372725.html",
           "publishedOn": "2021-12-09T01:41:32.000Z",
-          "wordCount": 110,
+          "wordCount": 114,
           "title": "現場作業しながらWeb会議。Webexが「Glass Enterprise Edition 2」で利用可能に - PC Watch"
         },
         {
@@ -497,7 +497,7 @@
           "description": "ヤクルトがコーチングスタッフを発表（東スポWeb） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/4cc267a9435c9371d15af1ded1448efe23d84fec",
           "publishedOn": "2021-12-09T01:11:00.000Z",
-          "wordCount": 176,
+          "wordCount": 179,
           "title": "ヤクルトがコーチングスタッフを発表（東スポWeb） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -506,8 +506,17 @@
           "description": "トライアンフ「タイガー1200XRT」【1分で読める 現行アドベンチャーバイク紹介】（webオートバイ） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/f8e8c54f22a0e27b970f896e7acb43a1ee247605",
           "publishedOn": "2021-12-08T23:10:19.000Z",
-          "wordCount": 148,
+          "wordCount": 150,
           "title": "トライアンフ「タイガー1200XRT」【1分で読める 現行アドベンチャーバイク紹介】（webオートバイ） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiJGh0dHBzOi8vaXBob25lLW1hbmlhLmpwL25ld3MtNDI1NDAyL9IBAA",
+          "author": null,
+          "description": "Apple、オープンソースWebサイトを刷新  iPhone Mania",
+          "link": "https://iphone-mania.jp/news-425402/",
+          "publishedOn": "2021-12-08T22:23:00.000Z",
+          "wordCount": 209,
+          "title": "Apple、オープンソースWebサイトを刷新 - iPhone Mania"
         },
         {
           "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjA4L2sxMDAxMzM3Nzg0MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMDgvYW1wL2sxMDAxMzM3Nzg0MTAwMC5odG1s",
@@ -523,8 +532,8 @@
           "author": null,
           "description": "冬至にかぼちゃを食べるのはなぜ？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/648dca2de919fc53a1d064ff0da7159d7695543a",
-          "publishedOn": "2021-12-08T11:04:08.000Z",
-          "wordCount": 167,
+          "publishedOn": "2021-12-08T11:02:11.000Z",
+          "wordCount": 166,
           "title": "冬至にかぼちゃを食べるのはなぜ？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -533,7 +542,7 @@
           "description": "57歳モニカ・ベルッチが語る、美しいボディとエイジング論。（webマガジン mi-mollet） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/aef03f81f24ee298387719f659bd8011bed11659",
           "publishedOn": "2021-12-08T11:01:33.000Z",
-          "wordCount": 139,
+          "wordCount": 138,
           "title": "57歳モニカ・ベルッチが語る、美しいボディとエイジング論。（webマガジン mi-mollet） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -555,22 +564,31 @@
           "title": "65万人の命を救った日本人医師 - NHK NEWS WEB"
         },
         {
+          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMjkuMDAwMDcyMTIzLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAyOS4wMDAwNzIxMjMuaHRtbA",
+          "author": null,
+          "description": "DX時代のビジネスマッチングプラットフォーム「M&A-WEB（エムエーウェブ）」が、「スタートアップ事業M&A特集」を掲載開始  PR TIMES",
+          "link": "https://prtimes.jp/main/html/rd/p/000000029.000072123.html",
+          "publishedOn": "2021-12-08T06:02:49.000Z",
+          "wordCount": 643,
+          "title": "DX時代のビジネスマッチングプラットフォーム「M&A-WEB（エムエーウェブ）」が、「スタートアップ事業M&A特集」を掲載開始 - PR TIMES"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDUwNzkuMDAwMDE0ODI3Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwNTA3OS4wMDAwMTQ4MjcuaHRtbA",
+          "author": null,
+          "description": "無料で読めるWEB漫画サイト「コミックブシロードWEB」にて好評連載中!!サイトウケンジ×伊藤イットが贈る、オカルティックアクション「ホウカゴB面セカイ」単行本1巻が本日12月8日(水)発売!!  PR TIMES",
+          "link": "https://prtimes.jp/main/html/rd/p/000005079.000014827.html",
+          "publishedOn": "2021-12-08T02:30:02.000Z",
+          "wordCount": 635,
+          "title": "無料で読めるWEB漫画サイト「コミックブシロードWEB」にて好評連載中!!サイトウケンジ×伊藤イットが贈る、オカルティックアクション「ホウカゴB面セカイ」単行本1巻が本日12月8日(水)発売!! - PR TIMES"
+        },
+        {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zMzY4ZGRmMjNiMjE2NmEwNDM3YTdiNTU1YjQzNDY3ZTU4MzViODM00gEA",
           "author": null,
           "description": "F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/3368ddf23b2166a0437a7b555b43467e5835b834",
           "publishedOn": "2021-12-08T02:04:39.000Z",
-          "wordCount": 133,
+          "wordCount": 134,
           "title": "F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNjk4ZjJmZjU2ZjUzMDMwNzQxZTQzNTU2ZDE2ZTdhNjEyZWYyNTY20gEA",
-          "author": null,
-          "description": "Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/a698f2ff56f53030741e43556d16e7a612ef2566",
-          "publishedOn": "2021-12-07T22:34:43.000Z",
-          "wordCount": 185,
-          "title": "Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy82NzRhNjc2NTMzNDU1ZmM5ZWUyNDIxYmMyOTNlY2JjMGY4ZTFmZTkz0gEA",
@@ -578,7 +596,7 @@
           "description": "AIR DO、宮城県を紹介するWebサイト。朝ドラ「おかえりモネ」舞台地めぐりルートも（Impress Watch） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/674a676533455fc9ee2421bc293ecbc0f8e1fe93",
           "publishedOn": "2021-12-07T22:00:00.000Z",
-          "wordCount": 142,
+          "wordCount": 141,
           "title": "AIR DO、宮城県を紹介するWebサイト。朝ドラ「おかえりモネ」舞台地めぐりルートも（Impress Watch） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -587,7 +605,7 @@
           "description": "【西論プラス】オミクロン株は脅威なのか 大阪ｗｅｂ編集室長・内海俊彦  産経ニュース",
           "link": "https://www.sankei.com/article/20211208-4TWXWEC64NJ7XEZ2M7JKXQPWEY/",
           "publishedOn": "2021-12-07T22:00:00.000Z",
-          "wordCount": 54,
+          "wordCount": 50,
           "title": "【西論プラス】オミクロン株は脅威なのか 大阪ｗｅｂ編集室長・内海俊彦 - 産経ニュース"
         },
         {
@@ -596,7 +614,7 @@
           "description": "あちこちで見かけるけどどういう意味？ 「スクランブル交差点」とは（WEB CARTOP） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/c812368c3d5685da47fceb5f1636767a76fa2667",
           "publishedOn": "2021-12-07T21:20:19.000Z",
-          "wordCount": 139,
+          "wordCount": 137,
           "title": "あちこちで見かけるけどどういう意味？ 「スクランブル交差点」とは（WEB CARTOP） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -604,8 +622,8 @@
           "author": null,
           "description": "除夜の鐘の回数はなぜ108回なの？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/51c5c8a95798e722864eddd7f81909eeb2a61085",
-          "publishedOn": "2021-12-07T12:00:56.000Z",
-          "wordCount": 140,
+          "publishedOn": "2021-12-07T12:06:37.000Z",
+          "wordCount": 139,
           "title": "除夜の鐘の回数はなぜ108回なの？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -614,7 +632,7 @@
           "description": "ＷＡＴＷＩＮＧがクリスマスライブ開催 高橋颯「感慨深い」（東スポWeb） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/9f270a9fc3870b21c64d2a72e7f440e2cd2b53c5",
           "publishedOn": "2021-12-07T11:41:20.000Z",
-          "wordCount": 134,
+          "wordCount": 135,
           "title": "ＷＡＴＷＩＮＧがクリスマスライブ開催 高橋颯「感慨深い」（東スポWeb） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -623,17 +641,8 @@
           "description": "【ヴァン クリーフ＆アーペル】“赤いハート”のジュエリーにときめく理由（webマガジン mi-mollet） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/a7faafa86e0de185a2880ad7ff07b6bf68f9f9e9",
           "publishedOn": "2021-12-07T11:31:33.000Z",
-          "wordCount": 161,
+          "wordCount": 160,
           "title": "【ヴァン クリーフ＆アーペル】“赤いハート”のジュエリーにときめく理由（webマガジン mi-mollet） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yNDIzZjdjMTA4MmVhZTQzMDRiOGIxNTQxNTI2M2I4ZmM1MjY2M2Ix0gEA",
-          "author": null,
-          "description": "F1サウジアラビアGP、アルファタウリ・ホンダのガスリーの失敗（Webモーターマガジン） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/2423f7c1082eae4304b8b15415263b8fc52663b1",
-          "publishedOn": "2021-12-07T10:10:12.000Z",
-          "wordCount": 221,
-          "title": "F1サウジアラビアGP、アルファタウリ・ホンダのガスリーの失敗（Webモーターマガジン） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiLGh0dHBzOi8vb25saW5lLnN0ZXJlb3NvdW5kLmNvLmpwL2FzLzE3NTAxNTEx0gEA",
@@ -641,7 +650,7 @@
           "description": "Auto Sound Web Grand Prix 2021：アルパイン ビッグXナビシリーズがGold Awardを獲得した理由  Stereo Sound ONLINE",
           "link": "https://online.stereosound.co.jp/as/17501511",
           "publishedOn": "2021-12-07T03:09:19.000Z",
-          "wordCount": 235,
+          "wordCount": 231,
           "title": "Auto Sound Web Grand Prix 2021：アルパイン ビッグXナビシリーズがGold Awardを獲得した理由 - Stereo Sound ONLINE"
         },
         {
@@ -650,7 +659,7 @@
           "description": "NEC、D-Waveのクラウドサービス販売 Webブラウザで量子コンピュータ活用、日本語サポートも  ITmedia NEWS",
           "link": "https://www.itmedia.co.jp/news/articles/2112/07/news085.html",
           "publishedOn": "2021-12-07T02:30:00.000Z",
-          "wordCount": 164,
+          "wordCount": 165,
           "title": "NEC、D-Waveのクラウドサービス販売 Webブラウザで量子コンピュータ活用、日本語サポートも - ITmedia NEWS"
         },
         {
@@ -659,7 +668,7 @@
           "description": "Web版「Excel」が巨大ファイルに対応、デスクトップ版なしでもSharePoint/OneDriveから開けるように／レガシーなアートオブジェクトを含むファイルやパスワード保護されたファイルも扱える  窓の杜",
           "link": "https://forest.watch.impress.co.jp/docs/news/1372070.html",
           "publishedOn": "2021-12-07T02:00:00.000Z",
-          "wordCount": 115,
+          "wordCount": 112,
           "title": "Web版「Excel」が巨大ファイルに対応、デスクトップ版なしでもSharePoint/OneDriveから開けるように／レガシーなアートオブジェクトを含むファイルやパスワード保護されたファイルも扱える - 窓の杜"
         },
         {
@@ -668,7 +677,7 @@
           "description": "五戸・倉石温泉、運営者を公募 応募なければ閉館（Web東奥） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/10119669880b78f485339dba10ab8584159e37bb",
           "publishedOn": "2021-12-07T01:27:32.000Z",
-          "wordCount": 132,
+          "wordCount": 133,
           "title": "五戸・倉石温泉、運営者を公募 応募なければ閉館（Web東奥） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
@@ -677,7 +686,7 @@
           "description": "Microsoft、中国のスパイグループのWebドメインを押収  ITmedia NEWS",
           "link": "https://www.itmedia.co.jp/news/articles/2112/07/news077.html",
           "publishedOn": "2021-12-07T01:08:00.000Z",
-          "wordCount": 152,
+          "wordCount": 153,
           "title": "Microsoft、中国のスパイグループのWebドメインを押収 - ITmedia NEWS"
         },
         {
@@ -686,17 +695,8 @@
           "description": "“アサヒスーパードライ”と『THE FIRST TAKE』がコラボ！ WEB限定CMも公開（THE FIRST TIMES） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/c35f0ec7c9790ade602fe7c0cfa18ae8c9cb5d5a",
           "publishedOn": "2021-12-07T01:01:03.000Z",
-          "wordCount": 173,
+          "wordCount": 174,
           "title": "“アサヒスーパードライ”と『THE FIRST TAKE』がコラボ！ WEB限定CMも公開（THE FIRST TIMES） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lMTEzMzhjYzE1YjNhNzE1MjViOGZiMjE4MDA4MTIzYWZhMzEzZjVk0gEA",
-          "author": null,
-          "description": "「キリン一番搾り 糖質ゼロ」スペシャルWebムービーを公開 森進一さんとHiro さん親子が出演（オーヴォ） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/e11338cc15b3a71525b8fb218008123afa313f5d",
-          "publishedOn": "2021-12-06T23:30:33.000Z",
-          "wordCount": 150,
-          "title": "「キリン一番搾り 糖質ゼロ」スペシャルWebムービーを公開 森進一さんとHiro さん親子が出演（オーヴォ） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85ZDM2MzY2MzlmMzRhZDI2MDU0MWZkODJmYjQ1NWVhZjNmMTg1NGE30gEA",
@@ -704,26 +704,17 @@
           "description": "肌が黒ずむのはなんで？医師が徹底解説（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/9d3636639f34ad260541fd82fb455eaf3f1854a7",
           "publishedOn": "2021-12-06T23:09:07.000Z",
-          "wordCount": 145,
+          "wordCount": 144,
           "title": "肌が黒ずむのはなんで？医師が徹底解説（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hODAyYTY2MTUxZjU2Zjk5YTg3NzIxY2M5YjU2ZDRmMTAxYzNmNmY30gEA",
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yMmRkYWZkMDdjYmRhYjExODc5ZWZjNmNlNTg3MjliNmQzYmI0ZWUx0gEA",
           "author": null,
-          "description": "＜林凛＞初水着も話題の現役女子大生 「ヤンマガWeb」に 水着で抜群のプロポーション（MANTANWEB） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/a802a66151f56f99a87721cc9b56d4f101c3f6f7",
-          "publishedOn": "2021-12-06T13:11:00.000Z",
-          "wordCount": 138,
-          "title": "＜林凛＞初水着も話題の現役女子大生 「ヤンマガWeb」に 水着で抜群のプロポーション（MANTANWEB） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yMTEyLzA2L25ld3MxNTcuaHRtbNIBAA",
-          "author": null,
-          "description": "訓練なしにWebサイトを最大2倍速く読めるように Chrome用拡張機能を無償公開 日本ユニシス  ITmedia",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/06/news157.html",
-          "publishedOn": "2021-12-06T10:24:00.000Z",
-          "wordCount": 150,
-          "title": "訓練なしにWebサイトを最大2倍速く読めるように Chrome用拡張機能を無償公開 日本ユニシス - ITmedia"
+          "description": "神職になるにはどうするの？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/22ddafd07cbdab11879efc6ce58729b6d3bb4ee1",
+          "publishedOn": "2021-12-06T11:03:00.000Z",
+          "wordCount": 140,
+          "title": "神職になるにはどうするの？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hODZjNzA2MTc5NmM1NTI5NzU0OWU1N2M4MzIxNzY0MmI0MjdjN2Y10gEA",
@@ -731,8 +722,17 @@
           "description": "Webブラウザーを自由にデザインできる「Vivaldi 5.0」が公開 ～翻訳パネルも搭載（Impress Watch） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/a86c7061796c55297549e57c83217642b427c7f5",
           "publishedOn": "2021-12-06T08:31:42.000Z",
-          "wordCount": 169,
+          "wordCount": 167,
           "title": "Webブラウザーを自由にデザインできる「Vivaldi 5.0」が公開 ～翻訳パネルも搭載（Impress Watch） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiJmh0dHBzOi8vbW90b3ItZmFuLmpwL21mL2FydGljbGUvMjc2ODkv0gEsaHR0cHM6Ly9tb3Rvci1mYW4uanAvbWYvYXJ0aWNsZS8yNzY4OS8_YW1wPTE",
+          "author": null,
+          "description": "フォトブック付きWebセミナーで「スポーツカーに心揺さぶられるのはなぜか？」両角岳彦と語り尽くそう【のりもの探偵団「スポーツカー百年史を図解で読む・語る」】  MotorFan[モーターファン]",
+          "link": "https://motor-fan.jp/mf/article/27689/",
+          "publishedOn": "2021-12-06T07:35:35.000Z",
+          "wordCount": 186,
+          "title": "フォトブック付きWebセミナーで「スポーツカーに心揺さぶられるのはなぜか？」両角岳彦と語り尽くそう【のりもの探偵団「スポーツカー百年史を図解で読む・語る」】 - MotorFan[モーターファン]"
         },
         {
           "id": "CBMiNWh0dHBzOi8vc3AucmFrdXRlbmVhZ2xlcy5qcC9uZXdzL2RldGFpbC8wMDAwNDI1OS5odG1s0gEA",
@@ -749,8 +749,26 @@
           "description": "シャープ、ミニマルでシンプルな5Gスマートフォン「AQUOS wish」（PHILE WEB） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/6c53f10776c512333880ade338bfa1b50e9302be",
           "publishedOn": "2021-12-06T01:00:00.000Z",
-          "wordCount": 156,
+          "wordCount": 154,
           "title": "シャープ、ミニマルでシンプルな5Gスマートフォン「AQUOS wish」（PHILE WEB） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83OTIxOTI4N2VjYmQ3N2RjZTIwZWU5ODUzMzEzYzBkNzE1MTNjZWE20gEA",
+          "author": null,
+          "description": "お歳暮の定番品や価格の相場は？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/79219287ecbd77dce20ee9853313c0d71513cea6",
+          "publishedOn": "2021-12-05T11:00:30.000Z",
+          "wordCount": 142,
+          "title": "お歳暮の定番品や価格の相場は？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iMDk2NmMyNTkyMDM4NGJiYzNiNGUzZDUyYWNjYzMyN2RiZmZiNzVl0gEA",
+          "author": null,
+          "description": "阪神・主将総選挙は坂本誠志郎に決定！ （東スポWeb） - Yahoo!ニュース  Yahoo!ニュース",
+          "link": "https://news.yahoo.co.jp/articles/b0966c25920384bbc3b4e3d52accc327dbffb75e",
+          "publishedOn": "2021-12-04T05:53:48.000Z",
+          "wordCount": 138,
+          "title": "阪神・主将総選挙は坂本誠志郎に決定！ （東スポWeb） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiM2h0dHBzOi8vd3d3LmppamkuY29tL2pjL3Y0P2lkPTIwMjExMjAzc2Vpa2Fpd2ViMDAwMdIBAA",
@@ -758,26 +776,8 @@
           "description": "「矢野論文」が引き金、バラマキ論争の結末は？【政界Ｗｅｂ】：時事ドットコム  時事通信",
           "link": "https://www.jiji.com/jc/v4?id=20211203seikaiweb0001",
           "publishedOn": "2021-12-03T08:00:00.000Z",
-          "wordCount": 266,
+          "wordCount": 268,
           "title": "「矢野論文」が引き金、バラマキ論争の結末は？【政界Ｗｅｂ】：時事ドットコム - 時事通信"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjAzL2sxMDAxMzM2NjIwMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMDMvYW1wL2sxMDAxMzM2NjIwMTAwMC5odG1s",
-          "author": null,
-          "description": "極秘文書から見えた 新しい“山本五十六”  NHK NEWS WEB",
-          "link": "https://www3.nhk.or.jp/news/html/20211203/k10013366201000.html",
-          "publishedOn": "2021-12-03T08:00:00.000Z",
-          "wordCount": 64,
-          "title": "極秘文書から見えた 新しい“山本五十六” - NHK NEWS WEB"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hYzJhYTM5ZTc2ODQ0YzQ4OTQzZDZjMmI2NWRiOWFhMjgyZThjYjU30gEA",
-          "author": null,
-          "description": "両備グループが「がけっぷち！」キャンペーン2021を開催中!!（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/ac2aa39e76844c48943d6c2b65db9aa282e8cb57",
-          "publishedOn": "2021-12-03T08:00:00.000Z",
-          "wordCount": 133,
-          "title": "両備グループが「がけっぷち！」キャンペーン2021を開催中!!（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy82ZTY3YTgyYTIxOTc1M2U4Y2Y5MWE4OWY2YTY5ZWI0YmQ3YTc1OTVk0gEA",
@@ -785,26 +785,8 @@
           "description": "ポルトガルの「Web Summit」に4万人が集結！現地開催に戻りつつあるカンファレンスの今（AMP［アンプ］） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/6e67a82a219753e8cf91a89f6a69eb4bd7a7595d",
           "publishedOn": "2021-12-03T08:00:00.000Z",
-          "wordCount": 144,
+          "wordCount": 145,
           "title": "ポルトガルの「Web Summit」に4万人が集結！現地開催に戻りつつあるカンファレンスの今（AMP［アンプ］） - Yahoo!ニュース - Yahoo!ニュース"
-        },
-        {
-          "id": "CAIiEMD3_9UqfihF7zQKp7tqndUqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY",
-          "author": null,
-          "description": "名探偵コナン ハロウィンの花嫁：特報公開 「安室じゃない…公安警察・降谷零だ」 ウエディングドレスの佐藤刑事、タキシードの高木刑事 相関図も  MANTANWEB",
-          "link": "https://mantan-web.jp/article/20211203dog00m200001000c.html",
-          "publishedOn": "2021-12-02T23:40:29.000Z",
-          "wordCount": 159,
-          "title": "名探偵コナン ハロウィンの花嫁：特報公開 「安室じゃない…公安警察・降谷零だ」 ウエディングドレスの佐藤刑事、タキシードの高木刑事 相関図も - MANTANWEB"
-        },
-        {
-          "id": "CAIiENLxsgQpofcdxHFl3HZmq_sqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY",
-          "author": null,
-          "description": "機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味  MANTANWEB",
-          "link": "https://mantan-web.jp/article/20211202dog00m200082000c.html",
-          "publishedOn": "2021-12-02T08:00:00.000Z",
-          "wordCount": 177,
-          "title": "機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味 - MANTANWEB"
         },
         {
           "id": "CBMiJmh0dHBzOi8vc3Auc3R1NDguY29tL25ld3MvZGV0YWlsLzExMTAw0gEA",
@@ -816,6 +798,15 @@
           "title": "OFFICIAL WEB SITE｜STU48 FAN CLUB - ニュース | STU48 OFFICIAL WEB SITE"
         },
         {
+          "id": "CAIiENLxsgQpofcdxHFl3HZmq_sqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY",
+          "author": null,
+          "description": "機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味  MANTANWEB",
+          "link": "https://mantan-web.jp/article/20211202dog00m200082000c.html",
+          "publishedOn": "2021-12-02T08:00:00.000Z",
+          "wordCount": 173,
+          "title": "機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味 - MANTANWEB"
+        },
+        {
           "id": "CBMiRmh0dHBzOi8vd3d3LnNzbnAuY28uanAvbmV3cy9mb29kc2VydmljZS8yMDIxLzEyLzIwMjEtMTIwMi0xNjU0LTE0Lmh0bWzSAQA",
           "author": null,
           "description": "モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円  食品産業新聞社",
@@ -823,15 +814,6 @@
           "publishedOn": "2021-12-02T08:00:00.000Z",
           "wordCount": 217,
           "title": "モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円 - 食品産業新聞社"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mZjdiZDJmNzI4ZmYxNzU4ODgxM2IxMDlkMjBhNWM4ZGM2MTVhMjcy0gEA",
-          "author": null,
-          "description": "Joshin webを騙るフィッシングが報告。画面を完全コピペのため注意を（Impress Watch） - Yahoo!ニュース  Yahoo!ニュース",
-          "link": "https://news.yahoo.co.jp/articles/ff7bd2f728ff17588813b109d20a5c8dc615a272",
-          "publishedOn": "2021-12-01T08:00:00.000Z",
-          "wordCount": 146,
-          "title": "Joshin webを騙るフィッシングが報告。画面を完全コピペのため注意を（Impress Watch） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
           "id": "CBMiPWh0dHBzOi8vd3d3Lm5vZ2l6YWthNDYuY29tL3NtcGgvbmV3cy8yMDIxLzEyL3Bvc3QtMjExMDI0OS5waHDSAQA",
@@ -852,11 +834,20 @@
           "title": "成城石井 2022年福袋で“初”のWEB予約開始、直輸入お菓子セット2000円、お菓子セット・パンのお供セットは3000円 - 食品産業新聞社"
         },
         {
+          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMDkxMTAwLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAwMS4wMDAwOTExMDAuaHRtbA",
+          "author": null,
+          "description": "最短5日でキャンペーンが開催できる！Web抽選システム「SUGUU（スグー）」  PR TIMES",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000091100.html",
+          "publishedOn": "2021-12-01T08:00:00.000Z",
+          "wordCount": 599,
+          "title": "最短5日でキャンペーンが開催できる！Web抽選システム「SUGUU（スグー）」 - PR TIMES"
+        },
+        {
           "id": "CBMiTGh0dHBzOi8vd3d3LnRvaG9iYW5rLmNvLmpwL2Ntc19zb3VyY2UvZGF0YS9uZXdzcmVsZWFzZS9kZXRhaWwvMjAyMS8xNDQ4Lmh0bWzSAQA",
           "author": null,
           "description": "ホームページリニューアル記念「【第4弾】＜とうほう＞投資信託WEBご契約キャンペーン」の実施について  東邦銀行",
           "link": "https://www.tohobank.co.jp/cms_source/data/newsrelease/detail/2021/1448.html",
-          "publishedOn": "2021-11-30T06:02:10.000Z",
+          "publishedOn": "2021-11-30T08:00:00.000Z",
           "wordCount": 408,
           "title": "ホームページリニューアル記念「【第4弾】＜とうほう＞投資信託WEBご契約キャンペーン」の実施について - 東邦銀行"
         },
@@ -870,31 +861,22 @@
           "title": "パンダが和歌山にいっぱい なぜ？ - NHK NEWS WEB"
         },
         {
-          "id": "CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMTI2L2sxMDAxMzM2MDE3MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTExMjYvYW1wL2sxMDAxMzM2MDE3MTAwMC5odG1s",
+          "id": "CBMiLGh0dHBzOi8vd2ViLm1vdG9ybWFnYXppbmUuY28uanAvX2N0LzE3NDk3OTEw0gEA",
           "author": null,
-          "description": "よし、北海道を飲もう！～ワインの神に愛される北の大地  NHK NEWS WEB",
-          "link": "https://www3.nhk.or.jp/news/html/20211126/k10013360171000.html",
-          "publishedOn": "2021-11-26T08:00:00.000Z",
-          "wordCount": 63,
-          "title": "よし、北海道を飲もう！～ワインの神に愛される北の大地 - NHK NEWS WEB"
+          "description": "トヨタ ランドクルーザーは悪路になるほど活き活きする頼もしい相棒 - Webモーターマガジン  motormagazine.co.jp",
+          "link": "https://web.motormagazine.co.jp/_ct/17497910",
+          "publishedOn": "2021-11-27T08:00:00.000Z",
+          "wordCount": 123,
+          "title": "トヨタ ランドクルーザーは悪路になるほど活き活きする頼もしい相棒 - Webモーターマガジン - motormagazine.co.jp"
         },
         {
-          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDA1MDguMDAwMDA5MjE1Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDUwOC4wMDAwMDkyMTUuaHRtbA",
+          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMjQuMDAwMDE4MzMxLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAyNC4wMDAwMTgzMzEuaHRtbA",
           "author": null,
-          "description": "「から揚げの天才」がクリスマスパーティープレート販売！アプリ・WEBからの予約でさらにお得に！！  PR TIMES",
-          "link": "https://prtimes.jp/main/html/rd/p/000000508.000009215.html",
+          "description": "アバー・インフォメーション、高品質なWeb会議カメラをよりお求めやすい価格でご提供  PR TIMES",
+          "link": "https://prtimes.jp/main/html/rd/p/000000024.000018331.html",
           "publishedOn": "2021-11-24T08:00:00.000Z",
-          "wordCount": 657,
-          "title": "「から揚げの天才」がクリスマスパーティープレート販売！アプリ・WEBからの予約でさらにお得に！！ - PR TIMES"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMTAuMDAwMDQzNTE0Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAxMC4wMDAwNDM1MTQuaHRtbA",
-          "author": null,
-          "description": "20~30代を対象にWebマーケティングのスキル習得に関する調査を実施 独学者の約5割が「実務での活かし方」に悩み  PR TIMES",
-          "link": "https://prtimes.jp/main/html/rd/p/000000010.000043514.html",
-          "publishedOn": "2021-11-22T08:00:00.000Z",
-          "wordCount": 619,
-          "title": "20~30代を対象にWebマーケティングのスキル習得に関する調査を実施 独学者の約5割が「実務での活かし方」に悩み - PR TIMES"
+          "wordCount": 645,
+          "title": "アバー・インフォメーション、高品質なWeb会議カメラをよりお求めやすい価格でご提供 - PR TIMES"
         },
         {
           "id": "CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iMjQ4MmZmMGU5MjIzZDdjMzVkMTEyMzQ1MTdhOWFmZjczZTFjYTNk0gEA",
@@ -902,8 +884,17 @@
           "description": "副業Webライターが時給240円から月5万円にするために実践した5つのこと（ウォーカープラス） - Yahoo!ニュース  Yahoo!ニュース",
           "link": "https://news.yahoo.co.jp/articles/b2482ff0e9223d7c35d11234517a9aff73e1ca3d",
           "publishedOn": "2021-11-19T08:00:00.000Z",
-          "wordCount": 169,
+          "wordCount": 168,
           "title": "副業Webライターが時給240円から月5万円にするために実践した5つのこと（ウォーカープラス） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
+          "id": "CAIiEIx30SqpnL6RnuKah_ZOJs0qGQgEKhAIACoHCAow7Z2TCzCN26gDMNyzvwY",
+          "author": null,
+          "description": "ヤマト、「宅配便をスマホで送る」がWeb領収書対応。Appleウォレットも  Impress Watch",
+          "link": "https://www.watch.impress.co.jp/docs/news/1366288.html",
+          "publishedOn": "2021-11-15T08:00:00.000Z",
+          "wordCount": 85,
+          "title": "ヤマト、「宅配便をスマホで送る」がWeb領収書対応。Appleウォレットも - Impress Watch"
         }
       ]
     },
@@ -913,12 +904,219 @@
       "siteUrl": "https://ascii.jp/1/",
       "articles": [
         {
+          "id": "https://ascii.jp/elem/000/004/076/4076266/?rss",
+          "author": null,
+          "description": "本連載は、Adobe Acrobat DCを使いこなすための使い方やTIPSを紹介する。第141回は、ビジネス文書の長期保存に便利なAcrobat DCのポートフォリオ機能について紹介する。",
+          "link": "https://ascii.jp/elem/000/004/076/4076266/?rss",
+          "publishedOn": "2021-12-13T01:00:00.000Z",
+          "wordCount": 308,
+          "title": "ビジネス文書の長期保存にはAcrobat DCのポートフォリオ機能が便利"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/075/4075869/?rss",
+          "author": null,
+          "description": "リアルとオンラインで開催された2021年のPyCon JP。特に興味深かった2つのキーノートや、現地の熱量を感じられる会場の様子を紹介。",
+          "link": "https://ascii.jp/elem/000/004/075/4075869/?rss",
+          "publishedOn": "2021-12-13T01:00:00.000Z",
+          "wordCount": 451,
+          "title": "PyCon JP2021から見るPython業界とオンラインイベントの今"
+        },
+        {
+          "id": "https://ascii.jp/limit/group/ida/elem/000/004/077/4077718/?rss",
+          "author": null,
+          "description": "岸田首相が所信表明演説で掲げた「デジタル田園都市スーパーハイウェイ」。太平洋側だけでなく日本海側にも海底ケーブルを敷く計画とみられる。",
+          "link": "https://ascii.jp/limit/group/ida/elem/000/004/077/4077718/?rss",
+          "publishedOn": "2021-12-13T00:00:00.000Z",
+          "wordCount": 524,
+          "title": "岸田首相の「デジタル田園都市スーパーハイウェイ」とは"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077298/?rss",
+          "author": null,
+          "description": "仕事で使えるビジネス版LINEである「LINE WORKS」（ワークスモバイルジャパン）の連載では、アカウント作成の基本からビジネスシーンでの活用術、便利なTipsなどを紹介していく予定。第72回は、社内プレゼンに便利な「社内説明のためのスターターキット」について解説する。",
+          "link": "https://ascii.jp/elem/000/004/077/4077298/?rss",
+          "publishedOn": "2021-12-13T00:00:00.000Z",
+          "wordCount": 314,
+          "title": "見逃すな！LINE WORKSが導入時の社内プレゼンに便利な説明キットを配布中！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077767/?rss",
+          "author": null,
+          "description": "本連載「ざっくり知っておきたいIT業界データ」では、過去1週間（2021年12月4日～12月10日）に調査会社などから発表されたIT市場予測やユーザー動向などのデータを、それぞれ3行にまとめてお伝えします。",
+          "link": "https://ascii.jp/elem/000/004/077/4077767/?rss",
+          "publishedOn": "2021-12-12T23:00:00.000Z",
+          "wordCount": 438,
+          "title": "上場企業のデジ庁への期待は「行政手続き簡素化」、データ流通基盤市場の活発化と課題、ほか"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077769/?rss",
+          "author": null,
+          "description": "GitHub Japanが、同社の年次カンファレンス「GitHub Universe 2021」で発表された機能のハイライトを解説する記者説明会を行った。同時に2021年のソフトウェア開発者の動向をまとめた年次レポート「The State of the Octoverse 2021」についても紹介し、コロナ禍における開発生産性向上のポイントや国内開発者の傾向などにも触れている。",
+          "link": "https://ascii.jp/elem/000/004/077/4077769/?rss",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 496,
+          "title": "「GitHub Universe 2021」で発表の主要アップデートを日本法人が解説"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077741/?rss",
+          "author": null,
+          "description": "ちまたで話題のおいしいグルメ情報を生放送でご紹介します。お昼ご飯を召し上がりながらどうぞ！",
+          "link": "https://ascii.jp/elem/000/004/077/4077741/?rss",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 432,
+          "title": "「アスキーグルメNEWS」生放送（2021年12月17日号）"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077610/?rss",
+          "author": null,
+          "description": "Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 6。木曜22:00から放送スタート！",
+          "link": "https://ascii.jp/elem/000/004/077/4077610/?rss",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 454,
+          "title": "自作PCトーク『ジサトラKTU』生放送 ～Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 6～"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077565/?rss",
+          "author": null,
+          "description": "12月13日（月）20時から生放送。今回は5万円台で1億画素カメラ搭載「Xiaomi 11T」の実機レビューをお届けします！",
+          "link": "https://ascii.jp/elem/000/004/077/4077565/?rss",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 444,
+          "title": "5万円台で1億画素カメラスマホが買える！「Xiaomi 11T」実機レビューの巻：205"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077787/?rss",
+          "author": null,
+          "description": "自然言語処理におけるAI研究の主流となっている大規模言語モデルには、訓練に膨大な計算能力を必要とするという欠点がある、ディープマインドは外部メモリーを辞書として活用することで、訓練に要するコストを大幅に下げられるモデルを発表した。",
+          "link": "https://ascii.jp/elem/000/004/077/4077787/?rss",
+          "publishedOn": "2021-12-12T21:55:23.000Z",
+          "wordCount": 559,
+          "title": "ディープマインドが言語モデル「RETRO」発表、訓練コストを大幅削減"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077740/?rss",
+          "author": null,
+          "description": "2021年12月13日、日本一ソフトウェアの公式サイト「Nippon1.jp」にて、「謎のカウントダウンサイト」が公開された。サイトには「あと三日」の文字と懐中時計の映像が表示されている。",
+          "link": "https://ascii.jp/elem/000/004/077/4077740/?rss",
+          "publishedOn": "2021-12-12T15:00:00.000Z",
+          "wordCount": 286,
+          "title": "日本一ソフトウェア、「懐中時計」を浮かべた謎のカウントダウンサイトを公開"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077643/?rss",
+          "author": null,
+          "description": "洗濯機で洗えるから汚れや汗の染み込みが気になる方も十分ご満足頂けるはず。USB充電温熱手袋「すぐぬっく2」をお見逃しなく！",
+          "link": "https://ascii.jp/elem/000/004/077/4077643/?rss",
+          "publishedOn": "2021-12-12T13:00:00.000Z",
+          "wordCount": 451,
+          "title": "3段階で温度調節ができるワイヤレス温熱手袋が人気｜アスキーストア売れ筋TOP5"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077785/?rss",
+          "author": null,
+          "description": "Cygamesが運営するスマホゲーム『グランブルーファンタジー』の配信イベント「グラブルフェス2021」てに、『グランンブルーファンタジー ヴァーサス』と『グランブルーファンタジー リリンク』の新情報が発表された。",
+          "link": "https://ascii.jp/elem/000/004/077/4077785/?rss",
+          "publishedOn": "2021-12-12T12:45:00.000Z",
+          "wordCount": 378,
+          "title": "「グラブルフェス2021」で『グラブルVS』と『GRANBLUE FANTASY: Relink』の新着情報を発表！"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077649/?rss",
+          "author": null,
+          "description": "手回しでスマホなどのバッテリ充電ができるLEDライト「ASSIKE04（アズシーク）」販売中。",
+          "link": "https://ascii.jp/elem/000/004/077/4077649/?rss",
+          "publishedOn": "2021-12-12T12:00:00.000Z",
+          "wordCount": 338,
+          "title": "災害時に必要な8種の機能を1台に搭載したダイナモラジオライト「ASSIKE04」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077644/?rss",
+          "author": null,
+          "description": "コンパクトサイズで収納力抜群のボディーバッグ「niid R0 Chest Bag」販売中。価格は1万2650円。",
+          "link": "https://ascii.jp/elem/000/004/077/4077644/?rss",
+          "publishedOn": "2021-12-12T11:00:00.000Z",
+          "wordCount": 382,
+          "title": "複数の仕切りで収納力抜群！ 人気のボディバッグ「niid R0 Chest Bag」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077652/?rss",
+          "author": null,
+          "description": "塗装の前に一度組んでみてから、いよいよ塗装に入ります。",
+          "link": "https://ascii.jp/elem/000/004/077/4077652/?rss",
+          "publishedOn": "2021-12-12T08:00:00.000Z",
+          "wordCount": 673,
+          "title": "中古モトコンポの自作トップカバーを塗装しました"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077651/?rss",
+          "author": null,
+          "description": "首筋を温める「Qurra ネッククーラー&ウォーマー ひやぬっくコードレス 3R-NCW02」を販売中。",
+          "link": "https://ascii.jp/elem/000/004/077/4077651/?rss",
+          "publishedOn": "2021-12-12T08:00:00.000Z",
+          "wordCount": 345,
+          "title": "今年の寒さ対策はコレ！ マフラーよりも断然暖かい「ひやぬっくコードレス」"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077446/?rss",
+          "author": null,
+          "description": "すき家は12月27日より、恒例となった福袋「SMILE BOX 2022」を店舗・数量限定で販売する。",
+          "link": "https://ascii.jp/elem/000/004/077/4077446/?rss",
+          "publishedOn": "2021-12-12T06:30:00.000Z",
+          "wordCount": 343,
+          "title": "「すき家」福袋を27日から発売！ クーポン＋グッズが2000円でファン必見"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077780/?rss",
+          "author": null,
+          "description": "Amazon.co.jpがiPhone 13シリーズと第2世代iPhone SEのSIMフリー版を販売開始。また、goo SimsellerはSIMセットでAQUOS sense6を2万円で提供。",
+          "link": "https://ascii.jp/elem/000/004/077/4077780/?rss",
+          "publishedOn": "2021-12-12T06:00:00.000Z",
+          "wordCount": 1336,
+          "title": "【格安スマホまとめ】アマゾンでSIMフリー版iPhone販売　goo SimsellerのセールでAQUOS sense6が2万円"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077779/?rss",
+          "author": null,
+          "description": "「OCN モバイル ONE」は、NTTコミュニケーションズがドコモMVNOとして提供する格安SIMで、開始は2013年。テレビCMや「NTT」のブランドもあって、当初から上位に食い込んでいる。今年10月には月550円のプランも登場した。",
+          "link": "https://ascii.jp/elem/000/004/077/4077779/?rss",
+          "publishedOn": "2021-12-12T03:00:00.000Z",
+          "wordCount": 715,
+          "title": "ドコモショップで契約可になった、月550円～のOCN モバイル ONEのサービス内容や速度をあらためて調べる"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077775/?rss",
+          "author": null,
+          "description": "新車を買った情報2021、前回に続いてそばの話。そろそろ連載タイトルを新そば情報に変えたほうがいいのだろうか？",
+          "link": "https://ascii.jp/elem/000/004/077/4077775/?rss",
+          "publishedOn": "2021-12-12T03:00:00.000Z",
+          "wordCount": 632,
+          "title": "DJ式シェラカップそばで昼間からチルい"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077675/?rss",
+          "author": null,
+          "description": "東京・幡ヶ谷の人気店の看板メニューをカップめん化。「Ｗ背脂パック」でたっぷりの背脂のコクを感じるスープに生姜を程よく利かせたスープを本格再現。",
+          "link": "https://ascii.jp/elem/000/004/077/4077675/?rss",
+          "publishedOn": "2021-12-12T02:30:00.000Z",
+          "wordCount": 341,
+          "title": "人気ラーメン店「我武者羅」の看板メニューがカップ麺に！「背脂×生姜」新感覚のおいしさ"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/077/4077647/?rss",
+          "author": null,
+          "description": "ソーラーパネルを搭載してバッテリー残量を気にせず使える「urbanista LOS ANGELES ソーラー充電&ノイズキャンセリングヘッドホン ブラック」発売中。",
+          "link": "https://ascii.jp/elem/000/004/077/4077647/?rss",
+          "publishedOn": "2021-12-12T02:00:00.000Z",
+          "wordCount": 361,
+          "title": "ソーラーパネル搭載！ バッテリー残量を気にせず使えるノイズキャンセリングヘッドホン"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/077/4077776/?rss",
           "author": null,
           "description": "Windows 11のデスクトップは、Windows 10から変更された部分がある。しかし、いくつかの変更はこれまで慣れ親しんできたものとの違いから、ストレスを発生させることがある。",
           "link": "https://ascii.jp/elem/000/004/077/4077776/?rss",
           "publishedOn": "2021-12-12T01:00:00.000Z",
-          "wordCount": 669,
+          "wordCount": 681,
           "title": "Windows 11の右クリックメニューが変わった問題など、細かなWin11対策を紹介"
         },
         {
@@ -927,7 +1125,7 @@
           "description": "着脱簡単な「メガネ型フェイスシールド 50個セット」。密着する部分が少ないから髪型やメイクが崩れません。",
           "link": "https://ascii.jp/elem/000/004/077/4077642/?rss",
           "publishedOn": "2021-12-12T01:00:00.000Z",
-          "wordCount": 316,
+          "wordCount": 319,
           "title": "メガネ型なら着脱ラクラク！ フェイスシールド50個セットが9689円"
         },
         {
@@ -945,7 +1143,7 @@
           "description": "かつて国内製造のPCケースを取り扱っていた「アビー」ブランドから、PCケースの新製品「smart EM30A」が発売された。",
           "link": "https://ascii.jp/elem/000/004/077/4077781/?rss",
           "publishedOn": "2021-12-11T16:50:00.000Z",
-          "wordCount": 590,
+          "wordCount": 602,
           "title": "「アビー」約4年振りのアルミ製PCケースがデビュー"
         },
         {
@@ -963,7 +1161,7 @@
           "description": "MSIから、PCI Express4.0（x4）接続に対応するNVMe M.2 SSD「SPATIUM M390」シリーズが登場した。ラインナップは500GBと1TBの2モデル。",
           "link": "https://ascii.jp/elem/000/004/077/4077777/?rss",
           "publishedOn": "2021-12-11T15:24:00.000Z",
-          "wordCount": 624,
+          "wordCount": 636,
           "title": "3300MB/secの安価なPCIe4.0対応M.2 SSDがMSIから発売"
         },
         {
@@ -972,215 +1170,8 @@
           "description": "ほとんどのiPhoneに接続できるiPhone用カメラグリップ「miggo PICTAR ONE PLUS MARK II J」を66％オフで販売中。",
           "link": "https://ascii.jp/elem/000/004/077/4077534/?rss",
           "publishedOn": "2021-12-11T14:00:00.000Z",
-          "wordCount": 354,
+          "wordCount": 357,
           "title": "期間限定66％オフ！ 写真撮影が快適になるiPhone用カメラグリップ"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077533/?rss",
-          "author": null,
-          "description": "スタイリッシュデザインの電動空気入れ「PONPRO ポンプロ 3R-IFL01」販売中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077533/?rss",
-          "publishedOn": "2021-12-11T13:00:00.000Z",
-          "wordCount": 353,
-          "title": "車以外にも自転車やバイク、浮き輪やボールに対応！ プロ仕様&ハイパワー空気入れ"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077396/?rss",
-          "author": null,
-          "description": "デルは、15.6型のゲーミングノートパソコン「New Dell G15」がお得に購入できるキャンペーンを実施中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077396/?rss",
-          "publishedOn": "2021-12-11T13:00:00.000Z",
-          "wordCount": 215,
-          "title": "GeForce RTX 3050 Ti搭載のゲーミングノート「New Dell G15」が14万円台！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077146/?rss",
-          "author": null,
-          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077146/?rss",
-          "publishedOn": "2021-12-11T13:00:00.000Z",
-          "wordCount": 226,
-          "title": "Core i7搭載の15.6型ノートPC「LIFEBOOK AH77/E3」が15万4800円！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077532/?rss",
-          "author": null,
-          "description": "スタイリッシュでパワフルなコードレスマッサージャー「CM-07（ホワイト）」を特別価格で販売中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077532/?rss",
-          "publishedOn": "2021-12-11T12:00:00.000Z",
-          "wordCount": 321,
-          "title": "今だけ特価7839円！ 全身に使えるコードレスマッサージャー「CM-07」"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077736/?rss",
-          "author": null,
-          "description": "2021年12月11日、iOS／Android向けアプリ『ソードアート・オンライン アンリーシュ・ブレイディング』と『アイドルマスター ミリオンライブ！』の相互コラボレーションの実施決定を、バンダイナムコエンターテインメントが発表した。",
-          "link": "https://ascii.jp/elem/000/004/077/4077736/?rss",
-          "publishedOn": "2021-12-11T11:50:00.000Z",
-          "wordCount": 339,
-          "title": "『SAOアリブレ』×『アイドルマスター ミリオンライブ！』の相互コラボが決定！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077774/?rss",
-          "author": null,
-          "description": "フィリップ モリス ジャパンは、8月に加熱式タバコ「IQOS」の新製品「IQOS ILUMA（イルマ）」を発表した。IQOS公式店舗では、ドアカバーに好きな文字を刻印してくれる「刻印サービス」も実施中だ。",
-          "link": "https://ascii.jp/elem/000/004/077/4077774/?rss",
-          "publishedOn": "2021-12-11T11:00:00.000Z",
-          "wordCount": 629,
-          "title": "980円からのIQOS ILUMAの刻印サービスを体験！ 自分だけのデザインにできてクリスマスプレゼントにもピッタリ！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077524/?rss",
-          "author": null,
-          "description": "ドローン操作やゲームで使えるコントローラー「RR1825A-Black for Android」「RR1852-Black for iOS（V3）」販売中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077524/?rss",
-          "publishedOn": "2021-12-11T11:00:00.000Z",
-          "wordCount": 356,
-          "title": "約1000個を超えるアプリに対応！ゲームやドローン操作で使えるコントローラー"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077390/?rss",
-          "author": null,
-          "description": "デルは、「Inspiron 15 3000」を値引きして販売している。",
-          "link": "https://ascii.jp/elem/000/004/077/4077390/?rss",
-          "publishedOn": "2021-12-11T11:00:00.000Z",
-          "wordCount": 216,
-          "title": "15.6型ノートPC「Inspiron 15 3000」が、クーポン適用で5万2273円！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077163/?rss",
-          "author": null,
-          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077163/?rss",
-          "publishedOn": "2021-12-11T11:00:00.000Z",
-          "wordCount": 218,
-          "title": "約736gの軽量ノート「LIFEBOOK WU2/E3」が、いまなら9万5990円から！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077162/?rss",
-          "author": null,
-          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077162/?rss",
-          "publishedOn": "2021-12-11T11:00:00.000Z",
-          "wordCount": 222,
-          "title": "Core i3搭載で9万円台！　約736gの軽量ノート「LIFEBOOK WU2/E3」がお買い得"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077153/?rss",
-          "author": null,
-          "description": "富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077153/?rss",
-          "publishedOn": "2021-12-11T09:00:00.000Z",
-          "wordCount": 228,
-          "title": "自宅での学習用にもおすすめ。富士通Windowsタブレット「arrows Tab EH」が7万円台！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077525/?rss",
-          "author": null,
-          "description": "動画撮影やライブ配信、スピーチの録音などさまざまな用途に利用できるワイヤレスマイク＆レシーバー「WIMAC（ワイマク）」販売中。",
-          "link": "https://ascii.jp/elem/000/004/077/4077525/?rss",
-          "publishedOn": "2021-12-11T08:00:00.000Z",
-          "wordCount": 322,
-          "title": "距離が遠く音声が収録できない、ケーブルはかさばるなどの悩みを解決！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077555/?rss",
-          "author": null,
-          "description": "「オリジン弁当」「キッチンオリジン」では12月16日10時より、引き締まった身の旨味を楽しめる「北海道産天然ぶりの照焼き弁当」を期間限定で販売します。",
-          "link": "https://ascii.jp/elem/000/004/077/4077555/?rss",
-          "publishedOn": "2021-12-11T06:30:00.000Z",
-          "wordCount": 354,
-          "title": "冬のぶりは美味しいぞ！ オリジン「北海道産天然ぶり」の弁当が登場"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077764/?rss",
-          "author": null,
-          "description": "全世界100セット限定というオーバークロック仕様のDDR4メモリー「HOF OC Lab Tempest D4-5000 8G*2」がGALAXから発売された。",
-          "link": "https://ascii.jp/elem/000/004/077/4077764/?rss",
-          "publishedOn": "2021-12-11T04:00:00.000Z",
-          "wordCount": 613,
-          "title": "全世界100セット限定のシリアルナンバー付きDDR4 OCメモリー"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077763/?rss",
-          "author": null,
-          "description": "ASUSから、Intel Z690チップセット搭載マザーボードの新製品「ROG STRIX Z690-G GAMING WIFI」が発売された。",
-          "link": "https://ascii.jp/elem/000/004/077/4077763/?rss",
-          "publishedOn": "2021-12-11T04:00:00.000Z",
-          "wordCount": 289,
-          "title": "ASUSからWi-Fi 6E対応のZ690搭載Micro ATXマザーが発売"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077761/?rss",
-          "author": null,
-          "description": "Cooler Masterから、水冷ユニットのウォーターチューブを発光させるスリーブ「LED Tube Sleeve A1」が発売された。",
-          "link": "https://ascii.jp/elem/000/004/077/4077761/?rss",
-          "publishedOn": "2021-12-11T04:00:00.000Z",
-          "wordCount": 619,
-          "title": "これはキレイ！ 水冷のチューブを光らせるスリーブが爆誕"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077758/?rss",
-          "author": null,
-          "description": "Cooler Masterの80PLUS GOLD認証取得電源ユニット「MWE Gold V2」シリーズから、容量1050Wと1250Wが発売された。",
-          "link": "https://ascii.jp/elem/000/004/077/4077758/?rss",
-          "publishedOn": "2021-12-11T04:00:00.000Z",
-          "wordCount": 622,
-          "title": "Cooler Masterから1050Wと1250Wの80PLUS GOLD電源が発売"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077609/?rss",
-          "author": null,
-          "description": "2021年は日本を代表する時計のシチズンが、スマートウォッチのラインナップを一気に拡大した。ファンが各製品にどんな期待を寄せているのか、シチズン時計で国内時計製品の売りの現場を統括する宇山伸二氏に聞いた",
-          "link": "https://ascii.jp/elem/000/004/077/4077609/?rss",
-          "publishedOn": "2021-12-11T03:00:00.000Z",
-          "wordCount": 277,
-          "title": "最前線に立つ販売プロに聞いた シチズンのスマートウォッチが人気を集める理由"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077506/?rss",
-          "author": null,
-          "description": "アイドルユニット「純情のアフィリア」の寺坂ユミさんに、色々なクルマに試乗してもらう当企画。今回は日産自動車のAURA（オーラ）e-POWERで、上質コンパクトの世界を体験してもらうことになりました。",
-          "link": "https://ascii.jp/elem/000/004/077/4077506/?rss",
-          "publishedOn": "2021-12-11T03:00:00.000Z",
-          "wordCount": 663,
-          "title": "日産「AURA」の上質感と柔らかな走りは幅広い年齢層に受け入れられる"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077411/?rss",
-          "author": null,
-          "description": "ASRock「Radeon RX 6900 XT Phantom Gaming D 16G OC」は、4Kゲーミングが視野に入る最上位のビデオカードだ。本稿では、最新ゲームタイトルを使って本機のパフォーマンスをチェックする。",
-          "link": "https://ascii.jp/elem/000/004/077/4077411/?rss",
-          "publishedOn": "2021-12-11T03:00:00.000Z",
-          "wordCount": 509,
-          "title": "「BF 2042」など話題のゲームを4K＆WQHDで楽しみたいなら、ASRock「Radeon RX 6900 XT Phantom Gaming D 16G OC」がイチオシだ"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077182/?rss",
-          "author": null,
-          "description": "今回レビューするのは、シャオミの「Xiaomi 11T」。Xiaomi 11Tは新たなフラッグシップモデルの1つとしてシャオミが投入した機種です。",
-          "link": "https://ascii.jp/elem/000/004/077/4077182/?rss",
-          "publishedOn": "2021-12-11T03:00:00.000Z",
-          "wordCount": 653,
-          "title": "シャオミ「Xiaomi 11T」は5万円台でハイエンドに迫るハイコスパスマホ！"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077668/?rss",
-          "author": null,
-          "description": "ロッテリアは12月20日～26日の7日間、「30％OFF バーガーパック」を期間限定で販売する。",
-          "link": "https://ascii.jp/elem/000/004/077/4077668/?rss",
-          "publishedOn": "2021-12-11T02:00:00.000Z",
-          "wordCount": 354,
-          "title": "ロッテリアお得な「30％OFFバーガーパック」クリスマス期間に販売！20日～"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/077/4077762/?rss",
-          "author": null,
-          "description": "5Gに対応したモバイルルーター「Galaxy 5G Mobile Wi-Fi」がアキバ店頭でセール中だ。取り扱っているのはイオシス アキバ中央通店などのイオシス各店で、店頭価格は1万2800円。",
-          "link": "https://ascii.jp/elem/000/004/077/4077762/?rss",
-          "publishedOn": "2021-12-11T01:00:00.000Z",
-          "wordCount": 600,
-          "title": "UQ／auから販売されている5Gモバイルルーター「Galaxy 5G」がアキバでのセールで1万2800円"
         }
       ]
     },
@@ -1190,12 +1181,84 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news067.html",
+          "author": null,
+          "description": "Googleは、2022年中にAndroid版ゲームハブアプリ「Google Playゲーム」のWindows版をリリースすると発表した。Windows搭載PCでAndroidゲームをプレイできるようになる。PCとスマートフォンやタブレットとでシームレスに続きをプレイできる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news067.html",
+          "publishedOn": "2021-12-13T00:47:00.000Z",
+          "wordCount": 184,
+          "title": "Google、Windows版「Google Playゲーム」アプリを2022年に提供へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news038.html",
+          "author": null,
+          "description": "米メンフィス大学と米カリフォルニア大学ロサンゼルス校の研究チームは、歯磨き中の手動歯ブラシを持つ手の向きの変化から磨き残しを特定するモデルを開発。歯ブラシを持つ手に装着するスマートウォッチなどの慣性センサーから手の動きを取得し分析する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news038.html",
+          "publishedOn": "2021-12-12T23:00:00.000Z",
+          "wordCount": 210,
+          "title": "歯磨きの磨き残しを検出するシステム　手の動きをスマートウォッチで計測し、分析"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news037.html",
+          "author": null,
+          "description": "東京電機大学松浦研究室の研究チームは、人が崖から滑落する際に、助かろうとナイフを斜面に突き立てて停止する動作を再現したVR触覚システムだ。落下から崖をナイフで刺し、しばらく引きずられて停止するまでの疑似体験を提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news037.html",
+          "publishedOn": "2021-12-12T23:00:00.000Z",
+          "wordCount": 165,
+          "title": "「崖から落ちたけど、壁にナイフを刺して何とか助かったぜ…」を体験できるVR、東京電機大が開発"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news063.html",
+          "author": null,
+          "description": "AWSで12月7日に発生した大規模障害について、同社が説明した。顧客が状況を把握しやすくするため、来年初頭にもステータスページを改善する計画。この障害ではDisney+や日本の任天堂などの他、Amazonの配送も影響を受けた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news063.html",
+          "publishedOn": "2021-12-12T22:04:00.000Z",
+          "wordCount": 161,
+          "title": "AWS、12月7日の大規模障害について説明　ステータスページの改善を約束"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news059.html",
+          "author": null,
+          "description": "珍しい写真や楽しい旅行の様子など、SNSに何気なく投稿しがちだが、犯罪者にとっては情報の宝庫という側面もある。匿名であっても自宅を特定され、空き巣やストーカーの被害につながることもあるといい、ネットリテラシーが改めて問われている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news059.html",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 137,
+          "title": "些細なSNS投稿が犯罪をアシスト　玄関先・往来に変わったものを置いてアカウントを特定する手法も"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news058.html",
+          "author": null,
+          "description": "2021年のイグ・ノーベル賞で、「歩きスマホ」が歩行者同士にどう影響するのかを実験した京都工芸繊維大の村上久助教ら日本の研究チームが、「動力学賞」を受賞した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news058.html",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 155,
+          "title": "集団歩行を乱す「歩きスマホ」理論の着眼点　イグノーベル賞受賞の村上久助教"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/13/news057.html",
+          "author": null,
+          "description": "2022年度与党税制改正大綱は「オープンイノベーション促進税制」を見直して一部拡充する。新事業創出を目指すベンチャーを育成し、日本経済の成長につなげることを狙い、出資額の25％を法人税の課税所得から差し引く制度だが、適用期限を2年間延長する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/13/news057.html",
+          "publishedOn": "2021-12-12T22:00:00.000Z",
+          "wordCount": 141,
+          "title": "5G税制、期間は3年延長も段階的縮小へ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2112/12/news029.html",
+          "author": null,
+          "description": "13日の深夜から15日未明にかけ、三大流星群の一つ「ふたご座流星群」が観測できる。ウェザーニュースによると、13日と14日は東日本／西日本ともに太平洋側は晴れるところが多く「バッチリ見える」。各地から生配信も行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2112/12/news029.html",
+          "publishedOn": "2021-12-12T04:15:00.000Z",
+          "wordCount": 148,
+          "title": "ふたご座流星群は13日、14日ピーク　太平洋側は「バッチリ見える」　全国各地から生配信も"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2112/12/news024.html",
           "author": null,
           "description": "人気アニメのゲーム「鬼滅の刃 ヒノカミ血風譚」をプレイしたサダタローさんは「俺はあんまり面白くなかった。でもゲームの出来が悪いわけではない」といいます。どういうことでしょうか？",
           "link": "https://www.itmedia.co.jp/news/articles/2112/12/news024.html",
           "publishedOn": "2021-12-11T22:30:00.000Z",
-          "wordCount": 141,
+          "wordCount": 142,
           "title": "キャラゲーに“全集中”　ゲーム好きの漫画家が「鬼滅の刃 ヒノカミ血風譚」の評価に困った理由"
         },
         {
@@ -1204,7 +1267,7 @@
           "description": "ポケモンGOで22年2月下旬に開催する冬の大型イベント「Pokemon GO Tour：ジョウト地方」のチケット販売が始まりました。26日はバーチャル開催、27日はリアルイベントになる予定です。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/11/news037.html",
           "publishedOn": "2021-12-11T04:50:00.000Z",
-          "wordCount": 164,
+          "wordCount": 165,
           "title": "ポケモンGOの有料イベント「ジョウトツアー」チケット発売　ジョウト地方全ポケモンに色違い"
         },
         {
@@ -1213,7 +1276,7 @@
           "description": "Epic Gamesがゲームエンジン「Unreal Engine 5」（UE5）の技術デモ「The Matrix Awakens: An Unreal Engine 5 Experience」をリリース。「PlayStation 5」と「Xbox Series X／S」で無料でダウンロードできる。広大な仮想都市を車やデジタルキャラクターが動いており、カーチェイスも体験できる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/11/news032.html",
           "publishedOn": "2021-12-10T22:57:00.000Z",
-          "wordCount": 209,
+          "wordCount": 210,
           "title": "Epic、映画「マトリックス」の世界が舞台の「Unreal Engine 5」の仮想都市デモをPS5とXboxで無料提供"
         },
         {
@@ -1222,7 +1285,7 @@
           "description": "今回から鉄道模型の運転をラズパイで制御する仕組みに挑戦します。",
           "link": "https://www.itmedia.co.jp/news/articles/2111/29/news008.html",
           "publishedOn": "2021-12-10T22:00:00.000Z",
-          "wordCount": 266,
+          "wordCount": 267,
           "title": "Nゲージの模型をラズパイで動かす　“らずてつ”その1――鉄道模型とラズパイをつなぐ"
         },
         {
@@ -1231,7 +1294,7 @@
           "description": "ヤフーは10日、地図アプリ「Yahoo! MAP」（iOS、Android）でイルミネーション開催スポットを検索できる「東京・神奈川イルミネーションマップ2021」を始めた。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news175.html",
           "publishedOn": "2021-12-10T11:42:00.000Z",
-          "wordCount": 154,
+          "wordCount": 155,
           "title": "東京と神奈川のイルミネーションスポット情報　「Yahoo! MAP」で提供"
         },
         {
@@ -1240,7 +1303,7 @@
           "description": "Twitter Japanが2021年の各種ランキングを発表。最もいいねされたツイートは、ジョー・バイデン氏が米大統領に選出された時に投稿したもので、408.8万いいねを獲得した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news171.html",
           "publishedOn": "2021-12-10T10:00:00.000Z",
-          "wordCount": 154,
+          "wordCount": 155,
           "title": "2021年、世界中で最もツイートされた絵文字は？　Twitterが発表"
         },
         {
@@ -1249,7 +1312,7 @@
           "description": "BANDAI SPIRITSは10日、公式ECサイト「ガンダムベースオンラインショップ」で一部ガンプラの抽選販売を始めた。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news168.html",
           "publishedOn": "2021-12-10T08:41:00.000Z",
-          "wordCount": 153,
+          "wordCount": 154,
           "title": "バンダイ公式サイト、品薄で一部ガンプラを抽選販売に　再生産スケジュール公開もファンは「半年先まで状況は変わらないのか」"
         },
         {
@@ -1258,7 +1321,7 @@
           "description": "「スイーツパラダイスの公式通販サイトを利用した後、クレジットカードが不正利用された」とする報告がTwitter上で相次いでいる。運営元は公式通販サイトを一時閉鎖。因果関係を調査している。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news163.html",
           "publishedOn": "2021-12-10T08:00:00.000Z",
-          "wordCount": 147,
+          "wordCount": 148,
           "title": "スイパラ通販利用者がクレカ不正利用被害に　運営元は「因果関係を調査中」"
         },
         {
@@ -1267,7 +1330,7 @@
           "description": "ドワンゴは、動画共有サイト「ニコニコ」で不正なログインを複数検出したと発表した。同社は「リスト型アカウントハッキング」の可能性があるとみて、ユーザーに注意を促している。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news162.html",
           "publishedOn": "2021-12-10T08:00:00.000Z",
-          "wordCount": 146,
+          "wordCount": 147,
           "title": "ニコニコに複数回の不正ログイン、リスト型攻撃か　「登録情報の見直しを」"
         },
         {
@@ -1276,7 +1339,7 @@
           "description": "Javaで使われるログ出力ライブラリ「Apache Log4j」に特定の文字列を送ることで、任意のリモートコードを実行できるようになる（Remote Code Execution, RCE）、ゼロデイ脆弱性があることが分かった。Java開発製品の広範囲に影響するとみられる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news157.html",
           "publishedOn": "2021-12-10T07:42:00.000Z",
-          "wordCount": 161,
+          "wordCount": 162,
           "title": "「やばすぎる」　Javaライブラリ「Log4j」にゼロデイ脆弱性、任意のリモートコードを実行可能　iCloudやSteam、Minecraftなど広範囲のJava製品に影響か"
         },
         {
@@ -1285,7 +1348,7 @@
           "description": "初音ミクのスマホゲーム「初音ミク -TAP WONDER-」は、提供元のエイチームにとって初めて本番環境にPaaSを活用したゲームだ。“PaaS初心者”企業が、アクセス集中に耐えられるインフラを構築するまでの道のりをキーパーソンに聞く。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news128.html",
           "publishedOn": "2021-12-10T05:21:00.000Z",
-          "wordCount": 185,
+          "wordCount": 186,
           "title": "「初音ミク -TAP WONDER-」を支えるクラウド基盤　“PaaS初心者”のゲーム企業が挑んだ、アクセス集中に耐えるインフラ構築"
         },
         {
@@ -1294,7 +1357,7 @@
           "description": "12月7日に設立が発表された「一般社団法人日本メタバース協会」。設立したのは4社の暗号資産（仮想通貨）取引業者であることから、「仮想通貨とメタバースは関係ないのでは」という声が多く聞こえる。この話の本質はどこにあるのだろうか。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news126.html",
           "publishedOn": "2021-12-10T05:00:00.000Z",
-          "wordCount": 162,
+          "wordCount": 163,
           "title": "「日本メタバース協会」の違和感　“当事者不在”の団体が生まれる背景"
         },
         {
@@ -1303,7 +1366,7 @@
           "description": "総務省の金子恭之大臣が、マイナポイント還元事業の第2弾を2022年1月1日に始める方針だと発表した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news125.html",
           "publishedOn": "2021-12-10T04:50:00.000Z",
-          "wordCount": 143,
+          "wordCount": 144,
           "title": "マイナポイント第2弾、1月1日開始予定　最大2万円相当を還元"
         },
         {
@@ -1312,7 +1375,7 @@
           "description": "文響社は10日、オムロンヘルスケアとの協業でコロナ禍で注目の高まった体温の基礎知識を解説する「うんこ体温ドリル」を公開した。Web版は無料公開している。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news109.html",
           "publishedOn": "2021-12-10T03:39:00.000Z",
-          "wordCount": 150,
+          "wordCount": 151,
           "title": "「うんこ体温ドリル」公開　コロナ対策で重要な体温の基礎、うんこ交えて分かりやすく"
         },
         {
@@ -1321,7 +1384,7 @@
           "description": "セールスフォース・ドットコムがSlack Japanの吸収合併を完了した。Slack Japanは解散。両社のサービスを融合させたサービス提供を進める。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news097.html",
           "publishedOn": "2021-12-10T02:50:00.000Z",
-          "wordCount": 161,
+          "wordCount": 162,
           "title": "Slack Japan解散　セールスフォース日本法人が吸収合併を完了"
         },
         {
@@ -1330,7 +1393,7 @@
           "description": "テックメディアの記者2人が互いの知らないことを調べて教え合う対談シリーズ、ここにスタート。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news102.html",
           "publishedOn": "2021-12-10T02:38:00.000Z",
-          "wordCount": 185,
+          "wordCount": 186,
           "title": "孫が生まれたらマイナンバーカードが必要？"
         },
         {
@@ -1339,7 +1402,7 @@
           "description": "iPhoneでスクショを撮ろうとして押し間違えることありませんか？　こんな代替案があります。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news083.html",
           "publishedOn": "2021-12-10T01:17:00.000Z",
-          "wordCount": 138,
+          "wordCount": 139,
           "title": "サイドボタンを使わずにiPhoneでスクショを撮る方法　押し間違いとおさらば"
         },
         {
@@ -1348,7 +1411,7 @@
           "description": "GitHubが強化したコード検索機能のプレビュー版を公開。正規表現に対応した他、特定のプログラミング言語を対象にすることや、特定の組織やリポジトリ、ファイルパスなどの検索範囲を指定することなどが可能になった。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news082.html",
           "publishedOn": "2021-12-10T01:09:00.000Z",
-          "wordCount": 166,
+          "wordCount": 167,
           "title": "GitHubがコード検索を強化　正規表現に対応、プログラミング言語別の検索も可能に"
         },
         {
@@ -1357,7 +1420,7 @@
           "description": "米ニューヨーク大学とU.S. Army Research Laboratoryの研究チームは、小型ドローンが傾斜面に着地する手法を開発。最大90度の垂直面に対して貼り付くように停止できる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news057.html",
           "publishedOn": "2021-12-09T23:00:00.000Z",
-          "wordCount": 167,
+          "wordCount": 168,
           "title": "90度の垂直面に着地できるドローン、米国陸軍などが開発　着地場所を増やすための研究"
         },
         {
@@ -1366,7 +1429,7 @@
           "description": "米MIT CSAILと米Massachusetts General Hospitalの研究チームは、筋肉の動きを検知するデバイスを設計するための新しいツールキットを開発。このツールキットを利用することで、誰でも独自の筋肉検知ウェアラブルデバイスを設計できる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news056.html",
           "publishedOn": "2021-12-09T23:00:00.000Z",
-          "wordCount": 235,
+          "wordCount": 236,
           "title": "「筋肉をARで可視化するデバイス」を簡単に作れるツールキット　米MITなどが開発"
         },
         {
@@ -1375,7 +1438,7 @@
           "description": "マイニングのため、自身の運営するWebサイト上にCoinhiveを設置したとして、不正指令電磁的記録保管の罪に問われたWebデザイナーの男性の上告審弁論が開かれた。男性側は二審の逆転有罪判決を破棄し、無罪とするよう主張。検察側は上告棄却を求め結審した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news067.html",
           "publishedOn": "2021-12-09T22:00:00.000Z",
-          "wordCount": 139,
+          "wordCount": 140,
           "title": "「技術開発を萎縮させる」「無断利用は明らかに違法」　Coinhive事件上告審弁論"
         },
         {
@@ -1384,7 +1447,7 @@
           "description": "警察庁は2022年2月から、北海道・千葉・京都・山口の4道府県で優良運転者の運転免許更新時の講習をオンラインで行う「オンライン更新時講習」のモデル事業を実施する。24年度末以降、全国での運用を目指す。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news066.html",
           "publishedOn": "2021-12-09T22:00:00.000Z",
-          "wordCount": 139,
+          "wordCount": 140,
           "title": "免許更新時講習をオンラインに　4道府県で2022年2月から試験実施"
         },
         {
@@ -1393,7 +1456,7 @@
           "description": "大阪府豊中市が、新型コロナウイルスワクチンを接種していない市民に対して、デジタル商品券のプレミアムポイントを誤って上乗せしていた。対象者は2934人、計約805万円相当に上り、市は関係者全員に謝罪するとともに、誤って付与したポイントを取り消した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news065.html",
           "publishedOn": "2021-12-09T22:00:00.000Z",
-          "wordCount": 134,
+          "wordCount": 135,
           "title": "デジタル商品券で805万円分を上乗せミス　大阪・豊中市"
         },
         {
@@ -1402,7 +1465,7 @@
           "description": "Meta（旧Facebook）傘下のWhatsAppが米国で暗号資産送金のテストを開始した。Metaのデジタルウォレット「Novi」とステーブルコイン「Pax Dollars」を使う。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/10/news071.html",
           "publishedOn": "2021-12-09T21:29:00.000Z",
-          "wordCount": 150,
+          "wordCount": 151,
           "title": "Meta（旧Facebook）、WhatsAppで「Novi」での暗号資産送金のテスト開始"
         },
         {
@@ -1411,7 +1474,7 @@
           "description": "「Yahoo!検索」で検索数が最も急上昇した人物や作品をランキング形式で表彰する「Yahoo!検索大賞2021」が公開された。大賞は大谷翔平選手で、Google検索ランキングの「話題の人」カテゴリーでも1位を獲得した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news184.html",
           "publishedOn": "2021-12-09T14:00:00.000Z",
-          "wordCount": 150,
+          "wordCount": 151,
           "title": "検索ランキングに“大谷旋風”　GoogleでもYahoo!でも人物カテゴリーで1位に"
         },
         {
@@ -1420,7 +1483,7 @@
           "description": "ソニーマーケティングは9日、ミラーレスカメラ「α7 IV」について、購入者に届くまで時間がかかる可能性があると告知した。「予想を大幅に上回る注文を受けたため」。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news181.html",
           "publishedOn": "2021-12-09T12:15:00.000Z",
-          "wordCount": 159,
+          "wordCount": 160,
           "title": "ソニー「α7 IV」供給に遅れ　予想上回る注文で"
         },
         {
@@ -1429,7 +1492,7 @@
           "description": "警察庁は、優良運転者の免許証、いわゆる「ゴールド免許」の更新時の講習をオンラインで実施すると発表した。2022年2月1日から、北海道と千葉県、京都府、山口県の4道府県で試験的に行う。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news178.html",
           "publishedOn": "2021-12-09T12:09:00.000Z",
-          "wordCount": 154,
+          "wordCount": 155,
           "title": "ゴールド免許なら講習はオンラインでOKに　4道府県で22年2月から　ただし交付はオフライン"
         },
         {
@@ -1438,7 +1501,7 @@
           "description": "YouTubeは同プラットフォーム上の動画に対し、2021年上半期に全世界で7億件以上の著作権申し立てがあったと明らかにした。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news174.html",
           "publishedOn": "2021-12-09T10:35:00.000Z",
-          "wordCount": 155,
+          "wordCount": 156,
           "title": "YouTubeが著作権侵害の申立件数を初公開　21年上期は7億超、異議申し立ては1％未満"
         },
         {
@@ -1447,7 +1510,7 @@
           "description": "任天堂で「ファミリーコンピュータ」の開発責任者を務めた上村雅之氏が6日に死去した。78歳だった。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news172.html",
           "publishedOn": "2021-12-09T10:20:00.000Z",
-          "wordCount": 148,
+          "wordCount": 149,
           "title": "ファミコンの開発責任者、上村雅之氏が逝去　78歳"
         },
         {
@@ -1456,7 +1519,7 @@
           "description": "「光回線をアナログ回線に戻せば料金が安くなる」などと勧誘し、手続き代行やオプションサービスの料金として高額な請求をする「アナログ戻し」のトラブルが増えている。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news170.html",
           "publishedOn": "2021-12-09T09:56:00.000Z",
-          "wordCount": 142,
+          "wordCount": 143,
           "title": "「アナログ戻し」トラブル急増、国民生活センターが注意喚起"
         },
         {
@@ -1465,7 +1528,7 @@
           "description": "理化学研究所などの研究チームが参加する、米国主導の国際共同プロジェクトは12月9日に、新たな観測衛星「X線偏光観測衛星IXPE」を打ち上げた。IXPE衛星は、天体X線の偏光を高感度で観測できる世界初の衛星で、宇宙での多くの謎の解明を期待できる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news149.html",
           "publishedOn": "2021-12-09T09:26:00.000Z",
-          "wordCount": 146,
+          "wordCount": 147,
           "title": "真空もゆがむのか？　ブラックホールの謎に迫る新衛星、NASAや理研などが打ち上げへ"
         },
         {
@@ -1474,7 +1537,7 @@
           "description": "「IPアドレスの例示で『xxx.xxx.xxx.xxx』を使うな」――そう訴えるTwitterの投稿が話題になっている。「めんどくさい説教かと思ったら違った」「急いで例示を直した」といった反応が相次いでいる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news163.html",
           "publishedOn": "2021-12-09T09:16:00.000Z",
-          "wordCount": 151,
+          "wordCount": 152,
           "title": "IPアドレスの例示で「xxx.～」は使ってはいけない？　「めんどくさい説教かと思ったら違った」などの反応続々"
         },
         {
@@ -1483,7 +1546,7 @@
           "description": "クラウドファンディング大手のKickstarterの共同創業者が、プラットフォームのコア機能の分散型バージョンを作成するオープンソースプロトコルの開発について発表した。プロトコルはCeloのパブリックブロックチェーン上に構築する。2022年中にサイトがプロトコルに移行するとみられる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news164.html",
           "publishedOn": "2021-12-09T09:15:00.000Z",
-          "wordCount": 152,
+          "wordCount": 153,
           "title": "Kickstarter、プラットフォームをCeloブロックチェーンに移行する計画を発表"
         },
         {
@@ -1492,7 +1555,7 @@
           "description": "KDDIが迷惑電話を自動的に遮断する固定電話用サービス「迷惑電話自動ブロック」を日本で初めて提供する。専用機器の設置は不要で、月額利用料は330円。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news155.html",
           "publishedOn": "2021-12-09T08:20:00.000Z",
-          "wordCount": 150,
+          "wordCount": 151,
           "title": "固定電話で「迷惑電話自動ブロック」　専用機器不要、KDDIが日本初提供"
         },
         {
@@ -1501,7 +1564,7 @@
           "description": "動画共有サイト「ニコニコ」が12日で15周年を迎える。ドワンゴは15周年を記念して特設サイトを公開。その中で掲載されている年間ランキングが「きれいすぎる」と話題だ。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news136.html",
           "publishedOn": "2021-12-09T06:00:00.000Z",
-          "wordCount": 146,
+          "wordCount": 147,
           "title": "ニコニコ15周年で特設サイト公開も「ランキングが歴史修正されている」とツッコミ多数　代表「運営の苦心感じて」"
         },
         {
@@ -1510,7 +1573,7 @@
           "description": "「Bauhutte」から足元を集中的に温める「ボックス電気毛布」が登場。電熱線を足元に重点的に配置し、綿入りのキルト生地で袋状にカバーする。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news118.html",
           "publishedOn": "2021-12-09T04:23:00.000Z",
-          "wordCount": 144,
+          "wordCount": 145,
           "title": "「足コタツ」付き電気毛布、ゲーミング家具のバウヒュッテから"
         },
         {
@@ -1519,7 +1582,7 @@
           "description": "富士通と米マサチューセッツ工科大学が、角度や明るさなどの撮影条件が学習データと大きく異なる“想定外のデータ”でも高精度に認識できる画像認識AI技術を共同開発した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news113.html",
           "publishedOn": "2021-12-09T04:00:00.000Z",
-          "wordCount": 147,
+          "wordCount": 148,
           "title": "AIにとって“想定外”でも正しく認識　交通監視など応用に期待　富士通とMIT"
         },
         {
@@ -1528,7 +1591,7 @@
           "description": "Apple対Epicの訴訟で、Appleが求めていた差止命令の停止が一部認められた。控訴の判決が出るまで、Appleはアプリ内の支払いオプションへのリンクを禁止できることになった。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news110.html",
           "publishedOn": "2021-12-09T03:48:00.000Z",
-          "wordCount": 156,
+          "wordCount": 157,
           "title": "Apple、Epicとの訴訟が終わるまでは支払いオプションのリンク禁止を維持できることに"
         },
         {
@@ -1537,7 +1600,7 @@
           "description": "博報堂は9日、ぬいぐるみが話しているように見せるボタン型スピーカー「Pechat」（ペチャット）で「ほぼ自動おしゃべりモード」を搭載した新モデルを発売した。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news100.html",
           "publishedOn": "2021-12-09T03:23:00.000Z",
-          "wordCount": 144,
+          "wordCount": 145,
           "title": "ぬいぐるみが話すように見えるボタン型スピーカーに「ほぼ自動おしゃべりモード」"
         },
         {
@@ -1546,7 +1609,7 @@
           "description": "日本郵便が、年賀状の購入から作成、送信、受け取りまでLINE上で完結できるサービス「スマートねんが」を提供する。LINE上の友だちのトーク画面に、直接年賀状を送れる。価格は200円から、2022年1月1日から2月4日まで送れる。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news099.html",
           "publishedOn": "2021-12-09T03:23:00.000Z",
-          "wordCount": 149,
+          "wordCount": 150,
           "title": "LINEで送れる“動く年賀状”　200円から送り放題、日本郵便がスタート"
         },
         {
@@ -1555,7 +1618,7 @@
           "description": "22年1月に閉館する「STUDIO COAST」の備品や機材が「ヤフオク!」に。屋根の上にある看板の「S」の文字、クラブ「ageHa」で使用したDJ機材など26品。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news084.html",
           "publishedOn": "2021-12-09T02:08:00.000Z",
-          "wordCount": 151,
+          "wordCount": 152,
           "title": "閉館する「スタジオコースト」の備品がヤフオク!に　看板やDJ機材など　1円から"
         },
         {
@@ -1564,80 +1627,8 @@
           "description": "Instagramトップのモッセリ氏が上院小委員会の公聴会で証言した。その中で同氏は、来年初旬にもInstagramの時系列フィードを選択可能にすると語った。フィード2016年から「ユーザーの関心が高い順」に表示されており若者のメンタルに悪影響を与える一因とされている。",
           "link": "https://www.itmedia.co.jp/news/articles/2112/09/news075.html",
           "publishedOn": "2021-12-09T01:14:00.000Z",
-          "wordCount": 158,
-          "title": "Instagramで時系列表示オプションを来年提供するとモッセリ氏が公聴会で発言"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news068.html",
-          "author": null,
-          "description": "Metaは、Facebookのクリエイター向け収益化ツール「professional mode」と「Stars Store」を発表した。professional modeは個人アカウントでページ同様に収益化できるモード、Stars Storeは昨年から提供している投げ銭を購入できるストアだ（いずれも日本での対応は未定）。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news068.html",
-          "publishedOn": "2021-12-08T23:52:00.000Z",
-          "wordCount": 172,
-          "title": "Meta、Facebookにユーザー収益化の「professional mode」と「Stars Store」"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news066.html",
-          "author": null,
-          "description": "国内電機メーカーがIoT家電の販売を強化している。ただ、連携は自社製品同士でしか機能しないものがほとんどで、専門家は「企業がユーザーの『囲い込み』に走っているうちは国内での普及には限界がある」と指摘する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news066.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
-          "wordCount": 142,
-          "title": "IoT家電　普及の壁はメーカーの囲い込みか"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news065.html",
-          "author": null,
-          "description": "ソニーグループは7日、人の手の繊細な動きを再現する新たなロボット技術を公開した。圧力分布を把握するセンサーと物体までの距離を測るセンサーを指先に仕込んだことで、特性の分からない未知の物体を丁寧に取り扱うことができる。介護現場などの産業向けと家庭向けの両方での活用を想定し、早期の実用化を目指す。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news065.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
-          "wordCount": 137,
-          "title": "ソニー、バラの花も優しくつかむ新ロボ"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news064.html",
-          "author": null,
-          "description": "血液検査「フォーネスビジュアス」は、少量の血液から約7000種類のタンパク質を一度に測定し、AI技術を組み合わせて、4年以内の心筋梗塞・脳卒中発症リスクを予測する検査法。「コロナ禍で運動不足になって健康データが急激に悪化した人が多い」という。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news064.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
-          "wordCount": 147,
-          "title": "心筋梗塞　血液でリスク予測　糖尿病や脂肪の健康データ　テレワークで急に悪化　心筋梗塞や脳卒中のリスクも"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news044.html",
-          "author": null,
-          "description": "中国の研究チームは、音楽からキャラクターの振り付けを自動生成するダンスモーション合成システムを開発。ポップスやヒップホップ、ロック、ジャズなど、さまざまな音楽スタイルのリズムに応じた動きを作り出す。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news044.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
-          "wordCount": 165,
-          "title": "音楽からふりつけを自動生成　ポップスやジャズなどに合わせてキャラクターがダンス"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news038.html",
-          "author": null,
-          "description": "仏ボルドー大学などの研究チームは、ゴキブリ風の小型ロボットの集合体が、大型ロボットを動かすシステムを開発。多数の小型ロボットが中で動き回って大型ロボットを変形させ、細い隙間や障害物コースを通り抜けたり荷物を運んだりする。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news038.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
-          "wordCount": 233,
-          "title": "集団で動く、ゴキブリ風小型ロボット　力を合わせて大型ロボットを操縦"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news012.html",
-          "author": null,
-          "description": "「3Gでやるならこのくらいが限界」「次の大きなジャンプは4Gが出てから」と考える人は多かった。iPhoneが出てくるまでは。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news012.html",
-          "publishedOn": "2021-12-08T23:00:00.000Z",
           "wordCount": 159,
-          "title": "「iモード」とは何だったのか　その本質と功績、iPhoneに駆逐された理由"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2112/09/news052.html",
-          "author": null,
-          "description": "クラウドサービスを導入する企業が増える一方で、設定ミスなどが原因のセキュリティ事故を心配する声も多い。では、どのような対策があるのか。クラウドの導入支援を手掛けるネクストモードの“SaaSおじさん”に説明してもらった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2112/09/news052.html",
-          "publishedOn": "2021-12-08T22:00:00.000Z",
-          "wordCount": 158,
-          "title": "クラウドの設定ミスを防ぐコツは？　100を超えるSaaSを比較した“SaaSおじさん”に聞く"
+          "title": "Instagramで時系列表示オプションを来年提供するとモッセリ氏が公聴会で発言"
         }
       ]
     },
@@ -1647,22 +1638,40 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html",
+          "author": null,
+          "description": "Googleは、同社がクラウドサービスとして提供しているCloud SpannerをRailsのActive Recordに対応させるアダプタ「activerecord-spanner-adapter」が正式版となったことを発表しました。 ...",
+          "link": "https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html",
+          "publishedOn": "2021-12-12T15:14:37.000Z",
+          "wordCount": 183,
+          "title": "大規模分散DBのCloud Spannerが、RailsのActive Recordに対応。スケーラブルで高可用なRubyアプリケーションの開発が容易に"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/javalog4j.html",
+          "author": null,
+          "description": "オープンソースのロギングライブラリとしてさまざまなJavaアプリケーションに使われている「Apache Log4j」に、任意のリモートコードが実行できてしまう脆弱性が発見されました（CVE - CVE-2021-44228）。 これが悪用さ...",
+          "link": "https://www.publickey1.jp/blog/21/javalog4j.html",
+          "publishedOn": "2021-12-12T15:08:05.000Z",
+          "wordCount": 218,
+          "title": "広く使われているJavaライブラリ「Log4j」に深刻な脆弱性。速やかに確認と対策を"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/github_8.html",
           "author": null,
           "description": "GitHubは検索機能を刷新し、新たに強化したコード検索機能「https://cs.github.com」のテクノロジープレビューを公開しました。 Check out the technology preview for GitHub co...",
           "link": "https://www.publickey1.jp/blog/21/github_8.html",
           "publishedOn": "2021-12-09T16:19:48.000Z",
-          "wordCount": 169,
+          "wordCount": 168,
           "title": "GitHubがコード検索を強化。正規表現対応、プログラミング言語別、組織やリポジトリ、ファイルパスなど範囲指定、高速な結果表示"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html",
           "author": null,
-          "description": "TerraformやVagrantなどのソフトウェアで知られるHashiCorpは今日、米NASDAQ市場へ株式公開を果たしました。公開価格は1株80ドルで、同社の時価総額は12億ドル（1ドル110円換算で1320億円）となります。  NA...",
+          "description": "TerraformやVagrantなどのソフトウェアで知られるHashiCorpは今日、米NASDAQ市場へ株式公開を果たしました。公開価格は1株80ドルで、同社の時価総額は120億ドル（1ドル110円換算で1兆3200億円）となります。 ...",
           "link": "https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html",
           "publishedOn": "2021-12-09T15:46:56.000Z",
-          "wordCount": 148,
-          "title": "HashiCorpが今日、NASDAQ市場へ株式公開。時価総額は約1300億円に"
+          "wordCount": 149,
+          "title": "HashiCorpが今日、NASDAQ市場へ株式公開。時価総額は約1兆3000億円に"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/kubernetes_123ipv4v6podapiv2kubelet_cri_api.html",
@@ -1670,7 +1679,7 @@
           "description": "コンテナオーケストレーションを実現するKubernetesの最新版となる「Kubernetes 1.23」正式版がリリースされました。 下記はRancher Labsによるツイート。今回のリリースリードはRancher Labsの方だったよ...",
           "link": "https://www.publickey1.jp/blog/21/kubernetes_123ipv4v6podapiv2kubelet_cri_api.html",
           "publishedOn": "2021-12-08T17:17:36.000Z",
-          "wordCount": 195,
+          "wordCount": 193,
           "title": "Kubernetes 1.23が正式リリース。IPv4/v6デュアルスタック、水平PodオートスケーラーAPIv2が安定版、Kubelet CRI APIがベータ版になど"
         },
         {
@@ -1679,7 +1688,7 @@
           "description": "Googleは、アンケートやクイズなどを手軽に作成できるGoogle Formsを、API経由で操作する「Google Forms API」がオープンベータとして公開されたことを発表しました。10月に発表された時点では限定ベータでした。 T...",
           "link": "https://www.publickey1.jp/blog/21/google_forms_apigoogle.html",
           "publishedOn": "2021-12-08T15:00:50.000Z",
-          "wordCount": 191,
+          "wordCount": 189,
           "title": "Google Forms APIがオープンベータに。プログラミングでGoogleフォームを作成、回答を取得可能"
         },
         {
@@ -1688,7 +1697,7 @@
           "description": "Googleは、Kubernetesをベースにしたマルチクラウドプラットフォームを実現するAnthosがMicrosoft Azureに正式対応したことを発表しました。   Anthosは、Kubernetesによってインフラレイヤを抽象化...",
           "link": "https://www.publickey1.jp/blog/21/google_anthosmicrosoft_azuregoogleawsazurekubernetescloud_run.html",
           "publishedOn": "2021-12-07T16:41:13.000Z",
-          "wordCount": 169,
+          "wordCount": 167,
           "title": "Google AnthosがMicrosoft Azureに正式対応。これでGoogle、AWS、Azureを連携させたマルチクラウドでのKubernetesやCloud Runなどの統合運用などが可能に"
         },
         {
@@ -1697,7 +1706,7 @@
           "description": "マイクロソフトはMicrosoft Azureのクラウドサービスとして負荷テストを実行する「Azure Load Testing」のプレビュー版を発表しました。 Fix performance bottlenecks at scale. S...",
           "link": "https://www.publickey1.jp/blog/21/azure_load_testingjmeter.html",
           "publishedOn": "2021-12-07T16:34:29.000Z",
-          "wordCount": 192,
+          "wordCount": 190,
           "title": "マイクロソフト、負荷テストのマネージドサービス「Azure Load Testing」発表。JMeterのスクリプトを実行可能"
         },
         {
@@ -1706,7 +1715,7 @@
           "description": "技術雑誌の電子復刻プロジェクトを運営するイースト株式会社は、1969年から2001年に共立出版から刊行された月刊コンピュータサイエンス誌「bit」全386巻を電子復刻し、Amazon kindleでの販売を開始したことを発表しました。 bi...",
           "link": "https://www.publickey1.jp/blog/21/bit1969386amazon_kindle1198.html",
           "publishedOn": "2021-12-06T15:39:41.000Z",
-          "wordCount": 152,
+          "wordCount": 150,
           "title": "コンピュータサイエンス誌「bit」、1969年の創刊号から全386巻が電子復刻版としてAmazon Kindleで販売開始。1冊わずか198円"
         },
         {
@@ -1715,7 +1724,7 @@
           "description": "開発プロジェクトのコードリポジトリを常駐監視し、まるでアンチウイルスツールのようにバグを発見してくれるツールが「Sider Scan」です。JenkinsやGitHub Actionsなどのツールに連携してソースコードを解析し、バグの恐れが...",
           "link": "https://www.publickey1.jp/blog/21/sider_scancicdpr.html",
           "publishedOn": "2021-12-05T15:55:06.000Z",
-          "wordCount": 181,
+          "wordCount": 179,
           "title": "リポジトリを監視してコードのバグを自動検出、指摘してくれるツール「Sider Scan」。CI/CDに統合可能［PR］"
         },
         {
@@ -1724,7 +1733,7 @@
           "description": "VMwareは、vSphere上のアプリケーションを解析し、依存関係などを調査したうえで、Kubernetes上で実行可能なDockerコンテナと設定ファイルなどを生成する「Application Transformer for VMwar...",
           "link": "https://www.publickey1.jp/blog/21/vmwarevspheredockerapplication_transformer_for_vmware_tanzu.html",
           "publishedOn": "2021-12-05T15:02:07.000Z",
-          "wordCount": 201,
+          "wordCount": 199,
           "title": "VMware、vSphere上のアプリケーションを解析し、Dockerコンテナへ変換する「Application Transformer for VMware Tanzu」発表"
         },
         {
@@ -1733,7 +1742,7 @@
           "description": "毎年12月はAmazon Web Services（AWS）の大型イベント「AWS re:Invent」が行われ、そのストリーミング配信を何日も連続で深夜に見ながら記事を書くせいで寝不足になります。 今年もちょうど先週「AWS re:Inv...",
           "link": "https://www.publickey1.jp/blog/21/chromeexcel202111.html",
           "publishedOn": "2021-12-05T15:00:41.000Z",
-          "wordCount": 196,
+          "wordCount": 194,
           "title": "アジャイル開発の外部委託が「偽装請負」と疑われないために／Chromeで操作を記録／Excel関数ベースのローコード言語ほか、2021年11月の人気記事"
         },
         {
@@ -1742,7 +1751,7 @@
           "description": "Amazon Web Services（AWS）は、Webアプリケーションのフロントエンドを短時間で容易に開発できる機能と、バックエンドのクラウドサービスの運用管理などを統合した新ツール「AWS Amplify Studio」を発表しました...",
           "link": "https://www.publickey1.jp/blog/21/awswebaws_amplify_studioaws_reinvent_2021.html",
           "publishedOn": "2021-12-02T19:40:33.000Z",
-          "wordCount": 293,
+          "wordCount": 291,
           "title": "［速報］AWS、ローコードでWebのフロントエンドを開発できる「AWS Amplify Studio」発表。バックエンド管理機能も統合。AWS re:Invent 2021"
         },
         {
@@ -1751,7 +1760,7 @@
           "description": "Amazon Web Services（AWS）は、AWSにフォーカスしたQ&amp;Aコミュニティサイト「AWS re:Post」の公開を、開催中のイベント「AWS re:Invent 2021」で発表しました。   AWS re:Pos...",
           "link": "https://www.publickey1.jp/blog/21/awsawsqaaws_repostaws_reinvent_2021.html",
           "publishedOn": "2021-12-02T19:38:05.000Z",
-          "wordCount": 218,
+          "wordCount": 216,
           "title": "［速報］AWS、AWSにフォーカスしたQ&Aコミュニティサイト「AWS re:Post」公開。AWS re:Invent 2021"
         },
         {
@@ -1760,26 +1769,8 @@
           "description": "Amazon Web Services（AWS）は、AppleのM1プロセッサを搭載したMacインスタンスを利用できる新サービス「Amazon EC2 M1 Macインスタンス」を、開催中のイベント「AWS re:Invent 2021」で...",
           "link": "https://www.publickey1.jp/blog/21/awsapple_m1ec2_m1_macmac_miniaws_reinvent_2021.html",
           "publishedOn": "2021-12-02T19:34:22.000Z",
-          "wordCount": 244,
+          "wordCount": 242,
           "title": "［速報］AWS、Apple M1チップ対応の「EC2 M1 Macインスタンス」登場。相変わらず市販のMac miniをそのままラックに組み込み。AWS re:Invent 2021"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/awsjupyterlab_idesagemaker_studio_labaws_reinvent_2021.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、機械学習の実行環境を提供する新サービス「SageMaker Studio Lab」を無料で提供すると、開催中のイベント「AWS re:Invent 2021」で発表しました。   Sage...",
-          "link": "https://www.publickey1.jp/blog/21/awsjupyterlab_idesagemaker_studio_labaws_reinvent_2021.html",
-          "publishedOn": "2021-12-01T19:04:27.000Z",
-          "wordCount": 236,
-          "title": "［速報］AWS、JupyterLab IDEベースの新サービス「SageMaker Studio Lab」無料提供を発表、ブラウザで機械学習を学び試せる。AWS re:Invent 2021"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/awsamazon_rds_customsql_serverossshaws_reinvent_2021.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、ユーザーがOSやデータベースの構成やバージョンをカスタマイズ可能なマネージドサービス「Amazon RDS Custom」をマイクロソフトのSQL Serverに対応させた「Amazon ...",
-          "link": "https://www.publickey1.jp/blog/21/awsamazon_rds_customsql_serverossshaws_reinvent_2021.html",
-          "publishedOn": "2021-12-01T18:12:11.000Z",
-          "wordCount": 247,
-          "title": "AWS、新たな責任共有モデルの「Amazon RDS Custom」をSQL Serverへも拡大。マネージドサービスながらOSへのSSHなども可能。AWS re:Invent 2021"
         }
       ]
     }

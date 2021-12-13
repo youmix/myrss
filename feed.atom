@@ -2,10 +2,640 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youmix.github.io/sample/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T01:15:07.426Z</updated>
+    <updated>2021-12-13T01:11:46.100Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://youmix.github.io/sample/index.html"/>
     <link rel="self" href="https://youmix.github.io/sample/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[総務局 - 岐阜新聞]]></title>
+        <id>CBMiImh0dHBzOi8vd3d3LmdpZnUtbnAuY28uanAvdWQvc291bXXSAQA</id>
+        <link href="https://www.gifu-np.co.jp/ud/soumu"/>
+        <updated>2021-12-13T01:07:20.000Z</updated>
+        <summary type="html"><![CDATA[総務局  岐阜新聞]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビジネス文書の長期保存にはAcrobat DCのポートフォリオ機能が便利]]></title>
+        <id>https://ascii.jp/elem/000/004/076/4076266/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/076/4076266/?rss"/>
+        <updated>2021-12-13T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載は、Adobe Acrobat DCを使いこなすための使い方やTIPSを紹介する。第141回は、ビジネス文書の長期保存に便利なAcrobat DCのポートフォリオ機能について紹介する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCon JP2021から見るPython業界とオンラインイベントの今]]></title>
+        <id>https://ascii.jp/elem/000/004/075/4075869/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/075/4075869/?rss"/>
+        <updated>2021-12-13T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リアルとオンラインで開催された2021年のPyCon JP。特に興味深かった2つのキーノートや、現地の熱量を感じられる会場の様子を紹介。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、Windows版「Google Playゲーム」アプリを2022年に提供へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news067.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news067.html"/>
+        <updated>2021-12-13T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、2022年中にAndroid版ゲームハブアプリ「Google Playゲーム」のWindows版をリリースすると発表した。Windows搭載PCでAndroidゲームをプレイできるようになる。PCとスマートフォンやタブレットとでシームレスに続きをプレイできる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[りらすくWEBムービー「WhatisCBD？」篇を公開 - アットプレス（プレスリリース）]]></title>
+        <id>CBMiJWh0dHBzOi8vd3d3LmF0cHJlc3MubmUuanAvbmV3cy8yODkwNjfSASlodHRwczovL3d3dy5hdHByZXNzLm5lLmpwL25ld3MvMjg5MDY3L2FtcA</id>
+        <link href="https://www.atpress.ne.jp/news/289067"/>
+        <updated>2021-12-13T00:31:08.000Z</updated>
+        <summary type="html"><![CDATA[りらすくWEBムービー「WhatisCBD？」篇を公開  アットプレス（プレスリリース）]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋野日向子は６９で２０位 来季出場権獲得に安ど「日に日にプレッシャーと闘って、自分で追い詰めて」 - auone.jp]]></title>
+        <id>CBMiSWh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEyLzIwMl8xMl9yXzIwMjExMjEzXzE2MzkzNTM4MzIxNDQxNjXSAQA</id>
+        <link href="https://article.auone.jp/detail/1/6/12/202_12_r_20211213_1639353832144165"/>
+        <updated>2021-12-13T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[渋野日向子は６９で２０位 来季出場権獲得に安ど「日に日にプレッシャーと闘って、自分で追い詰めて」  auone.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史的展開でペレスがいぶし銀のサポート。鬼ブロック＆懸命の抵抗で「ルイスの時間を稼ぐことができ、結果的にレースを大きく左右した」（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lZDcwZGVkMTllZGE1ZjU5ODk4Zjk4YmU5ODgxN2I1ZGI5YzU5Y2Yw0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/ed70ded19eda5f59898f98be98817b5db9c59cf0"/>
+        <updated>2021-12-13T00:00:11.000Z</updated>
+        <summary type="html"><![CDATA[歴史的展開でペレスがいぶし銀のサポート。鬼ブロック＆懸命の抵抗で「ルイスの時間を稼ぐことができ、結果的にレースを大きく左右した」（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相の「デジタル田園都市スーパーハイウェイ」とは]]></title>
+        <id>https://ascii.jp/limit/group/ida/elem/000/004/077/4077718/?rss</id>
+        <link href="https://ascii.jp/limit/group/ida/elem/000/004/077/4077718/?rss"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岸田首相が所信表明演説で掲げた「デジタル田園都市スーパーハイウェイ」。太平洋側だけでなく日本海側にも海底ケーブルを敷く計画とみられる。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見逃すな！LINE WORKSが導入時の社内プレゼンに便利な説明キットを配布中！]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077298/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077298/?rss"/>
+        <updated>2021-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仕事で使えるビジネス版LINEである「LINE WORKS」（ワークスモバイルジャパン）の連載では、アカウント作成の基本からビジネスシーンでの活用術、便利なTipsなどを紹介していく予定。第72回は、社内プレゼンに便利な「社内説明のためのスターターキット」について解説する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カズレーザー めざまし8を欠席 - auone.jp]]></title>
+        <id>CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjAyXzlfcl8yMDIxMTIxM18xNjM5MzUwNjMxNjU4MjM00gEA</id>
+        <link href="https://article.auone.jp/detail/1/5/9/202_9_r_20211213_1639350631658234"/>
+        <updated>2021-12-12T23:09:00.000Z</updated>
+        <summary type="html"><![CDATA[カズレーザー めざまし8を欠席  auone.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上場企業のデジ庁への期待は「行政手続き簡素化」、データ流通基盤市場の活発化と課題、ほか]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077767/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077767/?rss"/>
+        <updated>2021-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載「ざっくり知っておきたいIT業界データ」では、過去1週間（2021年12月4日～12月10日）に調査会社などから発表されたIT市場予測やユーザー動向などのデータを、それぞれ3行にまとめてお伝えします。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歯磨きの磨き残しを検出するシステム　手の動きをスマートウォッチで計測し、分析]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news038.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news038.html"/>
+        <updated>2021-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米メンフィス大学と米カリフォルニア大学ロサンゼルス校の研究チームは、歯磨き中の手動歯ブラシを持つ手の向きの変化から磨き残しを特定するモデルを開発。歯ブラシを持つ手に装着するスマートウォッチなどの慣性センサーから手の動きを取得し分析する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「崖から落ちたけど、壁にナイフを刺して何とか助かったぜ…」を体験できるVR、東京電機大が開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news037.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news037.html"/>
+        <updated>2021-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京電機大学松浦研究室の研究チームは、人が崖から滑落する際に、助かろうとナイフを斜面に突き立てて停止する動作を再現したVR触覚システムだ。落下から崖をナイフで刺し、しばらく引きずられて停止するまでの疑似体験を提供する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デスクに設置してWeb会議の音漏れを軽減できるコクヨの卓上型テレワークブース「QUNON」｜ - @DIME]]></title>
+        <id>CBMiHmh0dHBzOi8vZGltZS5qcC9nZW5yZS8xMjc5MTQ5L9IBAA</id>
+        <link href="https://dime.jp/genre/1279149/"/>
+        <updated>2021-12-12T22:54:52.000Z</updated>
+        <summary type="html"><![CDATA[デスクに設置してWeb会議の音漏れを軽減できるコクヨの卓上型テレワークブース「QUNON」｜  @DIME]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom疲れを解消？ Web会議ツール「Headroom」公開——時間⅒のまとめ動画作成、将来は決定事項の自動回答も - THE BRIDGE,Inc. / 株式会社THE BRIDGE]]></title>
+        <id>CBMiTWh0dHBzOi8vdGhlYnJpZGdlLmpwLzIwMjEvMTIvaGVhZHJvb20tbGF1bmNoZXMtdG8tY29tYmF0LXpvb20tZmF0aWd1ZS13aXRoLWFp0gEA</id>
+        <link href="https://thebridge.jp/2021/12/headroom-launches-to-combat-zoom-fatigue-with-ai"/>
+        <updated>2021-12-12T22:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Zoom疲れを解消？ Web会議ツール「Headroom」公開——時間⅒のまとめ動画作成、将来は決定事項の自動回答も  THE BRIDGE,Inc. / 株式会社THE BRIDGE]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上白石萌音「クラスの女子からのけもの」の過去を乗り越え人気女優に - auone.jp]]></title>
+        <id>CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjE4Xzlfcl8yMDIxMTIxM18xNjM5MzQ3NTYyNjg4MjQ20gEA</id>
+        <link href="https://article.auone.jp/detail/1/5/9/218_9_r_20211213_1639347562688246"/>
+        <updated>2021-12-12T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[上白石萌音「クラスの女子からのけもの」の過去を乗り越え人気女優に  auone.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、12月7日の大規模障害について説明　ステータスページの改善を約束]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news063.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news063.html"/>
+        <updated>2021-12-12T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSで12月7日に発生した大規模障害について、同社が説明した。顧客が状況を把握しやすくするため、来年初頭にもステータスページを改善する計画。この障害ではDisney+や日本の任天堂などの他、Amazonの配送も影響を受けた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本ユニシスがWebページを最大2倍速く読める書式に変換するブラウザー拡張機能を公開 - Web担当者Forum]]></title>
+        <id>CBMiL2h0dHBzOi8vd2VidGFuLmltcHJlc3MuY28uanAvbi8yMDIxLzEyLzEzLzQyMDgy0gEzaHR0cHM6Ly93ZWJ0YW4uaW1wcmVzcy5jby5qcC9uLzIwMjEvMTIvMTMvNDIwODI_YW1w</id>
+        <link href="https://webtan.impress.co.jp/n/2021/12/13/42082"/>
+        <updated>2021-12-12T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[日本ユニシスがWebページを最大2倍速く読める書式に変換するブラウザー拡張機能を公開  Web担当者Forum]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「GitHub Universe 2021」で発表の主要アップデートを日本法人が解説]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077769/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077769/?rss"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Japanが、同社の年次カンファレンス「GitHub Universe 2021」で発表された機能のハイライトを解説する記者説明会を行った。同時に2021年のソフトウェア開発者の動向をまとめた年次レポート「The State of the Octoverse 2021」についても紹介し、コロナ禍における開発生産性向上のポイントや国内開発者の傾向などにも触れている。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アスキーグルメNEWS」生放送（2021年12月17日号）]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077741/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077741/?rss"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ちまたで話題のおいしいグルメ情報を生放送でご紹介します。お昼ご飯を召し上がりながらどうぞ！]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作PCトーク『ジサトラKTU』生放送 ～Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 6～]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077610/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077610/?rss"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 6。木曜22:00から放送スタート！]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5万円台で1億画素カメラスマホが買える！「Xiaomi 11T」実機レビューの巻：205]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077565/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077565/?rss"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[12月13日（月）20時から生放送。今回は5万円台で1億画素カメラ搭載「Xiaomi 11T」の実機レビューをお届けします！]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[些細なSNS投稿が犯罪をアシスト　玄関先・往来に変わったものを置いてアカウントを特定する手法も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news059.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news059.html"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[珍しい写真や楽しい旅行の様子など、SNSに何気なく投稿しがちだが、犯罪者にとっては情報の宝庫という側面もある。匿名であっても自宅を特定され、空き巣やストーカーの被害につながることもあるといい、ネットリテラシーが改めて問われている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集団歩行を乱す「歩きスマホ」理論の着眼点　イグノーベル賞受賞の村上久助教]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news058.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news058.html"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年のイグ・ノーベル賞で、「歩きスマホ」が歩行者同士にどう影響するのかを実験した京都工芸繊維大の村上久助教ら日本の研究チームが、「動力学賞」を受賞した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G税制、期間は3年延長も段階的縮小へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/13/news057.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/13/news057.html"/>
+        <updated>2021-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年度与党税制改正大綱は「オープンイノベーション促進税制」を見直して一部拡充する。新事業創出を目指すベンチャーを育成し、日本経済の成長につなげることを狙い、出資額の25％を法人税の課税所得から差し引く制度だが、適用期限を2年間延長する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディープマインドが言語モデル「RETRO」発表、訓練コストを大幅削減]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077787/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077787/?rss"/>
+        <updated>2021-12-12T21:55:23.000Z</updated>
+        <summary type="html"><![CDATA[自然言語処理におけるAI研究の主流となっている大規模言語モデルには、訓練に膨大な計算能力を必要とするという欠点がある、ディープマインドは外部メモリーを辞書として活用することで、訓練に要するコストを大幅に下げられるモデルを発表した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物議醸すセーフティカーの手順。メルセデスF1、王座の行方を決定づけたFIAの違反に抗議も認められず。上訴の意思を提出 - オートスポーツweb]]></title>
+        <id>CAIiEDpy-3ONTQ3rnH54SPPJcU0qGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI</id>
+        <link href="https://www.as-web.jp/f1/769615"/>
+        <updated>2021-12-12T21:12:00.000Z</updated>
+        <summary type="html"><![CDATA[物議醸すセーフティカーの手順。メルセデスF1、王座の行方を決定づけたFIAの違反に抗議も認められず。上訴の意思を提出  オートスポーツweb]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「冨安の動きが完璧すぎる」アーセナルの華麗なカウンター弾が反響！「綺麗すぎて何回も見られる」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy80NTNiYTkxNjljMTA0MmJmMjE3M2YyZmQ3MzkzYjFhMTRlM2U2YzRi0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/453ba9169c1042bf2173f2fd7393b1a14e3e6c4b"/>
+        <updated>2021-12-12T20:56:48.000Z</updated>
+        <summary type="html"><![CDATA[「冨安の動きが完璧すぎる」アーセナルの華麗なカウンター弾が反響！「綺麗すぎて何回も見られる」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現役最終戦も…大久保嘉人が愛するチームに飛ばした檄！「話すと３日間くらいかかる」と指摘する内容とは？（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85OGVhNjM4Zjg5NjBmNjQ3N2IxZjkxNzZiOTg5NWQ5MWZlZTQxYjUw0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/98ea638f8960f6477b1f9176b9895d91fee41b50"/>
+        <updated>2021-12-12T20:41:42.000Z</updated>
+        <summary type="html"><![CDATA[現役最終戦も…大久保嘉人が愛するチームに飛ばした檄！「話すと３日間くらいかかる」と指摘する内容とは？（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[運勢（１３日・友引） - 中日新聞]]></title>
+        <id>CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvMzgyMjMy0gEtaHR0cHM6Ly93d3cuY2h1bmljaGkuY28uanAvYW1wL2FydGljbGUvMzgyMjMy</id>
+        <link href="https://www.chunichi.co.jp/article/382232"/>
+        <updated>2021-12-12T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[運勢（１３日・友引）  中日新聞]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイキング来春終了 坂上意向 - auone.jp]]></title>
+        <id>CBMiR2h0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS81LzkvMjAyXzlfcl8yMDIxMTIxM18xNjM5MzM5MjkzMDM5OTA00gEA</id>
+        <link href="https://article.auone.jp/detail/1/5/9/202_9_r_20211213_1639339293039904"/>
+        <updated>2021-12-12T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バイキング来春終了 坂上意向  auone.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三笘薫が左足で絶品アシスト！フル出場で攻守に躍動し、首位ユニオンSGの連勝に貢献（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85M2U2ZDIyZGIyMDcyYWM5NzE4NDEyNjEyZWU1NTliOWQ4YzJjNmZh0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/93e6d22db2072ac9718412612ee559b9d8c2c6fa"/>
+        <updated>2021-12-12T16:49:00.000Z</updated>
+        <summary type="html"><![CDATA[三笘薫が左足で絶品アシスト！フル出場で攻守に躍動し、首位ユニオンSGの連勝に貢献（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模分散DBのCloud Spannerが、RailsのActive Recordに対応。スケーラブルで高可用なRubyアプリケーションの開発が容易に]]></title>
+        <id>https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html</id>
+        <link href="https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html"/>
+        <updated>2021-12-12T15:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、同社がクラウドサービスとして提供しているCloud SpannerをRailsのActive Recordに対応させるアダプタ「activerecord-spanner-adapter」が正式版となったことを発表しました。 ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[広く使われているJavaライブラリ「Log4j」に深刻な脆弱性。速やかに確認と対策を]]></title>
+        <id>https://www.publickey1.jp/blog/21/javalog4j.html</id>
+        <link href="https://www.publickey1.jp/blog/21/javalog4j.html"/>
+        <updated>2021-12-12T15:08:05.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのロギングライブラリとしてさまざまなJavaアプリケーションに使われている「Apache Log4j」に、任意のリモートコードが実行できてしまう脆弱性が発見されました（CVE - CVE-2021-44228）。 これが悪用さ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【1月18日】迫る個人情報保護法の改正、Webセキュリティは万全か？ - 日経 xTECH Active]]></title>
+        <id>CBMiPWh0dHBzOi8vYWN0aXZlLm5pa2tlaWJwLmNvLmpwL2F0Y2wvc3Avc2VtaW5hci8yMS8xMi8wNy8wMDE5Ni_SAQA</id>
+        <link href="https://active.nikkeibp.co.jp/atcl/sp/seminar/21/12/07/00196/"/>
+        <updated>2021-12-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【1月18日】迫る個人情報保護法の改正、Webセキュリティは万全か？  日経 xTECH Active]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本一ソフトウェア、「懐中時計」を浮かべた謎のカウントダウンサイトを公開]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077740/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077740/?rss"/>
+        <updated>2021-12-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年12月13日、日本一ソフトウェアの公式サイト「Nippon1.jp」にて、「謎のカウントダウンサイト」が公開された。サイトには「あと三日」の文字と懐中時計の映像が表示されている。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】フェルスタッペンがファイナルラップで劇的チャンピオン獲得。ホンダ、ラストレースで30年ぶりの戴冠【第22戦アブダビGP決勝】 - オートスポーツweb]]></title>
+        <id>CAIiEGPK80spy2xz6CCW2HSP9igqGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI</id>
+        <link href="https://www.as-web.jp/f1/769503"/>
+        <updated>2021-12-12T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[【速報】フェルスタッペンがファイナルラップで劇的チャンピオン獲得。ホンダ、ラストレースで30年ぶりの戴冠【第22戦アブダビGP決勝】  オートスポーツweb]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[競馬実況web - 【香港カップ】ラヴズオンリーユー有終の美 レース後のコメント - ラジオNIKKEI]]></title>
+        <id>CBMiMWh0dHA6Ly9rZWliYS5yYWRpb25pa2tlaS5qcC9rZWliYS9wb3N0XzI1Mjg1Lmh0bWzSAQA</id>
+        <link href="http://keiba.radionikkei.jp/keiba/post_25285.html"/>
+        <updated>2021-12-12T14:05:41.000Z</updated>
+        <summary type="html"><![CDATA[競馬実況web - 【香港カップ】ラヴズオンリーユー有終の美 レース後のコメント  ラジオNIKKEI]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3段階で温度調節ができるワイヤレス温熱手袋が人気｜アスキーストア売れ筋TOP5]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077643/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077643/?rss"/>
+        <updated>2021-12-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[洗濯機で洗えるから汚れや汗の染み込みが気になる方も十分ご満足頂けるはず。USB充電温熱手袋「すぐぬっく2」をお見逃しなく！]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「グラブルフェス2021」で『グラブルVS』と『GRANBLUE FANTASY: Relink』の新着情報を発表！]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077785/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077785/?rss"/>
+        <updated>2021-12-12T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cygamesが運営するスマホゲーム『グランブルーファンタジー』の配信イベント「グラブルフェス2021」てに、『グランンブルーファンタジー ヴァーサス』と『グランブルーファンタジー リリンク』の新情報が発表された。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J２降格の大分は、なぜ絶対王者川崎を倒せたのか？片野坂監督が語った狙いとは…【天皇杯準決勝】（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jYTI1YTJmMWM3MWE2NzQxOTExMDU3NzAwOWQ1Yjc5NjM0ZWMxNzU40gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/ca25a2f1c71a67419110577009d5b79634ec1758"/>
+        <updated>2021-12-12T12:08:21.000Z</updated>
+        <summary type="html"><![CDATA[J２降格の大分は、なぜ絶対王者川崎を倒せたのか？片野坂監督が語った狙いとは…【天皇杯準決勝】（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[災害時に必要な8種の機能を1台に搭載したダイナモラジオライト「ASSIKE04」]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077649/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077649/?rss"/>
+        <updated>2021-12-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[手回しでスマホなどのバッテリ充電ができるLEDライト「ASSIKE04（アズシーク）」販売中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週の美女図鑑：“最強女子大生”林凛の初水着 美貌＆抜群のスタイル - MANTANWEB]]></title>
+        <id>CAIiECj9HGPKQQG0FTsTjZsfwEYqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY</id>
+        <link href="https://mantan-web.jp/article/20211212dog00m200018000c.html"/>
+        <updated>2021-12-12T11:11:22.000Z</updated>
+        <summary type="html"><![CDATA[今週の美女図鑑：“最強女子大生”林凛の初水着 美貌＆抜群のスタイル  MANTANWEB]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数の仕切りで収納力抜群！ 人気のボディバッグ「niid R0 Chest Bag」]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077644/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077644/?rss"/>
+        <updated>2021-12-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コンパクトサイズで収納力抜群のボディーバッグ「niid R0 Chest Bag」販売中。価格は1万2650円。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東通沖 4キロにわたりイワシ死骸／原因不明（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy81YzQ3MThjZjkzYTNmODU0MjJkNzQzZjUwMzZjOWYyMzM5MGQ4ZDhj0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/5c4718cf93a3f85422d743f5036c9f23390d8d8c"/>
+        <updated>2021-12-12T10:10:25.000Z</updated>
+        <summary type="html"><![CDATA[東通沖 4キロにわたりイワシ死骸／原因不明（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[競馬実況web - 【ターコイズＳ】登録馬 アンドラステ、マルターズディオサなど２５頭 - ラジオNIKKEI]]></title>
+        <id>CBMiMWh0dHA6Ly9rZWliYS5yYWRpb25pa2tlaS5qcC9rZWliYS9wb3N0XzI1MjgxLmh0bWzSAQA</id>
+        <link href="http://keiba.radionikkei.jp/keiba/post_25281.html"/>
+        <updated>2021-12-12T09:33:39.000Z</updated>
+        <summary type="html"><![CDATA[競馬実況web - 【ターコイズＳ】登録馬 アンドラステ、マルターズディオサなど２５頭  ラジオNIKKEI]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このワイルドさが日本にほしい!? ホンダ最強SUV 新型パスポート「トレイルスポーツ」価格判明＆今冬発売!!!（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yY2I5ZTYyNDhiYmEyMmQ2YTkwZjFlZTA0YWQ1OGNmMDgyMzU1ZTdl0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/2cb9e6248bba22d6a90f1ee04ad58cf082355e7e"/>
+        <updated>2021-12-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このワイルドさが日本にほしい!? ホンダ最強SUV 新型パスポート「トレイルスポーツ」価格判明＆今冬発売!!!（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハースのマゼピンが新型コロナ陽性でアブダビGPを欠場。代役なしで19人の決勝に／F1第22戦（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lNGI4OWY4MWQyMjFmYzhjOTQyNmYwNWY2MTcyODE4MmUwZjA3ZDBm0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/e4b89f81d221fc8c9426f05f61728182e0f07d0f"/>
+        <updated>2021-12-12T08:59:13.000Z</updated>
+        <summary type="html"><![CDATA[ハースのマゼピンが新型コロナ陽性でアブダビGPを欠場。代役なしで19人の決勝に／F1第22戦（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浦和は今季で契約満了の宇賀神が値千金の決勝弾 天皇杯決勝カードは「浦和×大分」 - auone.jp]]></title>
+        <id>CBMiSGh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzExLzkzXzExX3JfMjAyMTEyMTJfMTYzOTI5OTU0MzE2NzQ5M9IBAA</id>
+        <link href="https://article.auone.jp/detail/1/6/11/93_11_r_20211212_1639299543167493"/>
+        <updated>2021-12-12T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[浦和は今季で契約満了の宇賀神が値千金の決勝弾 天皇杯決勝カードは「浦和×大分」  auone.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「下手くそ棒」とは言わせない!? まだ売ってる? クルマ用コーナーポールの現在地（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNmY5NTlkYmU1MTUwNDcxYmFlNzI4ZTA4NWNhYTVkMzdkOWI2ZmJm0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/a6f959dbe5150471bae728e085caa5d37d9b6fbf"/>
+        <updated>2021-12-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「下手くそ棒」とは言わせない!? まだ売ってる? クルマ用コーナーポールの現在地（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中古モトコンポの自作トップカバーを塗装しました]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077652/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077652/?rss"/>
+        <updated>2021-12-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[塗装の前に一度組んでみてから、いよいよ塗装に入ります。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年の寒さ対策はコレ！ マフラーよりも断然暖かい「ひやぬっくコードレス」]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077651/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077651/?rss"/>
+        <updated>2021-12-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[首筋を温める「Qurra ネッククーラー&ウォーマー ひやぬっくコードレス 3R-NCW02」を販売中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「すき家」福袋を27日から発売！ クーポン＋グッズが2000円でファン必見]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077446/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077446/?rss"/>
+        <updated>2021-12-12T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[すき家は12月27日より、恒例となった福袋「SMILE BOX 2022」を店舗・数量限定で販売する。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガスリー予選12番手「今週末は角田に大きく後れを取っている。決勝までに解決策を見つけたい」F1第22戦 - オートスポーツweb]]></title>
+        <id>CAIiEIgxMH0wTHeoY0A1ZkYWr2gqGQgEKhAIACoHCAowgbvvCjCphdEBMMXViwI</id>
+        <link href="https://www.as-web.jp/f1/769355"/>
+        <updated>2021-12-12T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[ガスリー予選12番手「今週末は角田に大きく後れを取っている。決勝までに解決策を見つけたい」F1第22戦  オートスポーツweb]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【格安スマホまとめ】アマゾンでSIMフリー版iPhone販売　goo SimsellerのセールでAQUOS sense6が2万円]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077780/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077780/?rss"/>
+        <updated>2021-12-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpがiPhone 13シリーズと第2世代iPhone SEのSIMフリー版を販売開始。また、goo SimsellerはSIMセットでAQUOS sense6を2万円で提供。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッドブル・ホンダ密着：ミディアム・ローダウンフォース仕様のリヤウイングを選択。一時は問題発生も今季10回目のポール（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mNmRjYmE2ZWFlMDk1ZjVlZjQ3ZWEwMmQwZjc5OGJlMDE2ODViZjFl0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/f6dcba6eae095f5ef47ea02d0f798be01685bf1e"/>
+        <updated>2021-12-12T05:57:55.000Z</updated>
+        <summary type="html"><![CDATA[レッドブル・ホンダ密着：ミディアム・ローダウンフォース仕様のリヤウイングを選択。一時は問題発生も今季10回目のポール（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ふたご座流星群は13日、14日ピーク　太平洋側は「バッチリ見える」　全国各地から生配信も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2112/12/news029.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2112/12/news029.html"/>
+        <updated>2021-12-12T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[13日の深夜から15日未明にかけ、三大流星群の一つ「ふたご座流星群」が観測できる。ウェザーニュースによると、13日と14日は東日本／西日本ともに太平洋側は晴れるところが多く「バッチリ見える」。各地から生配信も行う。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【写真蔵】グランドコンセプトを「爽快」として登場した11代目のホンダ シビック - Webモーターマガジン - motormagazine.co.jp]]></title>
+        <id>CBMiLGh0dHBzOi8vd2ViLm1vdG9ybWFnYXppbmUuY28uanAvX2N0LzE3NTAyNTA30gEA</id>
+        <link href="https://web.motormagazine.co.jp/_ct/17502507"/>
+        <updated>2021-12-12T03:21:23.000Z</updated>
+        <summary type="html"><![CDATA[【写真蔵】グランドコンセプトを「爽快」として登場した11代目のホンダ シビック - Webモーターマガジン  motormagazine.co.jp]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモショップで契約可になった、月550円～のOCN モバイル ONEのサービス内容や速度をあらためて調べる]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077779/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077779/?rss"/>
+        <updated>2021-12-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「OCN モバイル ONE」は、NTTコミュニケーションズがドコモMVNOとして提供する格安SIMで、開始は2013年。テレビCMや「NTT」のブランドもあって、当初から上位に食い込んでいる。今年10月には月550円のプランも登場した。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJ式シェラカップそばで昼間からチルい]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077775/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077775/?rss"/>
+        <updated>2021-12-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新車を買った情報2021、前回に続いてそばの話。そろそろ連載タイトルを新そば情報に変えたほうがいいのだろうか？]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気ラーメン店「我武者羅」の看板メニューがカップ麺に！「背脂×生姜」新感覚のおいしさ]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077675/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077675/?rss"/>
+        <updated>2021-12-12T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[東京・幡ヶ谷の人気店の看板メニューをカップめん化。「Ｗ背脂パック」でたっぷりの背脂のコクを感じるスープに生姜を程よく利かせたスープを本格再現。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソーラーパネル搭載！ バッテリー残量を気にせず使えるノイズキャンセリングヘッドホン]]></title>
+        <id>https://ascii.jp/elem/000/004/077/4077647/?rss</id>
+        <link href="https://ascii.jp/elem/000/004/077/4077647/?rss"/>
+        <updated>2021-12-12T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソーラーパネルを搭載してバッテリー残量を気にせず使える「urbanista LOS ANGELES ソーラー充電&ノイズキャンセリングヘッドホン ブラック」発売中。]]></summary>
+        <author>
+            <name>ASCII.jp － トップ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初対戦で乱闘寸前「やり合った」 元日本代表DFが明かす歴代最多得点FW大久保嘉人の“怖さ”と“優しさ”（Football ZONE web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lNWE2Yzc4MDIwODdiZWQ1YWQzNGU3MjIwOGM5NDAzN2ZmMTYxMjFl0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/e5a6c7802087bed5ad34e72208c94037ff16121e"/>
+        <updated>2021-12-12T01:36:34.000Z</updated>
+        <summary type="html"><![CDATA[初対戦で乱闘寸前「やり合った」 元日本代表DFが明かす歴代最多得点FW大久保嘉人の“怖さ”と“優しさ”（Football ZONE web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11の右クリックメニューが変わった問題など、細かなWin11対策を紹介]]></title>
         <id>https://ascii.jp/elem/000/004/077/4077776/?rss</id>
@@ -37,36 +667,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【車名当てクイズ】この名車、迷車、珍車、ご存じですか? 第35回（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83NWUwYWEwMjJlMzFmZDVlNTU5ZTVkZTY5OTY1NGE1MDEzZjIyY2Rk0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/75e0aa022e31fd5e559e5de699654a5013f22cdd"/>
-        <updated>2021-12-11T23:02:11.000Z</updated>
-        <summary type="html"><![CDATA[【車名当てクイズ】この名車、迷車、珍車、ご存じですか? 第35回（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週のはじめに考える 真夜中を終わらせよ - 東京新聞]]></title>
-        <id>CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDI50gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDI5</id>
-        <link href="https://www.tokyo-np.co.jp/article/148429"/>
-        <updated>2021-12-11T22:37:37.000Z</updated>
-        <summary type="html"><![CDATA[週のはじめに考える 真夜中を終わらせよ  東京新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型フェアレディZがGT500マシンでひと足先にデビュー GT-Rに替わって、スープラとNSXに挑む（ENGINE WEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mM2UzNTk5OThlN2IxMzAzOGQ4MDUyMjE5MDc0NjNmYzUxZTA5N2Jj0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/f3e359998e7b13038d805221907463fc51e097bc"/>
-        <updated>2021-12-11T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[新型フェアレディZがGT500マシンでひと足先にデビュー GT-Rに替わって、スープラとNSXに挑む（ENGINE WEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[キャラゲーに“全集中”　ゲーム好きの漫画家が「鬼滅の刃 ヒノカミ血風譚」の評価に困った理由]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/12/news024.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/12/news024.html"/>
@@ -77,176 +677,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[米竜巻 死者100人超す可能性 - auone.jp]]></title>
-        <id>CBMiRmh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS80LzgvMTZfOF9yXzIwMjExMjEyXzE2MzkyNjE4NDIyMDMwNTXSAQA</id>
-        <link href="https://article.auone.jp/detail/1/4/8/16_8_r_20211212_1639261842203055"/>
-        <updated>2021-12-11T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[米竜巻 死者100人超す可能性  auone.jp]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイク・ネスミスさん死去 米バンド「モンキーズ」メンバー - 東京新聞]]></title>
-        <id>CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDI20gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDI2</id>
-        <link href="https://www.tokyo-np.co.jp/article/148426"/>
-        <updated>2021-12-11T22:21:37.000Z</updated>
-        <summary type="html"><![CDATA[マイク・ネスミスさん死去 米バンド「モンキーズ」メンバー  東京新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年末年始防犯呼び掛け 浅草・仲見世でパトロール - 東京新聞]]></title>
-        <id>CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4NDA00gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4NDA0</id>
-        <link href="https://www.tokyo-np.co.jp/article/148404"/>
-        <updated>2021-12-11T22:08:57.000Z</updated>
-        <summary type="html"><![CDATA[年末年始防犯呼び掛け 浅草・仲見世でパトロール  東京新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[底惚ぼれ 青山文平著 - 東京新聞]]></title>
-        <id>CBMiKWh0dHBzOi8vd3d3LnRva3lvLW5wLmNvLmpwL2FydGljbGUvMTQ4MjU50gEtaHR0cHM6Ly93d3cudG9reW8tbnAuY28uanAvYW1wL2FydGljbGUvMTQ4MjU5</id>
-        <link href="https://www.tokyo-np.co.jp/article/148259"/>
-        <updated>2021-12-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[底惚ぼれ 青山文平著  東京新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「人を遺す」ノムさんの極意 - auone.jp]]></title>
-        <id>CBMiSGh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEwLzkyXzEwX3JfMjAyMTEyMTJfMTYzOTI1OTI2MzA3MTEzMNIBAA</id>
-        <link href="https://article.auone.jp/detail/1/6/10/92_10_r_20211212_1639259263071130"/>
-        <updated>2021-12-11T21:57:54.000Z</updated>
-        <summary type="html"><![CDATA[「人を遺す」ノムさんの極意  auone.jp]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「クセがすごい」“あざと可愛い”アピールの松井大輔に脚光！「萌え袖にすれば尚良し」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mY2IwZjhmNzdkNDYyZjgzOTJhOGNjNmYxZDIwZWFmOWRlODdlOTBl0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/fcb0f8f77d462f8392a8cc6f1d20eaf9de87e90e"/>
-        <updated>2021-12-11T21:36:31.000Z</updated>
-        <summary type="html"><![CDATA[「クセがすごい」“あざと可愛い”アピールの松井大輔に脚光！「萌え袖にすれば尚良し」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「めちゃくちゃ見ていた」三笘薫が憧れたドリブラーは？「完全に真似したから今がある」（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jNTljYTA4YmVlYzA0Y2EyMzJmOGIzNGU3OTQzOGRkNWQzNjhmYzhh0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/c59ca08beec04ca232f8b34e79438dd5d368fc8a"/>
-        <updated>2021-12-11T21:27:11.000Z</updated>
-        <summary type="html"><![CDATA[「めちゃくちゃ見ていた」三笘薫が憧れたドリブラーは？「完全に真似したから今がある」（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G監督レース 阿部コーチ後退? - auone.jp]]></title>
-        <id>CBMiSWh0dHBzOi8vYXJ0aWNsZS5hdW9uZS5qcC9kZXRhaWwvMS82LzEwLzEzNl8xMl9yXzIwMjExMjEyXzE2MzkyNTcwNDIxMDc1MTnSAQA</id>
-        <link href="https://article.auone.jp/detail/1/6/10/136_12_r_20211212_1639257042107519"/>
-        <updated>2021-12-11T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[G監督レース 阿部コーチ後退?  auone.jp]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｂ１信州 群馬に競り負け３連敗｜信毎web - 信濃毎日新聞]]></title>
-        <id>CBMiOGh0dHBzOi8vd3d3LnNoaW5tYWkuY28uanAvbmV3cy9hcnRpY2xlL0NOVFMyMDIxMTIxMTAwNjUw0gEA</id>
-        <link href="https://www.shinmai.co.jp/news/article/CNTS2021121100650"/>
-        <updated>2021-12-11T21:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Ｂ１信州 群馬に競り負け３連敗｜信毎web  信濃毎日新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう週末のお出かけで迷わない！日産のWEBアプリ「GOODS DRIVE」でルート提案 - MOBY]]></title>
-        <id>CAIiEJeoUkx0Q4Dtz42bl1eLM_sqMwgEKioIACIQtBlEiNvSNMRnDE-xAq5-8CoUCAoiELQZRIjb0jTEZwxPsQKufvAwi_mmBw</id>
-        <link href="https://car-moby.jp/article/news/automotive-industry-news/nissan-goods-drive-app-release-dec2021/"/>
-        <updated>2021-12-11T21:02:10.000Z</updated>
-        <summary type="html"><![CDATA[もう週末のお出かけで迷わない！日産のWEBアプリ「GOODS DRIVE」でルート提案  MOBY]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21年産宮田ワイン「紫輝」 新酒発表会 – Nagano Nippo Web - 長野日報]]></title>
-        <id>CBMiKWh0dHA6Ly93d3cubmFnYW5vLW5wLmNvLmpwL2FydGljbGVzLzg2ODkx0gEA</id>
-        <link href="http://www.nagano-np.co.jp/articles/86891"/>
-        <updated>2021-12-11T21:00:57.000Z</updated>
-        <summary type="html"><![CDATA[21年産宮田ワイン「紫輝」 新酒発表会 – Nagano Nippo Web  長野日報]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「穴倉」のんびり冬の作業 茅野市泉野 – Nagano Nippo Web - 長野日報]]></title>
-        <id>CBMiKWh0dHA6Ly93d3cubmFnYW5vLW5wLmNvLmpwL2FydGljbGVzLzg2OTE20gEA</id>
-        <link href="http://www.nagano-np.co.jp/articles/86916"/>
-        <updated>2021-12-11T21:00:57.000Z</updated>
-        <summary type="html"><![CDATA[「穴倉」のんびり冬の作業 茅野市泉野 – Nagano Nippo Web  長野日報]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[角田裕毅、予選で初めて僚友に勝利「4番手タイム抹消は悔しいが、開幕戦以来、一番自信を持って走れている」F1第22戦 - オートスポーツweb]]></title>
-        <id>CAIiEHmla16i6GIvzNmqJQBrn4UqGQgEKhAIACoHCAowgbvvCjCphdEBMKXSiwI</id>
-        <link href="https://www.as-web.jp/f1/769253"/>
-        <updated>2021-12-11T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[角田裕毅、予選で初めて僚友に勝利「4番手タイム抹消は悔しいが、開幕戦以来、一番自信を持って走れている」F1第22戦  オートスポーツweb]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『最愛』主題歌、宇多田ヒカル「君に夢中」MV公開 - GetNavi web]]></title>
-        <id>CAIiEFT26nMa492xwbhfavMwyz0qGQgEKhAIACoHCAowkezzCjCb_rsCMOyiswM</id>
-        <link href="https://getnavi.jp/entertainment/682331/"/>
-        <updated>2021-12-11T20:50:52.000Z</updated>
-        <summary type="html"><![CDATA[『最愛』主題歌、宇多田ヒカル「君に夢中」MV公開  GetNavi web]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「攻守両面で信頼できる存在」２点に絡んだ冨安健洋に現地メディアは軒並み高評価！「観客からスーパー・トミヤスの大合唱」 - サッカーダイジェストWeb]]></title>
-        <id>CBMiNWh0dHBzOi8vd3d3LnNvY2NlcmRpZ2VzdHdlYi5jb20vbmV3cy9kZXRhaWwvaWQ9MTAyMjc10gFBaHR0cHM6Ly93d3cuc29jY2VyZGlnZXN0d2ViLmNvbS9uZXdzL2RldGFpbC9pZD0xMDIyNzU_bW9iaWxlYXBwPTE</id>
-        <link href="https://www.soccerdigestweb.com/news/detail/id=102275"/>
-        <updated>2021-12-11T20:03:45.000Z</updated>
-        <summary type="html"><![CDATA[「攻守両面で信頼できる存在」２点に絡んだ冨安健洋に現地メディアは軒並み高評価！「観客からスーパー・トミヤスの大合唱」  サッカーダイジェストWeb]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「美しき花嫁よ！」韓国女子代表の女神、イ・ミナが結婚式前日に披露した“純白ドレス”姿になでしこJの面々も祝福！（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy84ZTI0OTBkNGYxNGVlZTMzNjE1NGMxNjRiYzQzODhhMGQ3NzMwNTBk0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/8e2490d4f14eee336154c164bc4388a0d773050d"/>
-        <updated>2021-12-11T20:01:21.000Z</updated>
-        <summary type="html"><![CDATA[「美しき花嫁よ！」韓国女子代表の女神、イ・ミナが結婚式前日に披露した“純白ドレス”姿になでしこJの面々も祝福！（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運勢（１２日・先勝） - 中日新聞]]></title>
-        <id>CBMiKWh0dHBzOi8vd3d3LmNodW5pY2hpLmNvLmpwL2FydGljbGUvMzgyMjMx0gEtaHR0cHM6Ly93d3cuY2h1bmljaGkuY28uanAvYW1wL2FydGljbGUvMzgyMjMx</id>
-        <link href="https://www.chunichi.co.jp/article/382231"/>
-        <updated>2021-12-11T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[運勢（１２日・先勝）  中日新聞]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[有機ELディスプレーを備える80PLUS PLATINUMの1000W静音電源]]></title>
         <id>https://ascii.jp/elem/000/004/077/4077782/?rss</id>
         <link href="https://ascii.jp/elem/000/004/077/4077782/?rss"/>
@@ -254,16 +684,6 @@
         <summary type="html"><![CDATA[ASUSから、80PLUS PLATINUM認証を取得した1000Wの電源ユニット「ROG-THOR-1000P2-GAMING」が発売された。]]></summary>
         <author>
             <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リバプール、英雄ジェラード率いるアストン・ビラに苦戦もサラーのPKで何とか勝利！ 途中出場の南野拓実も役割を果たす（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy80MDM5ZGI2YmQyMTA4MWExZjZlODA3MmFkNzkyOTkwNGExMGE4OGY10gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/4039db6bd21081a1f6e8072ad7929904a10a88f5"/>
-        <updated>2021-12-11T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[リバプール、英雄ジェラード率いるアストン・ビラに苦戦もサラーのPKで何とか勝利！ 途中出場の南野拓実も役割を果たす（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
@@ -287,11 +707,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[リタイア4台の乱戦を周冠宇が制し今季4勝目。佐藤万璃音は16位【FIA-F2第8戦アブダビ レース2】（オートスポーツweb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yMzJkZjg2MTliZTJlMTQ4NjI4ODg1YmI4NjM3NGYwNmQzZTQ3YTRi0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/232df8619be2e148628885bb86374f06d3e47a4b"/>
-        <updated>2021-12-11T15:45:36.000Z</updated>
-        <summary type="html"><![CDATA[リタイア4台の乱戦を周冠宇が制し今季4勝目。佐藤万璃音は16位【FIA-F2第8戦アブダビ レース2】（オートスポーツweb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <title type="html"><![CDATA[遺伝子検査12日結果判明／三戸・鳥インフル（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hYTlmMWQ4YTUyZTk1NTk1MTVhZDMzNzQzZDU4YTcxNzI4ZGI5Yzdj0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/aa9f1d8a52e9559515ad33743d58a71728db9c7c"/>
+        <updated>2021-12-11T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[遺伝子検査12日結果判明／三戸・鳥インフル（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -317,36 +737,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[車以外にも自転車やバイク、浮き輪やボールに対応！ プロ仕様&ハイパワー空気入れ]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077533/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077533/?rss"/>
-        <updated>2021-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スタイリッシュデザインの電動空気入れ「PONPRO ポンプロ 3R-IFL01」販売中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce RTX 3050 Ti搭載のゲーミングノート「New Dell G15」が14万円台！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077396/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077396/?rss"/>
-        <updated>2021-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デルは、15.6型のゲーミングノートパソコン「New Dell G15」がお得に購入できるキャンペーンを実施中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core i7搭載の15.6型ノートPC「LIFEBOOK AH77/E3」が15万4800円！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077146/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077146/?rss"/>
-        <updated>2021-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アニメ「スローループ」東山奈央と安野希世乃が出演、Webラジオや放送直前特番も決定（コミックナタリー） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83ZTM3MTlhOTdiOGU5YTI3ZmE0Zjc0ZjNjMjZiYTAzMDY0ZDFiNTM00gEA</id>
         <link href="https://news.yahoo.co.jp/articles/7e3719a97b8e9a27fa4f74f3c26ba03064d1b534"/>
@@ -357,123 +747,33 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今だけ特価7839円！ 全身に使えるコードレスマッサージャー「CM-07」]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077532/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077532/?rss"/>
-        <updated>2021-12-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スタイリッシュでパワフルなコードレスマッサージャー「CM-07（ホワイト）」を特別価格で販売中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『SAOアリブレ』×『アイドルマスター ミリオンライブ！』の相互コラボが決定！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077736/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077736/?rss"/>
-        <updated>2021-12-11T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年12月11日、iOS／Android向けアプリ『ソードアート・オンライン アンリーシュ・ブレイディング』と『アイドルマスター ミリオンライブ！』の相互コラボレーションの実施決定を、バンダイナムコエンターテインメントが発表した。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川澄奈穂美＆仲田歩夢の2ショット写真が話題！大宮V練習参加にファンから「そのまま加入してくれませんか？」の声（SOCCER DIGEST Web） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zMjIwZTZkZTQ1YWQ0MjUyOTdjZjg2ZTcxNWYyY2RmMGExMTE1YmY30gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/3220e6de45ad425297cf86e715f2cdf0a1115bf7"/>
-        <updated>2021-12-11T11:41:52.000Z</updated>
-        <summary type="html"><![CDATA[川澄奈穂美＆仲田歩夢の2ショット写真が話題！大宮V練習参加にファンから「そのまま加入してくれませんか？」の声（SOCCER DIGEST Web） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <title type="html"><![CDATA[カワサキ「Z900RS 」カフェ 歴代カラーオールアルバム【'18～'22 完全網羅!!】（WEBヤングマシン） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hOWMwZDJiMjEwOTk5MjRiZjc3Njc0NTU3ZWQzMWUzZGEyNTZhYWJj0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/a9c0d2b21099924bf77674557ed31e3da256aabc"/>
+        <updated>2021-12-11T10:30:35.000Z</updated>
+        <summary type="html"><![CDATA[カワサキ「Z900RS 」カフェ 歴代カラーオールアルバム【'18～'22 完全網羅!!】（WEBヤングマシン） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[980円からのIQOS ILUMAの刻印サービスを体験！ 自分だけのデザインにできてクリスマスプレゼントにもピッタリ！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077774/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077774/?rss"/>
-        <updated>2021-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[フィリップ モリス ジャパンは、8月に加熱式タバコ「IQOS」の新製品「IQOS ILUMA（イルマ）」を発表した。IQOS公式店舗では、ドアカバーに好きな文字を刻印してくれる「刻印サービス」も実施中だ。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約1000個を超えるアプリに対応！ゲームやドローン操作で使えるコントローラー]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077524/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077524/?rss"/>
-        <updated>2021-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドローン操作やゲームで使えるコントローラー「RR1825A-Black for Android」「RR1852-Black for iOS（V3）」販売中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15.6型ノートPC「Inspiron 15 3000」が、クーポン適用で5万2273円！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077390/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077390/?rss"/>
-        <updated>2021-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デルは、「Inspiron 15 3000」を値引きして販売している。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約736gの軽量ノート「LIFEBOOK WU2/E3」が、いまなら9万5990円から！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077163/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077163/?rss"/>
-        <updated>2021-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core i3搭載で9万円台！　約736gの軽量ノート「LIFEBOOK WU2/E3」がお買い得]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077162/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077162/?rss"/>
-        <updated>2021-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女子白鷗大準優勝 全日本大学バスケットボール｜WEB写真館 スポーツ｜WEB写真館｜下野新聞 SOON(スーン) - 下野新聞]]></title>
-        <id>CBMiLmh0dHBzOi8vd3d3LnNoaW1vdHN1a2UuY28uanAvYXJ0aWNsZXMvLS81MzI0MTHSAQA</id>
-        <link href="https://www.shimotsuke.co.jp/articles/-/532411"/>
-        <updated>2021-12-11T10:47:41.000Z</updated>
-        <summary type="html"><![CDATA[女子白鷗大準優勝 全日本大学バスケットボール｜WEB写真館 スポーツ｜WEB写真館｜下野新聞 SOON(スーン)  下野新聞]]></summary>
+        <title type="html"><![CDATA[伊豆のジビエを使った〈イズシカバーガー〉が誕生！（Webマガジン コロカル） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yZWNhZjliNmVhMDhiY2RkOGYwZmZkYjA5MmQ0ZDExODJiMGJhZTc40gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/2ecaf9b6ea08bcdd8f0ffdb092d4d1182b0bae78"/>
+        <updated>2021-12-11T08:23:00.000Z</updated>
+        <summary type="html"><![CDATA[伊豆のジビエを使った〈イズシカバーガー〉が誕生！（Webマガジン コロカル） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自宅での学習用にもおすすめ。富士通Windowsタブレット「arrows Tab EH」が7万円台！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077153/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077153/?rss"/>
-        <updated>2021-12-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。]]></summary>
+        <title type="html"><![CDATA[「白樺樹液」を使用した〈美深白樺ブルワリー〉のクラフトビール（Webマガジン コロカル） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9kY2MwNTdmNTExNTEwMjZhOTFjZDg0MTZkNDMxOTRkMTFiOWQ1MmQw0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/dcc057f51151026a91cd8416d43194d11b9d52d0"/>
+        <updated>2021-12-11T08:18:23.000Z</updated>
+        <summary type="html"><![CDATA[「白樺樹液」を使用した〈美深白樺ブルワリー〉のクラフトビール（Webマガジン コロカル） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[距離が遠く音声が収録できない、ケーブルはかさばるなどの悩みを解決！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077525/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077525/?rss"/>
-        <updated>2021-12-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[動画撮影やライブ配信、スピーチの録音などさまざまな用途に利用できるワイヤレスマイク＆レシーバー「WIMAC（ワイマク）」販売中。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬のぶりは美味しいぞ！ オリジン「北海道産天然ぶり」の弁当が登場]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077555/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077555/?rss"/>
-        <updated>2021-12-11T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「オリジン弁当」「キッチンオリジン」では12月16日10時より、引き締まった身の旨味を楽しめる「北海道産天然ぶりの照焼き弁当」を期間限定で販売します。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
+            <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
@@ -497,16 +797,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[web限定SCOOP！出荷スタートした新型ハイゼット・トラック激写!! - MAGX NEWS]]></title>
-        <id>CBMiImh0dHBzOi8vbWFnLXguanAvMjAyMS8xMi8xMS8xOTM0Ni_SAQA</id>
-        <link href="https://mag-x.jp/2021/12/11/19346/"/>
-        <updated>2021-12-11T05:17:26.000Z</updated>
-        <summary type="html"><![CDATA[web限定SCOOP！出荷スタートした新型ハイゼット・トラック激写!!  MAGX NEWS]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ポケモンGOの有料イベント「ジョウトツアー」チケット発売　ジョウト地方全ポケモンに色違い]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/11/news037.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/11/news037.html"/>
@@ -517,151 +807,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[企業のWebセキュリティ市場ーソリューション別（クラウドベースのサービス、アプライアンスサービス、ハイブリッドオンプレミスサービス）、エンドユーザー産業別-世界の需要分析と機会の見通し2027年 - PR TIMES]]></title>
-        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDI1NjEuMDAwMDU5ODYxLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMjU2MS4wMDAwNTk4NjEuaHRtbA</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000002561.000059861.html"/>
-        <updated>2021-12-11T04:05:24.000Z</updated>
-        <summary type="html"><![CDATA[企業のWebセキュリティ市場ーソリューション別（クラウドベースのサービス、アプライアンスサービス、ハイブリッドオンプレミスサービス）、エンドユーザー産業別-世界の需要分析と機会の見通し2027年  PR TIMES]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全世界100セット限定のシリアルナンバー付きDDR4 OCメモリー]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077764/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077764/?rss"/>
-        <updated>2021-12-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[全世界100セット限定というオーバークロック仕様のDDR4メモリー「HOF OC Lab Tempest D4-5000 8G*2」がGALAXから発売された。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUSからWi-Fi 6E対応のZ690搭載Micro ATXマザーが発売]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077763/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077763/?rss"/>
-        <updated>2021-12-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ASUSから、Intel Z690チップセット搭載マザーボードの新製品「ROG STRIX Z690-G GAMING WIFI」が発売された。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これはキレイ！ 水冷のチューブを光らせるスリーブが爆誕]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077761/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077761/?rss"/>
-        <updated>2021-12-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cooler Masterから、水冷ユニットのウォーターチューブを発光させるスリーブ「LED Tube Sleeve A1」が発売された。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Masterから1050Wと1250Wの80PLUS GOLD電源が発売]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077758/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077758/?rss"/>
-        <updated>2021-12-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cooler Masterの80PLUS GOLD認証取得電源ユニット「MWE Gold V2」シリーズから、容量1050Wと1250Wが発売された。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最前線に立つ販売プロに聞いた シチズンのスマートウォッチが人気を集める理由]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077609/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077609/?rss"/>
-        <updated>2021-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年は日本を代表する時計のシチズンが、スマートウォッチのラインナップを一気に拡大した。ファンが各製品にどんな期待を寄せているのか、シチズン時計で国内時計製品の売りの現場を統括する宇山伸二氏に聞いた]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日産「AURA」の上質感と柔らかな走りは幅広い年齢層に受け入れられる]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077506/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077506/?rss"/>
-        <updated>2021-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アイドルユニット「純情のアフィリア」の寺坂ユミさんに、色々なクルマに試乗してもらう当企画。今回は日産自動車のAURA（オーラ）e-POWERで、上質コンパクトの世界を体験してもらうことになりました。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「BF 2042」など話題のゲームを4K＆WQHDで楽しみたいなら、ASRock「Radeon RX 6900 XT Phantom Gaming D 16G OC」がイチオシだ]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077411/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077411/?rss"/>
-        <updated>2021-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ASRock「Radeon RX 6900 XT Phantom Gaming D 16G OC」は、4Kゲーミングが視野に入る最上位のビデオカードだ。本稿では、最新ゲームタイトルを使って本機のパフォーマンスをチェックする。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャオミ「Xiaomi 11T」は5万円台でハイエンドに迫るハイコスパスマホ！]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077182/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077182/?rss"/>
-        <updated>2021-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回レビューするのは、シャオミの「Xiaomi 11T」。Xiaomi 11Tは新たなフラッグシップモデルの1つとしてシャオミが投入した機種です。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[話題のWebコミックが読める『ナンバーナインCOMIC』チャンネルがニコニコ静画にて12月11日より配信スタート！ - PR TIMES]]></title>
-        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwNjUuMDAwMDI3NTg0Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDA2NS4wMDAwMjc1ODQuaHRtbA</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000065.000027584.html"/>
-        <updated>2021-12-11T02:30:14.000Z</updated>
-        <summary type="html"><![CDATA[話題のWebコミックが読める『ナンバーナインCOMIC』チャンネルがニコニコ静画にて12月11日より配信スタート！  PR TIMES]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロッテリアお得な「30％OFFバーガーパック」クリスマス期間に販売！20日～]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077668/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077668/?rss"/>
-        <updated>2021-12-11T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ロッテリアは12月20日～26日の7日間、「30％OFF バーガーパック」を期間限定で販売する。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清成龍一がTOHO Racingに移籍。國川浩道、國峰啄磨はST1000から参戦／全日本ロード - オートスポーツweb]]></title>
-        <id>CAIiEJVgETdRSRxo6FipqdZCTPUqGQgEKhAIACoHCAowgbvvCjCphdEBMKXSiwI</id>
-        <link href="https://www.as-web.jp/bike/769040"/>
-        <updated>2021-12-11T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[清成龍一がTOHO Racingに移籍。國川浩道、國峰啄磨はST1000から参戦／全日本ロード  オートスポーツweb]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webマーケティング支援のサイトエンジン株式会社採用サイトを12月10日リニューアル：時事ドットコム - 時事通信]]></title>
-        <id>CBMiO2h0dHBzOi8vd3d3LmppamkuY29tL2pjL2FydGljbGU_az0wMDAwMDAwMzYuMDAwMDIzNjMxJmc9cHJ00gEA</id>
-        <link href="https://www.jiji.com/jc/article?k=000000036.000023631&amp;g=prt"/>
-        <updated>2021-12-11T01:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Webマーケティング支援のサイトエンジン株式会社採用サイトを12月10日リニューアル：時事ドットコム  時事通信]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UQ／auから販売されている5Gモバイルルーター「Galaxy 5G」がアキバでのセールで1万2800円]]></title>
-        <id>https://ascii.jp/elem/000/004/077/4077762/?rss</id>
-        <link href="https://ascii.jp/elem/000/004/077/4077762/?rss"/>
-        <updated>2021-12-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5Gに対応したモバイルルーター「Galaxy 5G Mobile Wi-Fi」がアキバ店頭でセール中だ。取り扱っているのはイオシス アキバ中央通店などのイオシス各店で、店頭価格は1万2800円。]]></summary>
-        <author>
-            <name>ASCII.jp － トップ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「丸源餃子福袋2022」丸源ラーメン・二代目丸源で販売、冷凍生ギョーザ50個とクーポン1000円分で販売額1000円、WEB予約も/物語コーポレーション - 食品産業新聞社]]></title>
-        <id>CBMiRmh0dHBzOi8vd3d3LnNzbnAuY28uanAvbmV3cy9mb29kc2VydmljZS8yMDIxLzEyLzIwMjEtMTIxMC0xNzIyLTE0Lmh0bWzSAQA</id>
-        <link href="https://www.ssnp.co.jp/news/foodservice/2021/12/2021-1210-1722-14.html"/>
-        <updated>2021-12-10T23:00:26.000Z</updated>
-        <summary type="html"><![CDATA[「丸源餃子福袋2022」丸源ラーメン・二代目丸源で販売、冷凍生ギョーザ50個とクーポン1000円分で販売額1000円、WEB予約も/物語コーポレーション  食品産業新聞社]]></summary>
+        <title type="html"><![CDATA[頑張る児童に光の贈り物／八戸・吹上小でイルミネーション（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8wYTdjMWU2MmY4NjE0ZDMyZDZhOWJjMjZhNzhiZTM5NTExMDJlMWEw0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/0a7c1e62f8614d32d6a9bc26a78be3951102e1a0"/>
+        <updated>2021-12-11T02:19:31.000Z</updated>
+        <summary type="html"><![CDATA[頑張る児童に光の贈り物／八戸・吹上小でイルミネーション（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -707,16 +857,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[むくみの原因や簡単な解消方法は？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iMzdhOWQ3ZjJlYzZjNWE2ZjRmNDA5NTI0ODdhNmZhNzJjMmQzNTE20gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/b37a9d7f2ec6c5a6f4f40952487a6fa72c2d3516"/>
-        <updated>2021-12-10T11:02:21.000Z</updated>
-        <summary type="html"><![CDATA[むくみの原因や簡単な解消方法は？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年、世界中で最もツイートされた絵文字は？　Twitterが発表]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/10/news171.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/10/news171.html"/>
@@ -747,16 +887,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スポーツ報知WEBサイトで「タカラヅカ新世紀WEB」がスタート - PR TIMES]]></title>
-        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAxMzIuMDAwMDcxMzE3Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDEzMi4wMDAwNzEzMTcuaHRtbA</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000132.000071317.html"/>
-        <updated>2021-12-10T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[スポーツ報知WEBサイトで「タカラヅカ新世紀WEB」がスタート  PR TIMES]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[バンダイ公式サイト、品薄で一部ガンプラを抽選販売に　再生産スケジュール公開もファンは「半年先まで状況は変わらないのか」]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/10/news168.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/10/news168.html"/>
@@ -764,16 +894,6 @@
         <summary type="html"><![CDATA[BANDAI SPIRITSは10日、公式ECサイト「ガンダムベースオンラインショップ」で一部ガンプラの抽選販売を始めた。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実在のWebサイトやSNSアカウントから情報を集める謎解きホラーゲーム『パルフォン』Steam版の配信がスタート。制作者の視点で都市伝説やネット文化を解説する小冊子データも同梱 - 電ファミニコゲーマー]]></title>
-        <id>CAIiEC0m63J0qybBv37vmwTKGGYqGQgEKhAIACoHCAowo42ZCzCzl7EDMJiT0wY</id>
-        <link href="https://news.denfaminicogamer.jp/news/211210b"/>
-        <updated>2021-12-10T08:31:00.000Z</updated>
-        <summary type="html"><![CDATA[実在のWebサイトやSNSアカウントから情報を集める謎解きホラーゲーム『パルフォン』Steam版の配信がスタート。制作者の視点で都市伝説やネット文化を解説する小冊子データも同梱  電ファミニコゲーマー]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
@@ -812,6 +932,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20211210/k10013381621000.html"/>
         <updated>2021-12-10T07:14:04.000Z</updated>
         <summary type="html"><![CDATA[ぼくの“自分研究”  NHK NEWS WEB]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNjk4ZjJmZjU2ZjUzMDMwNzQxZTQzNTU2ZDE2ZTdhNjEyZWYyNTY20gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/a698f2ff56f53030741e43556d16e7a612ef2566"/>
+        <updated>2021-12-10T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -997,26 +1127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[情報を手際良く整理、ブックマークより一段上のWebページ管理術 - ITpro]]></title>
-        <id>CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDE4NjgvMTEyMjAwMDAzL9IBAA</id>
-        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01868/112200003/"/>
-        <updated>2021-12-09T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[情報を手際良く整理、ブックマークより一段上のWebページ管理術  ITpro]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webシステムの応答が遅すぎる、機器の設定ミスを見抜いたのに改善しなかったワケ - ITpro]]></title>
-        <id>CBMiPGh0dHBzOi8veHRlY2gubmlra2VpLmNvbS9hdGNsL254dC9jb2x1bW4vMTgvMDExNTYvMTExODAwMDI0L9IBAA</id>
-        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01156/111800024/"/>
-        <updated>2021-12-09T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Webシステムの応答が遅すぎる、機器の設定ミスを見抜いたのに改善しなかったワケ  ITpro]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHubがコード検索を強化。正規表現対応、プログラミング言語別、組織やリポジトリ、ファイルパスなど範囲指定、高速な結果表示]]></title>
         <id>https://www.publickey1.jp/blog/21/github_8.html</id>
         <link href="https://www.publickey1.jp/blog/21/github_8.html"/>
@@ -1027,11 +1137,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HashiCorpが今日、NASDAQ市場へ株式公開。時価総額は約1300億円に]]></title>
+        <title type="html"><![CDATA[HashiCorpが今日、NASDAQ市場へ株式公開。時価総額は約1兆3000億円に]]></title>
         <id>https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html</id>
         <link href="https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html"/>
         <updated>2021-12-09T15:46:56.000Z</updated>
-        <summary type="html"><![CDATA[TerraformやVagrantなどのソフトウェアで知られるHashiCorpは今日、米NASDAQ市場へ株式公開を果たしました。公開価格は1株80ドルで、同社の時価総額は12億ドル（1ドル110円換算で1320億円）となります。  NA...]]></summary>
+        <summary type="html"><![CDATA[TerraformやVagrantなどのソフトウェアで知られるHashiCorpは今日、米NASDAQ市場へ株式公開を果たしました。公開価格は1株80ドルで、同社の時価総額は120億ドル（1ドル110円換算で1兆3200億円）となります。 ...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
@@ -1107,16 +1217,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【図書館】年末年始の休館とWebサービス停止について／茨木市 - 茨木市]]></title>
-        <id>CBMiWGh0dHBzOi8vd3d3LmNpdHkuaWJhcmFraS5vc2FrYS5qcC9raWtvdS9reW9pa3VpaW5rYWlreW9pa3Vzb3VtdS90b3Nob2thbi9tZW51LzU2MzY2Lmh0bWzSAQA</id>
-        <link href="https://www.city.ibaraki.osaka.jp/kikou/kyoikuiinkaikyoikusoumu/toshokan/menu/56366.html"/>
-        <updated>2021-12-09T09:53:51.000Z</updated>
-        <summary type="html"><![CDATA[【図書館】年末年始の休館とWebサービス停止について／茨木市  茨木市]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[真空もゆがむのか？　ブラックホールの謎に迫る新衛星、NASAや理研などが打ち上げへ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/09/news149.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/09/news149.html"/>
@@ -1124,6 +1224,16 @@
         <summary type="html"><![CDATA[理化学研究所などの研究チームが参加する、米国主導の国際共同プロジェクトは12月9日に、新たな観測衛星「X線偏光観測衛星IXPE」を打ち上げた。IXPE衛星は、天体X線の偏光を高感度で観測できる世界初の衛星で、宇宙での多くの謎の解明を期待できる。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空自F35A緊急着陸、原因はシステム不具合（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy84ZWFlMWRkNmQwYTkyMjA1MmVkMDBjY2NkNDZiNzlhODM0YTIwNGE40gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/8eae1dd6d0a922052ed00cccd46b79a834a204a8"/>
+        <updated>2021-12-09T09:22:20.000Z</updated>
+        <summary type="html"><![CDATA[空自F35A緊急着陸、原因はシステム不具合（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
@@ -1247,16 +1357,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ザ・スーツカンパニー、初の「バーチャルショップ」開設 Webでも視覚的な要素を訴求（ITmedia ビジネスオンライン） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9jYTYzMjdmMTNlNDk5OGQzZThlYjQyNWE5NmE1MGFkNGVkZDQ3ODdh0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/ca6327f13e4998d3e8eb425a96a50ad4edd4787a"/>
-        <updated>2021-12-09T02:36:29.000Z</updated>
-        <summary type="html"><![CDATA[ザ・スーツカンパニー、初の「バーチャルショップ」開設 Webでも視覚的な要素を訴求（ITmedia ビジネスオンライン） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[閉館する「スタジオコースト」の備品がヤフオク!に　看板やDJ機材など　1円から]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2112/09/news084.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2112/09/news084.html"/>
@@ -1297,16 +1397,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta、Facebookにユーザー収益化の「professional mode」と「Stars Store」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news068.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news068.html"/>
-        <updated>2021-12-08T23:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Metaは、Facebookのクリエイター向け収益化ツール「professional mode」と「Stars Store」を発表した。professional modeは個人アカウントでページ同様に収益化できるモード、Stars Storeは昨年から提供している投げ銭を購入できるストアだ（いずれも日本での対応は未定）。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[トライアンフ「タイガー1200XRT」【1分で読める 現行アドベンチャーバイク紹介】（webオートバイ） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mOGU4YzU0ZjIyYTBlMjdiOTcwZjg5NmU3YWNiNDNhMWVlMjQ3NjA10gEA</id>
         <link href="https://news.yahoo.co.jp/articles/f8e8c54f22a0e27b970f896e7acb43a1ee247605"/>
@@ -1317,73 +1407,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IoT家電　普及の壁はメーカーの囲い込みか]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news066.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news066.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国内電機メーカーがIoT家電の販売を強化している。ただ、連携は自社製品同士でしか機能しないものがほとんどで、専門家は「企業がユーザーの『囲い込み』に走っているうちは国内での普及には限界がある」と指摘する。]]></summary>
+        <title type="html"><![CDATA[Apple、オープンソースWebサイトを刷新 - iPhone Mania]]></title>
+        <id>CBMiJGh0dHBzOi8vaXBob25lLW1hbmlhLmpwL25ld3MtNDI1NDAyL9IBAA</id>
+        <link href="https://iphone-mania.jp/news-425402/"/>
+        <updated>2021-12-08T22:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple、オープンソースWebサイトを刷新  iPhone Mania]]></summary>
         <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー、バラの花も優しくつかむ新ロボ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news065.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news065.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソニーグループは7日、人の手の繊細な動きを再現する新たなロボット技術を公開した。圧力分布を把握するセンサーと物体までの距離を測るセンサーを指先に仕込んだことで、特性の分からない未知の物体を丁寧に取り扱うことができる。介護現場などの産業向けと家庭向けの両方での活用を想定し、早期の実用化を目指す。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心筋梗塞　血液でリスク予測　糖尿病や脂肪の健康データ　テレワークで急に悪化　心筋梗塞や脳卒中のリスクも]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news064.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news064.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[血液検査「フォーネスビジュアス」は、少量の血液から約7000種類のタンパク質を一度に測定し、AI技術を組み合わせて、4年以内の心筋梗塞・脳卒中発症リスクを予測する検査法。「コロナ禍で運動不足になって健康データが急激に悪化した人が多い」という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音楽からふりつけを自動生成　ポップスやジャズなどに合わせてキャラクターがダンス]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news044.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news044.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中国の研究チームは、音楽からキャラクターの振り付けを自動生成するダンスモーション合成システムを開発。ポップスやヒップホップ、ロック、ジャズなど、さまざまな音楽スタイルのリズムに応じた動きを作り出す。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集団で動く、ゴキブリ風小型ロボット　力を合わせて大型ロボットを操縦]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news038.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news038.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[仏ボルドー大学などの研究チームは、ゴキブリ風の小型ロボットの集合体が、大型ロボットを動かすシステムを開発。多数の小型ロボットが中で動き回って大型ロボットを変形させ、細い隙間や障害物コースを通り抜けたり荷物を運んだりする。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iモード」とは何だったのか　その本質と功績、iPhoneに駆逐された理由]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news012.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news012.html"/>
-        <updated>2021-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「3Gでやるならこのくらいが限界」「次の大きなジャンプは4Gが出てから」と考える人は多かった。iPhoneが出てくるまでは。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウドの設定ミスを防ぐコツは？　100を超えるSaaSを比較した“SaaSおじさん”に聞く]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2112/09/news052.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/09/news052.html"/>
-        <updated>2021-12-08T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウドサービスを導入する企業が増える一方で、設定ミスなどが原因のセキュリティ事故を心配する声も多い。では、どのような対策があるのか。クラウドの導入支援を手掛けるネクストモードの“SaaSおじさん”に説明してもらった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
+            <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
@@ -1420,7 +1450,7 @@
         <title type="html"><![CDATA[冬至にかぼちゃを食べるのはなぜ？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy82NDhkY2EyZGU5MTlmYzUzYTFkMDY0ZmYwZGE3MTU5ZDc2OTU1NDNh0gEA</id>
         <link href="https://news.yahoo.co.jp/articles/648dca2de919fc53a1d064ff0da7159d7695543a"/>
-        <updated>2021-12-08T11:04:08.000Z</updated>
+        <updated>2021-12-08T11:02:11.000Z</updated>
         <summary type="html"><![CDATA[冬至にかぼちゃを食べるのはなぜ？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
@@ -1457,21 +1487,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zMzY4ZGRmMjNiMjE2NmEwNDM3YTdiNTU1YjQzNDY3ZTU4MzViODM00gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/3368ddf23b2166a0437a7b555b43467e5835b834"/>
-        <updated>2021-12-08T02:04:39.000Z</updated>
-        <summary type="html"><![CDATA[F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <title type="html"><![CDATA[DX時代のビジネスマッチングプラットフォーム「M&A-WEB（エムエーウェブ）」が、「スタートアップ事業M&A特集」を掲載開始 - PR TIMES]]></title>
+        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMjkuMDAwMDcyMTIzLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAyOS4wMDAwNzIxMjMuaHRtbA</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000029.000072123.html"/>
+        <updated>2021-12-08T06:02:49.000Z</updated>
+        <summary type="html"><![CDATA[DX時代のビジネスマッチングプラットフォーム「M&A-WEB（エムエーウェブ）」が、「スタートアップ事業M&A特集」を掲載開始  PR TIMES]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hNjk4ZjJmZjU2ZjUzMDMwNzQxZTQzNTU2ZDE2ZTdhNjEyZWYyNTY20gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/a698f2ff56f53030741e43556d16e7a612ef2566"/>
-        <updated>2021-12-07T22:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Step 3-9 Webで扱う画像ファイルの基礎知識（Web担当者Forum） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <title type="html"><![CDATA[無料で読めるWEB漫画サイト「コミックブシロードWEB」にて好評連載中!!サイトウケンジ×伊藤イットが贈る、オカルティックアクション「ホウカゴB面セカイ」単行本1巻が本日12月8日(水)発売!! - PR TIMES]]></title>
+        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDUwNzkuMDAwMDE0ODI3Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwNTA3OS4wMDAwMTQ4MjcuaHRtbA</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000005079.000014827.html"/>
+        <updated>2021-12-08T02:30:02.000Z</updated>
+        <summary type="html"><![CDATA[無料で読めるWEB漫画サイト「コミックブシロードWEB」にて好評連載中!!サイトウケンジ×伊藤イットが贈る、オカルティックアクション「ホウカゴB面セカイ」単行本1巻が本日12月8日(水)発売!!  PR TIMES]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8zMzY4ZGRmMjNiMjE2NmEwNDM3YTdiNTU1YjQzNDY3ZTU4MzViODM00gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/3368ddf23b2166a0437a7b555b43467e5835b834"/>
+        <updated>2021-12-08T02:04:39.000Z</updated>
+        <summary type="html"><![CDATA[F16飛行再開容認 防衛相「米軍が安全確認」（Web東奥） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1530,7 +1570,7 @@
         <title type="html"><![CDATA[除夜の鐘の回数はなぜ108回なの？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy81MWM1YzhhOTU3OThlNzIyODY0ZWRkZDdmODE5MDllZWIyYTYxMDg10gEA</id>
         <link href="https://news.yahoo.co.jp/articles/51c5c8a95798e722864eddd7f81909eeb2a61085"/>
-        <updated>2021-12-07T12:00:56.000Z</updated>
+        <updated>2021-12-07T12:06:37.000Z</updated>
         <summary type="html"><![CDATA[除夜の鐘の回数はなぜ108回なの？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
@@ -1552,16 +1592,6 @@
         <link href="https://news.yahoo.co.jp/articles/a7faafa86e0de185a2880ad7ff07b6bf68f9f9e9"/>
         <updated>2021-12-07T11:31:33.000Z</updated>
         <summary type="html"><![CDATA[【ヴァン クリーフ＆アーペル】“赤いハート”のジュエリーにときめく理由（webマガジン mi-mollet） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1サウジアラビアGP、アルファタウリ・ホンダのガスリーの失敗（Webモーターマガジン） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yNDIzZjdjMTA4MmVhZTQzMDRiOGIxNTQxNTI2M2I4ZmM1MjY2M2Ix0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/2423f7c1082eae4304b8b15415263b8fc52663b1"/>
-        <updated>2021-12-07T10:10:12.000Z</updated>
-        <summary type="html"><![CDATA[F1サウジアラビアGP、アルファタウリ・ホンダのガスリーの失敗（Webモーターマガジン） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1627,16 +1657,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「キリン一番搾り 糖質ゼロ」スペシャルWebムービーを公開 森進一さんとHiro さん親子が出演（オーヴォ） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9lMTEzMzhjYzE1YjNhNzE1MjViOGZiMjE4MDA4MTIzYWZhMzEzZjVk0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/e11338cc15b3a71525b8fb218008123afa313f5d"/>
-        <updated>2021-12-06T23:30:33.000Z</updated>
-        <summary type="html"><![CDATA[「キリン一番搾り 糖質ゼロ」スペシャルWebムービーを公開 森進一さんとHiro さん親子が出演（オーヴォ） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[肌が黒ずむのはなんで？医師が徹底解説（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy85ZDM2MzY2MzlmMzRhZDI2MDU0MWZkODJmYjQ1NWVhZjNmMTg1NGE30gEA</id>
         <link href="https://news.yahoo.co.jp/articles/9d3636639f34ad260541fd82fb455eaf3f1854a7"/>
@@ -1657,21 +1677,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＜林凛＞初水着も話題の現役女子大生 「ヤンマガWeb」に 水着で抜群のプロポーション（MANTANWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hODAyYTY2MTUxZjU2Zjk5YTg3NzIxY2M5YjU2ZDRmMTAxYzNmNmY30gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/a802a66151f56f99a87721cc9b56d4f101c3f6f7"/>
-        <updated>2021-12-06T13:11:00.000Z</updated>
-        <summary type="html"><![CDATA[＜林凛＞初水着も話題の現役女子大生 「ヤンマガWeb」に 水着で抜群のプロポーション（MANTANWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[訓練なしにWebサイトを最大2倍速く読めるように Chrome用拡張機能を無償公開 日本ユニシス - ITmedia]]></title>
-        <id>CBMiPGh0dHBzOi8vd3d3Lml0bWVkaWEuY28uanAvbmV3cy9hcnRpY2xlcy8yMTEyLzA2L25ld3MxNTcuaHRtbNIBAA</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2112/06/news157.html"/>
-        <updated>2021-12-06T10:24:00.000Z</updated>
-        <summary type="html"><![CDATA[訓練なしにWebサイトを最大2倍速く読めるように Chrome用拡張機能を無償公開 日本ユニシス  ITmedia]]></summary>
+        <title type="html"><![CDATA[神職になるにはどうするの？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy8yMmRkYWZkMDdjYmRhYjExODc5ZWZjNmNlNTg3MjliNmQzYmI0ZWUx0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/22ddafd07cbdab11879efc6ce58729b6d3bb4ee1"/>
+        <updated>2021-12-06T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[神職になるにはどうするの？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1682,6 +1692,16 @@
         <link href="https://news.yahoo.co.jp/articles/a86c7061796c55297549e57c83217642b427c7f5"/>
         <updated>2021-12-06T08:31:42.000Z</updated>
         <summary type="html"><![CDATA[Webブラウザーを自由にデザインできる「Vivaldi 5.0」が公開 ～翻訳パネルも搭載（Impress Watch） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトブック付きWebセミナーで「スポーツカーに心揺さぶられるのはなぜか？」両角岳彦と語り尽くそう【のりもの探偵団「スポーツカー百年史を図解で読む・語る」】 - MotorFan[モーターファン]]]></title>
+        <id>CBMiJmh0dHBzOi8vbW90b3ItZmFuLmpwL21mL2FydGljbGUvMjc2ODkv0gEsaHR0cHM6Ly9tb3Rvci1mYW4uanAvbWYvYXJ0aWNsZS8yNzY4OS8_YW1wPTE</id>
+        <link href="https://motor-fan.jp/mf/article/27689/"/>
+        <updated>2021-12-06T07:35:35.000Z</updated>
+        <summary type="html"><![CDATA[フォトブック付きWebセミナーで「スポーツカーに心揺さぶられるのはなぜか？」両角岳彦と語り尽くそう【のりもの探偵団「スポーツカー百年史を図解で読む・語る」】  MotorFan[モーターファン]]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1737,6 +1757,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[お歳暮の定番品や価格の相場は？（ハルメクWEB） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy83OTIxOTI4N2VjYmQ3N2RjZTIwZWU5ODUzMzEzYzBkNzE1MTNjZWE20gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/79219287ecbd77dce20ee9853313c0d71513cea6"/>
+        <updated>2021-12-05T11:00:30.000Z</updated>
+        <summary type="html"><![CDATA[お歳暮の定番品や価格の相場は？（ハルメクWEB） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阪神・主将総選挙は坂本誠志郎に決定！ （東スポWeb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
+        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9iMDk2NmMyNTkyMDM4NGJiYzNiNGUzZDUyYWNjYzMyN2RiZmZiNzVl0gEA</id>
+        <link href="https://news.yahoo.co.jp/articles/b0966c25920384bbc3b4e3d52accc327dbffb75e"/>
+        <updated>2021-12-04T05:53:48.000Z</updated>
+        <summary type="html"><![CDATA[阪神・主将総選挙は坂本誠志郎に決定！ （東スポWeb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「矢野論文」が引き金、バラマキ論争の結末は？【政界Ｗｅｂ】：時事ドットコム - 時事通信]]></title>
         <id>CBMiM2h0dHBzOi8vd3d3LmppamkuY29tL2pjL3Y0P2lkPTIwMjExMjAzc2Vpa2Fpd2ViMDAwMdIBAA</id>
         <link href="https://www.jiji.com/jc/v4?id=20211203seikaiweb0001"/>
@@ -1747,41 +1787,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[極秘文書から見えた 新しい“山本五十六” - NHK NEWS WEB]]></title>
-        <id>CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMjAzL2sxMDAxMzM2NjIwMTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTEyMDMvYW1wL2sxMDAxMzM2NjIwMTAwMC5odG1s</id>
-        <link href="https://www3.nhk.or.jp/news/html/20211203/k10013366201000.html"/>
-        <updated>2021-12-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[極秘文書から見えた 新しい“山本五十六”  NHK NEWS WEB]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[両備グループが「がけっぷち！」キャンペーン2021を開催中!!（ベストカーWeb） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9hYzJhYTM5ZTc2ODQ0YzQ4OTQzZDZjMmI2NWRiOWFhMjgyZThjYjU30gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/ac2aa39e76844c48943d6c2b65db9aa282e8cb57"/>
-        <updated>2021-12-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[両備グループが「がけっぷち！」キャンペーン2021を開催中!!（ベストカーWeb） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ポルトガルの「Web Summit」に4万人が集結！現地開催に戻りつつあるカンファレンスの今（AMP［アンプ］） - Yahoo!ニュース - Yahoo!ニュース]]></title>
         <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy82ZTY3YTgyYTIxOTc1M2U4Y2Y5MWE4OWY2YTY5ZWI0YmQ3YTc1OTVk0gEA</id>
         <link href="https://news.yahoo.co.jp/articles/6e67a82a219753e8cf91a89f6a69eb4bd7a7595d"/>
         <updated>2021-12-03T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[ポルトガルの「Web Summit」に4万人が集結！現地開催に戻りつつあるカンファレンスの今（AMP［アンプ］） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名探偵コナン ハロウィンの花嫁：特報公開 「安室じゃない…公安警察・降谷零だ」 ウエディングドレスの佐藤刑事、タキシードの高木刑事 相関図も - MANTANWEB]]></title>
-        <id>CAIiEMD3_9UqfihF7zQKp7tqndUqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY</id>
-        <link href="https://mantan-web.jp/article/20211203dog00m200001000c.html"/>
-        <updated>2021-12-02T23:40:29.000Z</updated>
-        <summary type="html"><![CDATA[名探偵コナン ハロウィンの花嫁：特報公開 「安室じゃない…公安警察・降谷零だ」 ウエディングドレスの佐藤刑事、タキシードの高木刑事 相関図も  MANTANWEB]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1817,16 +1827,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味 - MANTANWEB]]></title>
-        <id>CAIiENLxsgQpofcdxHFl3HZmq_sqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY</id>
-        <link href="https://mantan-web.jp/article/20211202dog00m200082000c.html"/>
-        <updated>2021-12-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味  MANTANWEB]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OFFICIAL WEB SITE｜STU48 FAN CLUB - ニュース | STU48 OFFICIAL WEB SITE]]></title>
         <id>CBMiJmh0dHBzOi8vc3Auc3R1NDguY29tL25ld3MvZGV0YWlsLzExMTAw0gEA</id>
         <link href="https://sp.stu48.com/news/detail/11100"/>
@@ -1837,41 +1837,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円 - 食品産業新聞社]]></title>
-        <id>CBMiRmh0dHBzOi8vd3d3LnNzbnAuY28uanAvbmV3cy9mb29kc2VydmljZS8yMDIxLzEyLzIwMjEtMTIwMi0xNjU0LTE0Lmh0bWzSAQA</id>
-        <link href="https://www.ssnp.co.jp/news/foodservice/2021/12/2021-1202-1654-14.html"/>
+        <title type="html"><![CDATA[機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味 - MANTANWEB]]></title>
+        <id>CAIiENLxsgQpofcdxHFl3HZmq_sqGQgEKhAIACoHCAow-ZCTCzDDpKgDMNf0vwY</id>
+        <link href="https://mantan-web.jp/article/20211202dog00m200082000c.html"/>
         <updated>2021-12-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円  食品産業新聞社]]></summary>
+        <summary type="html"><![CDATA[機動戦士ガンダム 閃光のハサウェイ：第2部の制作状況、公開時期は？ 「サン オブ ブライト」の意味  MANTANWEB]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[［速報］AWS、JupyterLab IDEベースの新サービス「SageMaker Studio Lab」無料提供を発表、ブラウザで機械学習を学び試せる。AWS re:Invent 2021]]></title>
-        <id>https://www.publickey1.jp/blog/21/awsjupyterlab_idesagemaker_studio_labaws_reinvent_2021.html</id>
-        <link href="https://www.publickey1.jp/blog/21/awsjupyterlab_idesagemaker_studio_labaws_reinvent_2021.html"/>
-        <updated>2021-12-01T19:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、機械学習の実行環境を提供する新サービス「SageMaker Studio Lab」を無料で提供すると、開催中のイベント「AWS re:Invent 2021」で発表しました。   Sage...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、新たな責任共有モデルの「Amazon RDS Custom」をSQL Serverへも拡大。マネージドサービスながらOSへのSSHなども可能。AWS re:Invent 2021]]></title>
-        <id>https://www.publickey1.jp/blog/21/awsamazon_rds_customsql_serverossshaws_reinvent_2021.html</id>
-        <link href="https://www.publickey1.jp/blog/21/awsamazon_rds_customsql_serverossshaws_reinvent_2021.html"/>
-        <updated>2021-12-01T18:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、ユーザーがOSやデータベースの構成やバージョンをカスタマイズ可能なマネージドサービス「Amazon RDS Custom」をマイクロソフトのSQL Serverに対応させた「Amazon ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joshin webを騙るフィッシングが報告。画面を完全コピペのため注意を（Impress Watch） - Yahoo!ニュース - Yahoo!ニュース]]></title>
-        <id>CBMiSmh0dHBzOi8vbmV3cy55YWhvby5jby5qcC9hcnRpY2xlcy9mZjdiZDJmNzI4ZmYxNzU4ODgxM2IxMDlkMjBhNWM4ZGM2MTVhMjcy0gEA</id>
-        <link href="https://news.yahoo.co.jp/articles/ff7bd2f728ff17588813b109d20a5c8dc615a272"/>
-        <updated>2021-12-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joshin webを騙るフィッシングが報告。画面を完全コピペのため注意を（Impress Watch） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <title type="html"><![CDATA[モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円 - 食品産業新聞社]]></title>
+        <id>CBMiRmh0dHBzOi8vd3d3LnNzbnAuY28uanAvbmV3cy9mb29kc2VydmljZS8yMDIxLzEyLzIwMjEtMTIwMi0xNjU0LTE0Lmh0bWzSAQA</id>
+        <link href="https://www.ssnp.co.jp/news/foodservice/2021/12/2021-1202-1654-14.html"/>
+        <updated>2021-12-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モスバーガー×リラックマ「2022モス福袋」はWEB事前予約、トートバッグ・ブランケット・パスケース・メモ帳に3000円分食事券付きで3000円  食品産業新聞社]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1897,10 +1877,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最短5日でキャンペーンが開催できる！Web抽選システム「SUGUU（スグー）」 - PR TIMES]]></title>
+        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMDEuMDAwMDkxMTAwLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAwMS4wMDAwOTExMDAuaHRtbA</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000091100.html"/>
+        <updated>2021-12-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最短5日でキャンペーンが開催できる！Web抽選システム「SUGUU（スグー）」  PR TIMES]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ホームページリニューアル記念「【第4弾】＜とうほう＞投資信託WEBご契約キャンペーン」の実施について - 東邦銀行]]></title>
         <id>CBMiTGh0dHBzOi8vd3d3LnRvaG9iYW5rLmNvLmpwL2Ntc19zb3VyY2UvZGF0YS9uZXdzcmVsZWFzZS9kZXRhaWwvMjAyMS8xNDQ4Lmh0bWzSAQA</id>
         <link href="https://www.tohobank.co.jp/cms_source/data/newsrelease/detail/2021/1448.html"/>
-        <updated>2021-11-30T06:02:10.000Z</updated>
+        <updated>2021-11-30T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[ホームページリニューアル記念「【第4弾】＜とうほう＞投資信託WEBご契約キャンペーン」の実施について  東邦銀行]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
@@ -1917,31 +1907,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[よし、北海道を飲もう！～ワインの神に愛される北の大地 - NHK NEWS WEB]]></title>
-        <id>CBMiPmh0dHBzOi8vd3d3My5uaGsub3IuanAvbmV3cy9odG1sLzIwMjExMTI2L2sxMDAxMzM2MDE3MTAwMC5odG1s0gFCaHR0cHM6Ly93d3czLm5oay5vci5qcC9uZXdzL2h0bWwvMjAyMTExMjYvYW1wL2sxMDAxMzM2MDE3MTAwMC5odG1s</id>
-        <link href="https://www3.nhk.or.jp/news/html/20211126/k10013360171000.html"/>
-        <updated>2021-11-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[よし、北海道を飲もう！～ワインの神に愛される北の大地  NHK NEWS WEB]]></summary>
+        <title type="html"><![CDATA[トヨタ ランドクルーザーは悪路になるほど活き活きする頼もしい相棒 - Webモーターマガジン - motormagazine.co.jp]]></title>
+        <id>CBMiLGh0dHBzOi8vd2ViLm1vdG9ybWFnYXppbmUuY28uanAvX2N0LzE3NDk3OTEw0gEA</id>
+        <link href="https://web.motormagazine.co.jp/_ct/17497910"/>
+        <updated>2021-11-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トヨタ ランドクルーザーは悪路になるほど活き活きする頼もしい相棒 - Webモーターマガジン  motormagazine.co.jp]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「から揚げの天才」がクリスマスパーティープレート販売！アプリ・WEBからの予約でさらにお得に！！ - PR TIMES]]></title>
-        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDA1MDguMDAwMDA5MjE1Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDUwOC4wMDAwMDkyMTUuaHRtbA</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000508.000009215.html"/>
+        <title type="html"><![CDATA[アバー・インフォメーション、高品質なWeb会議カメラをよりお求めやすい価格でご提供 - PR TIMES]]></title>
+        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMjQuMDAwMDE4MzMxLmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAyNC4wMDAwMTgzMzEuaHRtbA</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000024.000018331.html"/>
         <updated>2021-11-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「から揚げの天才」がクリスマスパーティープレート販売！アプリ・WEBからの予約でさらにお得に！！  PR TIMES]]></summary>
-        <author>
-            <name>"web" - Google ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20~30代を対象にWebマーケティングのスキル習得に関する調査を実施 独学者の約5割が「実務での活かし方」に悩み - PR TIMES]]></title>
-        <id>CBMiOmh0dHBzOi8vcHJ0aW1lcy5qcC9tYWluL2h0bWwvcmQvcC8wMDAwMDAwMTAuMDAwMDQzNTE0Lmh0bWzSAT5odHRwczovL3BydGltZXMuanAvbWFpbi9odG1sL3JkL2FtcC9wLzAwMDAwMDAxMC4wMDAwNDM1MTQuaHRtbA</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000010.000043514.html"/>
-        <updated>2021-11-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[20~30代を対象にWebマーケティングのスキル習得に関する調査を実施 独学者の約5割が「実務での活かし方」に悩み  PR TIMES]]></summary>
+        <summary type="html"><![CDATA[アバー・インフォメーション、高品質なWeb会議カメラをよりお求めやすい価格でご提供  PR TIMES]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
@@ -1952,6 +1932,16 @@
         <link href="https://news.yahoo.co.jp/articles/b2482ff0e9223d7c35d11234517a9aff73e1ca3d"/>
         <updated>2021-11-19T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[副業Webライターが時給240円から月5万円にするために実践した5つのこと（ウォーカープラス） - Yahoo!ニュース  Yahoo!ニュース]]></summary>
+        <author>
+            <name>"web" - Google ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤマト、「宅配便をスマホで送る」がWeb領収書対応。Appleウォレットも - Impress Watch]]></title>
+        <id>CAIiEIx30SqpnL6RnuKah_ZOJs0qGQgEKhAIACoHCAow7Z2TCzCN26gDMNyzvwY</id>
+        <link href="https://www.watch.impress.co.jp/docs/news/1366288.html"/>
+        <updated>2021-11-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤマト、「宅配便をスマホで送る」がWeb領収書対応。Appleウォレットも  Impress Watch]]></summary>
         <author>
             <name>"web" - Google ニュース</name>
         </author>
